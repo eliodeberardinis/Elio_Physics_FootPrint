@@ -1,0 +1,360 @@
+﻿Log file open, 03/21/17 14:53:55
+LogInit:Display: Running engine for game: Footprints
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-337737768) SRandInit(-337737768).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.058869
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.15-CL-3348071
+LogInit: Engine Version: 4.15.1-3348071+++UE4+Release-4.15
+LogInit: Compatible Engine Version: 4.15.0-3299760+++UE4+Release-4.15
+LogInit: Net CL: 3299760
+LogDevObjectVersion: Number of dev versions registered: 14
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 8
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 14
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 22
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 3
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogInit: Compiled (64-bit): Mar 15 2017 16:52:47
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.15
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: E:/UE_4.15/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.03.21-14.53.56:794][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.21-14.53.56:794][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.03.21-14.53.56:851][  0]LogInit: Computer: ELIO-GOLD
+[2017.03.21-14.53.56:851][  0]LogInit: User: Elio
+[2017.03.21-14.53.56:851][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.03.21-14.53.56:851][  0]LogInit: High frequency timer resolution =2.338335 MHz
+[2017.03.21-14.53.56:851][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.03.21-14.53.56:851][  0]LogMemory: Platform Memory Stats for Windows
+[2017.03.21-14.53.56:851][  0]LogMemory: Process Physical Memory: 262.97 MB used, 262.97 MB peak
+[2017.03.21-14.53.56:851][  0]LogMemory: Process Virtual Memory: 262.38 MB used, 262.38 MB peak
+[2017.03.21-14.53.56:851][  0]LogMemory: Physical Memory: 6816.17 MB used,  1278.25 MB free, 8094.41 MB total
+[2017.03.21-14.53.56:851][  0]LogMemory: Virtual Memory: 643.04 MB used,  1278.25 MB free, 134217728.00 MB total
+[2017.03.21-14.53.56:942][  0]LogTextLocalizationManager: No specific translations for ('en-SG') exist, so ('en') translations will be used.
+[2017.03.21-14.53.57:832][  0]LogD3D11RHI: D3D11 adapters:
+[2017.03.21-14.53.57:872][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2017.03.21-14.53.57:872][  0]LogD3D11RHI:       4064/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.03.21-14.53.57:878][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2017.03.21-14.53.57:878][  0]LogD3D11RHI:       128/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.03.21-14.53.57:880][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.03.21-14.53.57:880][  0]LogD3D11RHI:       0/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.03.21-14.53.57:880][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.03.21-14.53.57:888][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.03.21-14.53.57:888][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2017.03.21-14.53.57:888][  0]LogWindows: EnumDisplayDevices:
+[2017.03.21-14.53.57:888][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2017.03.21-14.53.57:889][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2017.03.21-14.53.57:889][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2017.03.21-14.53.57:889][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.03.21-14.53.57:889][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2017.03.21-14.53.57:889][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.03.21-14.53.57:889][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.03.21-14.53.57:889][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.03.21-14.53.57:909][  0]LogD3D11RHI: Async texture creation enabled
+[2017.03.21-14.53.57:928][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.03.21-14.53.57:929][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../Elio_Physics_FootPrint/Footprints/Intermediate/Shaders/WorkingDirectory/9184/).
+[2017.03.21-14.53.57:929][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Elio/AppData/Local/Temp/UnrealShaderWorkingDir/8C3032D64FD044FF5D0F83B03F4F9EB1/'.
+[2017.03.21-14.53.57:929][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.03.21-14.53.59:275][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.03.21-14.53.59:333][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.03.21-14.53.59:393][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.03.21-14.53.59:455][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.03.21-14.53.59:521][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.03.21-14.53.59:581][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.03.21-14.53.59:640][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.03.21-14.53.59:704][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.03.21-14.53.59:759][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.03.21-14.53.59:822][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.03.21-14.53.59:884][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.03.21-14.53.59:941][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.03.21-14.54.00:017][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.03.21-14.54.00:076][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.03.21-14.54.00:137][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.03.21-14.54.00:256][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.03.21-14.54.00:256][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.03.21-14.54.00:300][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.03.21-14.54.00:401][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.03.21-14.54.00:437][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.03.21-14.54.00:496][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.03.21-14.54.00:556][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.03.21-14.54.00:614][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.03.21-14.54.00:674][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.03.21-14.54.00:674][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.03.21-14.54.01:107][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.03.21-14.54.01:182][  0]LogDerivedDataCache: Loaded boot cache 0.07s 50MB C:/Users/Elio/AppData/Local/UnrealEngine/4.15/DerivedDataCache/Boot.ddc.
+[2017.03.21-14.54.01:182][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Elio/AppData/Local/UnrealEngine/4.15/DerivedDataCache/Boot.ddc
+[2017.03.21-14.54.01:182][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Elio_Physics_FootPrint/Footprints/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.03.21-14.54.01:182][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.03.21-14.54.01:182][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Elio_Physics_FootPrint/Footprints/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.03.21-14.54.01:182][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.03.21-14.54.01:206][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.03.21-14.54.01:220][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Elio/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.03.21-14.54.01:234][  0]LogSlate: Using Freetype 2.6.0
+[2017.03.21-14.54.01:235][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.21-14.54.01:235][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.21-14.54.01:664][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.21-14.54.01:668][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.03.21-14.54.01:902][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.03.21-14.54.01:948][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.03.21-14.54.01:997][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.03.21-14.54.01:997][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.03.21-14.54.01:997][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.03.21-14.54.02:681][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3299760, ProjectName: footprints, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 2250358
+[2017.03.21-14.54.02:724][  0]LogAssetRegistry: FAssetRegistry took 0.0213 seconds to start up
+[2017.03.21-14.54.02:825][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.075933 seconds
+[2017.03.21-14.54.02:834][  0]LogUObjectArray: 32493 objects as part of root set at end of initial load.
+[2017.03.21-14.54.02:834][  0]LogUObjectAllocator: 7077024 out of 0 bytes used by permanent object pool.
+[2017.03.21-14.54.02:834][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.03.21-14.54.02:905][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.03.21-14.54.05:052][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.03.21-14.54.05:115][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.03.21-14.54.05:659][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.03.21-14.54.06:094][  0]SourceControl: Info Source control is disabled
+[2017.03.21-14.54.06:168][  0]SourceControl: Info Source control is disabled
+[2017.03.21-14.54.06:220][  0]SourceControl: Info Source control is disabled
+[2017.03.21-14.54.06:269][  0]SourceControl: Info Source control is disabled
+[2017.03.21-14.54.07:634][  0]LogEngine: Initializing Engine...
+[2017.03.21-14.54.07:634][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.03.21-14.54.07:902][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.03.21-14.54.07:910][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.21-14.54.07:926][  0]LogInit: FAudioDevice initialized.
+[2017.03.21-14.54.07:966][  0]LogDerivedDataCache: Saved boot cache 0.04s 50MB C:/Users/Elio/AppData/Local/UnrealEngine/4.15/DerivedDataCache/Boot.ddc.
+[2017.03.21-14.54.07:976][  0]LogInit: Texture streaming: Enabled
+[2017.03.21-14.54.08:063][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.03.21-14.54.08:186][  0]LogInit: Transaction tracking system initialized
+[2017.03.21-14.54.08:571][  0]BlueprintLog: New page: Editor Load
+[2017.03.21-14.54.09:708][  0]LocalizationService: Info Localization service is disabled
+[2017.03.21-14.54.10:441][  0]LogConsoleResponse:Display: 
+[2017.03.21-14.54.10:714][  0]LogFileCache: Scanning file cache for directory 'E:/Elio_Physics_FootPrint/Footprints/Content/' took 0.01s
+[2017.03.21-14.54.10:714][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.03.21-14.54.10:714][  0]LogCook:Display: Mobile HDR setting 1
+[2017.03.21-14.54.11:845][  0]SourceControl: Info Source control is disabled
+[2017.03.21-14.54.11:845][  0]Cmd: MAP LOAD FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.21-14.54.11:854][  0]LightingResults: New page: Lighting Build
+[2017.03.21-14.54.11:899][  0]MapCheck: New page: Map Check
+[2017.03.21-14.54.11:899][  0]LightingResults: New page: Lighting Build
+[2017.03.21-14.54.14:430][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.21-14.54.14:926][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.21-14.54.14:968][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.21-14.54.15:060][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 92.464ms to complete.
+[2017.03.21-14.54.15:060][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.215
+[2017.03.21-14.54.15:222][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.21-14.54.16:883][  0]LogCollectionManager: Loaded 0 collections in 0.001133 seconds
+[2017.03.21-14.54.17:367][  0]LogFileCache: Scanning file cache for directory 'E:/Elio_Physics_FootPrint/Footprints/Saved/Collections/' took 0.01s
+[2017.03.21-14.54.17:367][  0]LogFileCache: Scanning file cache for directory 'E:/Elio_Physics_FootPrint/Footprints/Content/Developers/Elio/Collections/' took 0.01s
+[2017.03.21-14.54.17:367][  0]LogFileCache: Scanning file cache for directory 'E:/Elio_Physics_FootPrint/Footprints/Content/Collections/' took 0.01s
+[2017.03.21-14.54.17:367][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000005 seconds
+[2017.03.21-14.54.17:432][  0]LogContentBrowser: Native class hierarchy populated in 0.0466 seconds. Added 2246 classes and 455 folders.
+[2017.03.21-14.54.17:615][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.03.21-14.54.17:617][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.001 s
+[2017.03.21-14.54.17:742][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.03.21-14.54.17:804][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.03.21-14.54.18:543][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.03.21-14.54.18:803][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.21-14.54.18:907][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.03.21-14.54.18:908][  0]LogLoad: (Engine Initialization) Total time: 24.73 seconds
+[2017.03.21-14.54.18:908][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.69 seconds
+[2017.03.21-14.54.18:908][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.03.21-14.54.18:908][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.03.21-14.54.18:925][  0]LogOcInput: OculusInput pre-init called
+[2017.03.21-14.54.19:173][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.03.21-14.54.19:177][  0]LogSlate: Took 0.000802 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.03.21-14.54.19:206][  0]LogSlate: Took 0.001027 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.03.21-14.54.19:248][  0]LogSlate: Took 0.006321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.03.21-14.54.20:522][  0]LogRenderer: Reallocating scene render targets to support 1012x484 NumSamples 1 (Frame:2).
+[2017.03.21-14.54.21:768][  1]LogSlate: Took 0.000721 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.03.21-14.54.21:921][  4]LogAssetRegistry: Asset discovery search completed in 19.2192 seconds
+[2017.03.21-14.54.21:921][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000012 seconds (found 0 objects)
+[2017.03.21-14.54.21:921][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2017.03.21-14.54.39:673][ 20]LogSlate: Took 0.000324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.03.21-14.54.40:456][ 20]LogSlate: Took 0.000403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.03.21-14.54.40:933][ 20]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 112 classes and 0 folders.
+[2017.03.21-14.54.43:136][ 20]LogSlate: Took 0.011447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.03.21-14.54.44:624][ 21]LogSlate: Took 0.032661 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.03.21-15.00.28:313][ 27]LogRenderer: Reallocating scene render targets to support 1012x684 NumSamples 1 (Frame:9007).
+[2017.03.21-15.04.16:141][664]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.21-15.04.16:275][664]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.21-15.04.16:285][664]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.21-15.04.16:362][664]PIE: New page: PIE session: ThirdPersonExampleMap (21 Mar 2017 3:04:16 pm)
+[2017.03.21-15.04.16:379][664]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.21-15.04.16:536][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.157457s)
+[2017.03.21-15.04.16:538][664]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.21-15.04.16:538][664]LogPlayLevel: PIE: World Init took: (0.001653s)
+[2017.03.21-15.04.16:551][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.172876s)
+[2017.03.21-15.04.16:634][664]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.21-15.04.16:644][664]LogInit: FAudioDevice initialized.
+[2017.03.21-15.04.16:826][664]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.03.21-15.04.16:963][664]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.21-15.04.16
+[2017.03.21-15.04.16:980][664]LogWorld: Bringing up level for play took: 0.022356
+[2017.03.21-15.04.17:398][664]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2017.03.21-15.04.17:466][664]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.656
+[2017.03.21-15.04.17:467][664]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.21-15.04.40:333][996]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.21-15.04.40:497][996]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.21-15.15.32:171][358]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.03.21-15.15.32:678][358]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.21-15.15.33:101][358]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.03.21-15.16.15:520][415]LogSlate: Took 0.001011 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.03.21-15.16.19:700][568]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.03.21-15.16.19:754][568]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.03.21-15.21.16:660][407]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.143
+[2017.03.21-15.21.16:733][407]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPersonWalk] ([1] browsable assets)...
+[2017.03.21-15.21.16:801][407]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk]
+[2017.03.21-15.21.16:801][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPersonWalk]
+[2017.03.21-15.21.16:868][407]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2017.03.21-15.21.17:024][407]LogSavePackage: Save=200.98ms
+[2017.03.21-15.21.17:024][407]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonWalk_Auto16E7F676F48696260310F14A83508B7CA.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Mannequin/Animations/ThirdPersonWalk_Auto1.uasset'
+[2017.03.21-15.21.17:025][407]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Mannequin/Animations/ThirdPersonWalk_Auto1.uasset
+[2017.03.21-15.21.17:025][407]LogFileHelpers: Auto-saving content packages took 0.364
+[2017.03.21-15.25.48:471][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPersonWalk" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPersonWalk.uasset" SILENT=true
+[2017.03.21-15.25.48:498][984]LogSavePackage: Save=11.55ms
+[2017.03.21-15.25.48:498][984]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonWalk9E97C66B43BD30DA1BA0E3A6BE6DD50A.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPersonWalk.uasset'
+[2017.03.21-15.25.48:502][984]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPersonWalk.uasset
+[2017.03.21-15.39.43:091][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPersonRun" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPersonRun.uasset" SILENT=true
+[2017.03.21-15.39.43:178][964]LogSavePackage: Save=79.65ms
+[2017.03.21-15.39.43:178][964]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonRun6EC1C92B42B45627021AB2BFF8C54C25.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPersonRun.uasset'
+[2017.03.21-15.39.43:181][964]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPersonRun.uasset
+[2017.03.21-15.44.12:004][747]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.070
+[2017.03.21-15.44.12:008][747]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPerson_AnimBP] ([1] browsable assets)...
+[2017.03.21-15.44.12:067][747]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2017.03.21-15.44.12:067][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPerson_AnimBP]
+[2017.03.21-15.44.12:389][747]LogSavePackage: Save=308.18ms
+[2017.03.21-15.44.12:389][747]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPerson_AnimBP_Auto22089E0FA4E4B707728F4C99656E57BC3.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto2.uasset'
+[2017.03.21-15.44.12:391][747]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto2.uasset
+[2017.03.21-15.44.12:392][747]LogFileHelpers: Auto-saving content packages took 0.387
+[2017.03.21-15.46.20:444][580]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.21-15.46.20:451][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.21-15.46.20:452][580]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.21-15.46.20:452][580]LogPlayLevel: [PlayLevel] Compiling ThirdPerson_AnimBP before play...
+[2017.03.21-15.46.20:889][580]LogPlayLevel: PlayLevel: Blueprint regeneration took 437 ms (1 blueprints)
+[2017.03.21-15.46.20:890][580]PIE: New page: PIE session: ThirdPersonExampleMap (21 Mar 2017 3:46:20 pm)
+[2017.03.21-15.46.20:890][580]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.21-15.46.20:930][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040327s)
+[2017.03.21-15.46.20:931][580]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.21-15.46.20:932][580]LogPlayLevel: PIE: World Init took: (0.001713s)
+[2017.03.21-15.46.20:932][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.042429s)
+[2017.03.21-15.46.20:984][580]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.21-15.46.20:995][580]LogInit: FAudioDevice initialized.
+[2017.03.21-15.46.21:034][580]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.03.21-15.46.21:037][580]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.21-15.46.21
+[2017.03.21-15.46.21:037][580]LogWorld: Bringing up level for play took: 0.002525
+[2017.03.21-15.46.21:039][580]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.229
+[2017.03.21-15.46.21:039][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.21-15.46.25:426][784]LogUObjectBase:Warning: NULL object
+[2017.03.21-15.46.25:985][784]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.558 s
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: === Handled ensure: ===
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: 
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.15+Compile\Sync\Engine\Source\Editor\Kismet\Private\SKismetInspector.cpp] [Line: 540]
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: Object in KismetInspector is invalid, see TTP 281915
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: Stack: 
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-Core.dll!0x00000000AC6895E6
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-Core.dll!0x00000000AC439B82
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-Core.dll!0x00000000AC44B666
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-Kismet.dll!0x00000000A8718AB1
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-Kismet.dll!0x00000000A87154D6
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C02
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D778E
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABF1CECC
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7ABE
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D9060
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7C08
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D778E
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D9060
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABF991BD
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D778E
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D9060
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABF991BD
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D778E
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D9060
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABF991BD
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7ABE
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D778E
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D9060
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7C08
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D778E
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D778E
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABF1CECC
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7ABE
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D9060
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7C08
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D778E
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D9060
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABF991BD
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7ABE
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D778E
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D9060
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7C08
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D9060
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7C08
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7ABE
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D778E
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7CAA
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABD630FD
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABD6411C
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABD9CF94
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABD641C0
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABDC2674
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABDC15C0
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor.exe!0x00000000CB19EA1D
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor.exe!0x00000000CB18EB40
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor.exe!0x00000000CB18EBBA
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor.exe!0x00000000CB1A0A29
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor.exe!0x00000000CB1A22B6
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: KERNEL32.DLL!0x000000000E898364
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: ntdll.dll!0x000000000FF570D1
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: 
+[2017.03.21-15.46.25:996][784]LogStats:                SubmitErrorReport -  0.000 s

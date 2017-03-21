@@ -240,3 +240,121 @@ LogInit: Object subsystem initialized
 [2017.03.21-15.25.48:498][984]LogSavePackage: Save=11.55ms
 [2017.03.21-15.25.48:498][984]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonWalk9E97C66B43BD30DA1BA0E3A6BE6DD50A.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPersonWalk.uasset'
 [2017.03.21-15.25.48:502][984]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPersonWalk.uasset
+[2017.03.21-15.39.43:091][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPersonRun" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPersonRun.uasset" SILENT=true
+[2017.03.21-15.39.43:178][964]LogSavePackage: Save=79.65ms
+[2017.03.21-15.39.43:178][964]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonRun6EC1C92B42B45627021AB2BFF8C54C25.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPersonRun.uasset'
+[2017.03.21-15.39.43:181][964]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPersonRun.uasset
+[2017.03.21-15.44.12:004][747]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.070
+[2017.03.21-15.44.12:008][747]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPerson_AnimBP] ([1] browsable assets)...
+[2017.03.21-15.44.12:067][747]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2017.03.21-15.44.12:067][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPerson_AnimBP]
+[2017.03.21-15.44.12:389][747]LogSavePackage: Save=308.18ms
+[2017.03.21-15.44.12:389][747]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPerson_AnimBP_Auto22089E0FA4E4B707728F4C99656E57BC3.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto2.uasset'
+[2017.03.21-15.44.12:391][747]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto2.uasset
+[2017.03.21-15.44.12:392][747]LogFileHelpers: Auto-saving content packages took 0.387
+[2017.03.21-15.46.20:444][580]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.21-15.46.20:451][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.21-15.46.20:452][580]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.21-15.46.20:452][580]LogPlayLevel: [PlayLevel] Compiling ThirdPerson_AnimBP before play...
+[2017.03.21-15.46.20:889][580]LogPlayLevel: PlayLevel: Blueprint regeneration took 437 ms (1 blueprints)
+[2017.03.21-15.46.20:890][580]PIE: New page: PIE session: ThirdPersonExampleMap (21 Mar 2017 3:46:20 pm)
+[2017.03.21-15.46.20:890][580]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.21-15.46.20:930][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040327s)
+[2017.03.21-15.46.20:931][580]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.21-15.46.20:932][580]LogPlayLevel: PIE: World Init took: (0.001713s)
+[2017.03.21-15.46.20:932][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.042429s)
+[2017.03.21-15.46.20:984][580]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.21-15.46.20:995][580]LogInit: FAudioDevice initialized.
+[2017.03.21-15.46.21:034][580]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.03.21-15.46.21:037][580]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.21-15.46.21
+[2017.03.21-15.46.21:037][580]LogWorld: Bringing up level for play took: 0.002525
+[2017.03.21-15.46.21:039][580]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.229
+[2017.03.21-15.46.21:039][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.21-15.46.25:426][784]LogUObjectBase:Warning: NULL object
+[2017.03.21-15.46.25:985][784]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.558 s
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: === Handled ensure: ===
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: 
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.15+Compile\Sync\Engine\Source\Editor\Kismet\Private\SKismetInspector.cpp] [Line: 540]
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: Object in KismetInspector is invalid, see TTP 281915
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: Stack: 
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-Core.dll!0x00000000AC6895E6
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-Core.dll!0x00000000AC439B82
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-Core.dll!0x00000000AC44B666
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-Kismet.dll!0x00000000A8718AB1
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-Kismet.dll!0x00000000A87154D6
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C02
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D778E
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABF1CECC
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7ABE
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D9060
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7C08
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D778E
+[2017.03.21-15.46.25:985][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D9060
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABF991BD
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D778E
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D9060
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABF991BD
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D778E
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D9060
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABF991BD
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7ABE
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D778E
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D9060
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7C08
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D778E
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D778E
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABF1CECC
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7ABE
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D9060
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7C08
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D778E
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D9060
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABF991BD
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7ABE
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D778E
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D9060
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7C08
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D9060
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7C08
+[2017.03.21-15.46.25:986][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7ABE
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D778E
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D7CAA
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-SlateCore.dll!0x00000000C84D8C55
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABD630FD
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABD6411C
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABD9CF94
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABD641C0
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABDC2674
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor-Slate.dll!0x00000000ABDC15C0
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor.exe!0x00000000CB19EA1D
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor.exe!0x00000000CB18EB40
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor.exe!0x00000000CB18EBBA
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor.exe!0x00000000CB1A0A29
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: UE4Editor.exe!0x00000000CB1A22B6
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: KERNEL32.DLL!0x000000000E898364
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: ntdll.dll!0x000000000FF570D1
+[2017.03.21-15.46.25:987][784]LogOutputDevice:Error: 
+[2017.03.21-15.46.25:996][784]LogStats:                SubmitErrorReport -  0.000 s
