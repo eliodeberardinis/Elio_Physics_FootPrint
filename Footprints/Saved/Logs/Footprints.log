@@ -358,3 +358,498 @@ LogInit: Object subsystem initialized
 [2017.03.21-15.46.25:987][784]LogOutputDevice:Error: ntdll.dll!0x000000000FF570D1
 [2017.03.21-15.46.25:987][784]LogOutputDevice:Error: 
 [2017.03.21-15.46.25:996][784]LogStats:                SubmitErrorReport -  0.000 s
+[2017.03.21-15.46.31:533][784]LogStats:                    SendNewReport -  5.537 s
+[2017.03.21-15.46.31:533][784]LogStats:             FDebug::EnsureFailed -  6.107 s
+[2017.03.21-15.46.35:369][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_AnimBP" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" SILENT=true
+[2017.03.21-15.46.35:426][950]LogSavePackage: Save=53.13ms
+[2017.03.21-15.46.35:426][950]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPerson_AnimBP97EA3BC24161C4F475DE4F8A99D70D33.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2017.03.21-15.46.35:431][950]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+[2017.03.21-15.46.48:968][527]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.46.49:203][541]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Left
+[2017.03.21-15.46.49:486][558]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.46.50:487][618]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Left
+[2017.03.21-15.46.50:803][637]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.46.51:120][656]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Left
+[2017.03.21-15.46.51:403][673]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.46.51:670][689]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Left
+[2017.03.21-15.46.51:720][692]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Left
+[2017.03.21-15.46.52:670][749]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.46.52:720][752]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.46.53:020][770]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Left
+[2017.03.21-15.46.53:320][788]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.46.53:620][806]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Left
+[2017.03.21-15.46.53:920][824]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.46.54:187][840]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Left
+[2017.03.21-15.46.54:220][842]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Left
+[2017.03.21-15.46.55:003][889]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.46.55:320][908]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Left
+[2017.03.21-15.46.58:254][ 84]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Left
+[2017.03.21-15.46.58:553][102]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.46.58:854][120]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Left
+[2017.03.21-15.46.59:154][138]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.46.59:453][156]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Left
+[2017.03.21-15.46.59:754][174]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.47.00:054][192]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Left
+[2017.03.21-15.47.01:642][287]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Left
+[2017.03.21-15.47.01:925][304]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.47.04:326][448]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.47.04:376][451]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.47.04:692][470]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Left
+[2017.03.21-15.47.05:842][539]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Left
+[2017.03.21-15.47.06:142][557]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.47.07:842][659]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.47.09:259][744]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.47.09:309][747]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.47.09:626][766]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Left
+[2017.03.21-15.47.09:859][780]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.47.09:892][782]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Right
+[2017.03.21-15.47.10:993][848]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Left
+[2017.03.21-15.47.13:878][ 21]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.21-15.47.13:915][ 21]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.21-15.53.26:682][ 70]LogSavePackage: Save=51.26ms
+[2017.03.21-15.53.26:682][ 70]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonCharacterC7598DB8435DBD9F760A10ABC1C29DC8.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.03.21-15.53.26:685][ 70]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.03.21-15.54.04:911][ 12]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_2.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2017.03.21-15.54.05:163][ 12]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.Actor_2.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2017.03.21-15.55.22:326][597]LogSavePackage: Save=181.86ms
+[2017.03.21-15.55.22:326][597]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonExampleMap_Auto3F21B2E78476B5A82A188F9B22472890B.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2017.03.21-15.55.22:328][597]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap
+[2017.03.21-15.55.22:343][597]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.659
+[2017.03.21-15.55.22:343][597]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.659
+[2017.03.21-15.55.22:352][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPerson_AnimBP] ([1] browsable assets)...
+[2017.03.21-15.55.22:398][597]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2017.03.21-15.55.22:398][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPerson_AnimBP]
+[2017.03.21-15.55.22:454][597]LogSavePackage: Save=46.72ms
+[2017.03.21-15.55.22:454][597]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPerson_AnimBP_Auto3E3C8D908498210CD99B169BAEBEBAA92.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto3.uasset'
+[2017.03.21-15.55.22:455][597]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto3.uasset
+[2017.03.21-15.55.22:455][597]LogFileHelpers: Auto-saving content packages took 0.105
+[2017.03.21-15.59.24:772][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_AnimBP" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" SILENT=true
+[2017.03.21-15.59.24:819][449]LogSavePackage: Save=42.84ms
+[2017.03.21-15.59.24:819][449]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPerson_AnimBP788422EA47BD9DBB083E56B87F2D5296.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2017.03.21-15.59.24:822][449]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+[2017.03.21-15.59.52:230][ 30]LogSavePackage: Save=131.21ms
+[2017.03.21-15.59.52:230][ 30]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonCharacter94D19A6B45E00C6DB36C64A312548BF5.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.03.21-15.59.52:234][ 30]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.03.21-15.59.55:068][195]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.21-15.59.55:075][195]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.21-15.59.55:075][195]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.21-15.59.55:075][195]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2017.03.21-15.59.55:121][195]LogPlayLevel: [PlayLevel]   Compiling ThirdPerson_AnimBP as a dependent...
+[2017.03.21-15.59.55:553][195]LogPlayLevel: PlayLevel: Blueprint regeneration took 478 ms (2 blueprints)
+[2017.03.21-15.59.55:553][195]PIE: New page: PIE session: ThirdPersonExampleMap (21 Mar 2017 3:59:55 pm)
+[2017.03.21-15.59.55:553][195]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.21-15.59.55:587][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033743s)
+[2017.03.21-15.59.55:588][195]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.21-15.59.55:589][195]LogPlayLevel: PIE: World Init took: (0.001435s)
+[2017.03.21-15.59.55:589][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035607s)
+[2017.03.21-15.59.55:646][195]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.21-15.59.55:659][195]LogInit: FAudioDevice initialized.
+[2017.03.21-15.59.55:694][195]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.03.21-15.59.55:697][195]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.21-15.59.55
+[2017.03.21-15.59.55:697][195]LogWorld: Bringing up level for play took: 0.002714
+[2017.03.21-15.59.55:699][195]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.889
+[2017.03.21-15.59.55:699][195]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.21-15.59.58:713][373]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-15.59.58:746][375]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-15.59.59:029][392]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-15.59.59:062][394]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.00:930][506]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.01:213][523]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.01:530][542]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.01:814][559]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.02:130][578]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.03:763][676]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.04:047][693]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.04:363][712]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.04:597][726]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.04:630][728]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.06:797][858]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.07:114][877]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.07:397][894]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.07:664][910]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.07:730][914]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.09:897][ 44]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.10:181][ 61]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.10:497][ 80]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.11:847][161]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.12:130][178]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.13:131][238]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.13:464][258]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.14:897][344]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.15:215][363]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.15:499][380]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.15:782][397]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.15:815][399]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.16:482][439]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.16:532][442]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.16:848][461]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.17:132][478]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.17:448][497]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.17:732][514]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.18:799][578]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.19:115][597]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.21:215][723]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.21:249][725]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.21:565][744]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.21:849][761]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.22:165][780]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.22:449][797]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.22:732][814]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.22:815][819]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.27:824][119]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.27:857][121]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.29:524][221]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.30:375][272]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.30:508][280]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.31:325][329]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.31:424][335]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.31:875][362]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.32:191][381]LogBlueprintUserMessages: [ThirdPersonCharacter_167] left
+[2017.03.21-16.00.32:474][398]LogBlueprintUserMessages: [ThirdPersonCharacter_167] right
+[2017.03.21-16.00.34:893][543]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.21-16.00.34:937][543]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.21-16.00.38:224][719]LogSavePackage: Save=137.22ms
+[2017.03.21-16.00.38:224][719]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonExampleMapCD70955A4A72270EB7C15BA979B5B4F2.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.03.21-16.00.38:228][719]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.03.21-16.00.38:715][719]LogSavePackage: Save=459.41ms
+[2017.03.21-16.00.38:715][719]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonExampleMap_BuiltData8934F25849178240727891BA08B347CF.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.03.21-16.00.38:717][719]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.03.21-16.01.36:229][111]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.21-16.01.36:238][111]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.21-16.01.36:238][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.21-16.01.36:238][111]PIE: New page: PIE session: ThirdPersonExampleMap (21 Mar 2017 4:01:36 pm)
+[2017.03.21-16.01.36:238][111]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.21-16.01.36:263][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024898s)
+[2017.03.21-16.01.36:265][111]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.21-16.01.36:265][111]LogPlayLevel: PIE: World Init took: (0.001300s)
+[2017.03.21-16.01.36:265][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026539s)
+[2017.03.21-16.01.36:307][111]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.21-16.01.36:317][111]LogInit: FAudioDevice initialized.
+[2017.03.21-16.01.36:349][111]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.03.21-16.01.36:352][111]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.21-16.01.36
+[2017.03.21-16.01.36:353][111]LogWorld: Bringing up level for play took: 0.003275
+[2017.03.21-16.01.36:353][111]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.456
+[2017.03.21-16.01.36:354][111]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.21-16.01.37:970][205]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.21-16.01.38:004][205]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.21-16.03.26:529][849]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Elio/Desktop/BasicFootPrint.png)
+[2017.03.21-16.03.26:557][849]LogTexture:Display: Building textures: BasicFootPrint (AutoDXT, 512X512) - 128 MB total VRAM
+[2017.03.21-16.03.59:059][ 10]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Elio/Desktop/BasicFootPrint.png)
+[2017.03.21-16.03.59:078][ 10]LogTexture:Display: Building textures: BasicFootPrint (AutoDXT, 512X512) - 128 MB total VRAM
+[2017.03.21-16.04.17:710][499]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.04.17:734][499]LogTemp:Display: Added material ShaderMap 0x000002562B9A8100 with Material 0x0000025622608880 to ShaderMapsBeingCompiled
+[2017.03.21-16.04.17:788][499]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000002562B9A8100
+[2017.03.21-16.04.22:108][725]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.04.22:110][725]LogTemp:Display: Added material ShaderMap 0x00000255ACFC5600 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.04.22:129][725]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x00000255ACFC5600
+[2017.03.21-16.04.22:364][725]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.04.22:365][725]LogTemp:Display: Added material ShaderMap 0x000002559E720800 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.04.22:383][725]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000002559E720800
+[2017.03.21-16.04.22:383][725]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.04.22:411][725]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.03.21-16.04.22:412][725]LogTemp:Display: Added material ShaderMap 0x00000255A2BD8F00 with Material 0x000002562BE0D300 to ShaderMapsBeingCompiled
+[2017.03.21-16.04.22:416][725]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionTextureSample_0, GameThreadShaderMap 0x00000255A2BD8F00
+[2017.03.21-16.04.23:321][753]LogTemp:Display: Finished compile of shader map 0x000002562B9A8100
+[2017.03.21-16.04.23:321][753]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x000002562B9A8100, marking material BasicFootPrint_Mat as finished
+[2017.03.21-16.04.23:321][753]LogTemp:Display: Marking material as finished 0x0000025622608880
+[2017.03.21-16.04.23:324][753]LogTemp:Display: Finished compile of shader map 0x00000255ACFC5600
+[2017.03.21-16.04.23:324][753]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x00000255ACFC5600, marking material BasicFootPrint_Mat as finished
+[2017.03.21-16.04.23:324][753]LogTemp:Display: Marking material as finished 0x00000255ABD69080
+[2017.03.21-16.04.27:652][976]LogTemp:Display: Finished compile of shader map 0x000002559E720800
+[2017.03.21-16.04.27:652][976]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x000002559E720800, marking material BasicFootPrint_Mat as finished
+[2017.03.21-16.04.27:652][976]LogTemp:Display: Marking material as finished 0x00000255ABD69080
+[2017.03.21-16.04.27:711][977]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 81 instructions
+[2017.03.21-16.04.27:711][977]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.03.21-16.04.27:711][977]MaterialEditorStats: Info Texture samplers: 2/16
+[2017.03.21-16.04.28:258][  5]LogTemp:Display: Finished compile of shader map 0x00000255A2BD8F00
+[2017.03.21-16.04.28:258][  5]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionTextureSample_0 complete, GameThreadShaderMap 0x00000255A2BD8F00, marking material FMatExpressionPreview MaterialExpressionTextureSample_0 as finished
+[2017.03.21-16.04.28:258][  5]LogTemp:Display: Marking material as finished 0x000002562BE0D300
+[2017.03.21-16.04.39:686][557]LogMaterialEditor: Saving and Compiling material BasicFootPrint_Mat
+[2017.03.21-16.04.39:728][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BasicFootPrint_Mat" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/BasicFootPrint_Mat.uasset" SILENT=true
+[2017.03.21-16.04.39:758][557]LogSavePackage: Save=26.03ms
+[2017.03.21-16.04.39:758][557]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/BasicFootPrint_MatF0D3C2CD4B3D523189819E84D2BE15B3.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/BasicFootPrint_Mat.uasset'
+[2017.03.21-16.04.39:763][557]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/BasicFootPrint_Mat.uasset
+[2017.03.21-16.04.59:821][965]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.04.59:822][965]LogMaterial:Warning: Failed to compile Material /Engine/Transient.BasicFootPrint_Mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.03.21-16.04.59:822][965]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2017.03.21-16.04.59:838][965]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.04.59:838][965]LogMaterial:Warning: Failed to compile Material /Engine/Transient.BasicFootPrint_Mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.03.21-16.04.59:838][965]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2017.03.21-16.04.59:838][965]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.04.59:843][965]MaterialEditorStats:Error: Error [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2017.03.21-16.05.03:659][172]LogMaterialEditor: Saving and Compiling material BasicFootPrint_Mat
+[2017.03.21-16.05.13:176][172]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.05.13:176][172]LogMaterial:Warning: Failed to compile Material /Engine/Transient.BasicFootPrint_Mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.03.21-16.05.13:176][172]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2017.03.21-16.05.13:177][172]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.05.13:208][172]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.05.13:208][172]LogMaterial:Warning: Failed to compile Material /Game/BasicFootPrint_Mat.BasicFootPrint_Mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.03.21-16.05.13:208][172]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2017.03.21-16.05.13:210][172]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.05.13:211][172]LogMaterial:Warning: Failed to compile Material /Game/BasicFootPrint_Mat.BasicFootPrint_Mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.03.21-16.05.13:211][172]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2017.03.21-16.05.13:212][172]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.05.13:316][172]TextureStreamingBuild:Display: Compiling optional shaders took 0.002 seconds.
+[2017.03.21-16.05.13:493][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BasicFootPrint_Mat" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/BasicFootPrint_Mat.uasset" SILENT=true
+[2017.03.21-16.05.13:532][172]LogSavePackage: Save=13.60ms
+[2017.03.21-16.05.13:532][172]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/BasicFootPrint_MatAECE77984553B370C199A8A962D29E43.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/BasicFootPrint_Mat.uasset'
+[2017.03.21-16.05.13:536][172]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/BasicFootPrint_Mat.uasset
+[2017.03.21-16.05.43:362][ 56]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.05.43:363][ 56]LogMaterial:Warning: Failed to compile Material /Engine/Transient.BasicFootPrint_Mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.03.21-16.05.43:363][ 56]LogMaterial:Warning: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2017.03.21-16.05.43:363][ 56]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.06.19:847][ 89]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.06.19:848][ 89]LogTemp:Display: Added material ShaderMap 0x00000255B0FA6B00 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.06.19:879][ 89]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x00000255B0FA6B00
+[2017.03.21-16.06.19:883][ 89]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.06.19:884][ 89]LogTemp:Display: Added material ShaderMap 0x00000255B02DCB80 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.06.19:898][ 89]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x00000255B02DCB80
+[2017.03.21-16.06.19:899][ 89]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.06.24:100][318]LogMaterialEditor: Saving and Compiling material BasicFootPrint_Mat
+[2017.03.21-16.06.25:203][318]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.06.25:205][318]LogTemp:Display: Added material ShaderMap 0x00000255FA105280 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.06.25:259][318]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x00000255FA105280
+[2017.03.21-16.06.25:259][318]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.06.25:288][318]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.06.25:290][318]LogTemp:Display: Added material ShaderMap 0x000002560EB97580 with Material 0x00000255ABF4D480 to ShaderMapsBeingCompiled
+[2017.03.21-16.06.25:327][318]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000002560EB97580
+[2017.03.21-16.06.25:330][318]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.06.25:332][318]LogTemp:Display: Added material ShaderMap 0x00000256157F3200 with Material 0x00000255ABF4D480 to ShaderMapsBeingCompiled
+[2017.03.21-16.06.25:365][318]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x00000256157F3200
+[2017.03.21-16.06.25:367][318]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.06.25:426][318]TextureStreamingBuild:Display: Compiling optional shaders took 0.000 seconds.
+[2017.03.21-16.06.32:403][318]LogTemp:Display: Finished compile of shader map 0x00000256157F3200
+[2017.03.21-16.06.32:403][318]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x00000256157F3200, marking material BasicFootPrint_Mat as finished
+[2017.03.21-16.06.32:403][318]LogTemp:Display: Marking material as finished 0x00000255ABF4D480
+[2017.03.21-16.06.32:412][318]LogTemp:Display: Finished compile of shader map 0x00000255FA105280
+[2017.03.21-16.06.32:412][318]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x00000255FA105280, marking material BasicFootPrint_Mat as finished
+[2017.03.21-16.06.32:412][318]LogTemp:Display: Marking material as finished 0x00000255ABD69080
+[2017.03.21-16.06.32:416][318]LogTemp:Display: Finished compile of shader map 0x00000255B02DCB80
+[2017.03.21-16.06.32:416][318]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x00000255B02DCB80, marking material BasicFootPrint_Mat as finished
+[2017.03.21-16.06.32:416][318]LogTemp:Display: Marking material as finished 0x00000255ABD69080
+[2017.03.21-16.06.32:478][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BasicFootPrint_Mat" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/BasicFootPrint_Mat.uasset" SILENT=true
+[2017.03.21-16.06.32:498][318]LogSavePackage: Save=15.03ms
+[2017.03.21-16.06.32:498][318]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/BasicFootPrint_Mat2C5EF90546FC77E2F0C7F0B8F41B46C8.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/BasicFootPrint_Mat.uasset'
+[2017.03.21-16.06.32:500][318]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/BasicFootPrint_Mat.uasset
+[2017.03.21-16.06.32:563][318]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 46 instructions
+[2017.03.21-16.06.32:563][318]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 82 instructions
+[2017.03.21-16.06.32:563][318]MaterialEditorStats: Info Vertex shader: 81 instructions
+[2017.03.21-16.06.32:563][318]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.03.21-16.06.53:702][939]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.06.53:703][939]LogTemp:Display: Added material ShaderMap 0x000002560F0DD280 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.06.53:718][939]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000002560F0DD280
+[2017.03.21-16.06.53:718][939]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.06.53:722][939]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.06.53:723][939]LogTemp:Display: Added material ShaderMap 0x000002560ECCB580 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.06.53:737][939]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000002560ECCB580
+[2017.03.21-16.06.53:738][939]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.06.53:769][939]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.03.21-16.06.53:770][939]LogTemp:Display: Added material ShaderMap 0x0000025618337C80 with Material 0x0000025589387400 to ShaderMapsBeingCompiled
+[2017.03.21-16.06.53:774][939]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionTextureSample_0, GameThreadShaderMap 0x0000025618337C80
+[2017.03.21-16.06.57:061][114]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2017.03.21-16.06.57:062][114]LogTemp:Display: Added material ShaderMap 0x000002560EC0FC80 with Material 0x000002561576A800 to ShaderMapsBeingCompiled
+[2017.03.21-16.06.57:066][114]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionMultiply_0, GameThreadShaderMap 0x000002560EC0FC80
+[2017.03.21-16.07.04:265][513]LogTemp:Display: Finished compile of shader map 0x000002560ECCB580
+[2017.03.21-16.07.04:265][513]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x000002560ECCB580, marking material BasicFootPrint_Mat as finished
+[2017.03.21-16.07.04:265][513]LogTemp:Display: Marking material as finished 0x00000255ABD69080
+[2017.03.21-16.07.04:612][532]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.07.04:613][532]LogTemp:Display: Added material ShaderMap 0x000002562AF25980 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.07.04:639][532]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000002562AF25980
+[2017.03.21-16.07.04:639][532]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.07.04:731][533]LogTemp:Display: Finished compile of shader map 0x0000025618337C80
+[2017.03.21-16.07.04:731][533]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionTextureSample_0 complete, GameThreadShaderMap 0x0000025618337C80, marking material FMatExpressionPreview MaterialExpressionTextureSample_0 as finished
+[2017.03.21-16.07.04:731][533]LogTemp:Display: Marking material as finished 0x0000025589387400
+[2017.03.21-16.07.05:535][578]LogTemp:Display: Finished compile of shader map 0x000002560EC0FC80
+[2017.03.21-16.07.05:535][578]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionMultiply_0 complete, GameThreadShaderMap 0x000002560EC0FC80, marking material FMatExpressionPreview NULL as finished
+[2017.03.21-16.07.05:535][578]LogTemp:Display: Marking material as finished 0x000002561576A800
+[2017.03.21-16.07.11:799][934]LogTemp:Display: Finished compile of shader map 0x000002562AF25980
+[2017.03.21-16.07.11:800][934]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x000002562AF25980, marking material BasicFootPrint_Mat as finished
+[2017.03.21-16.07.11:800][934]LogTemp:Display: Marking material as finished 0x00000255ABD69080
+[2017.03.21-16.07.14:473][ 92]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.07.14:473][ 92]LogTemp:Display: Added material ShaderMap 0x000002560ECC9980 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.07.14:488][ 92]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000002560ECC9980
+[2017.03.21-16.07.14:488][ 92]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.07.14:491][ 92]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.07.14:492][ 92]LogTemp:Display: Added material ShaderMap 0x0000025618421980 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.07.14:506][ 92]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x0000025618421980
+[2017.03.21-16.07.14:507][ 92]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.07.14:532][ 92]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.03.21-16.07.14:533][ 92]LogTemp:Display: Added material ShaderMap 0x000002562AA26080 with Material 0x0000025589387400 to ShaderMapsBeingCompiled
+[2017.03.21-16.07.14:537][ 92]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionTextureSample_0, GameThreadShaderMap 0x000002562AA26080
+[2017.03.21-16.07.24:483][624]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
+[2017.03.21-16.07.24:485][624]LogTemp:Display: Added material ShaderMap 0x000002559AA1EB00 with Material 0x000002560EC35000 to ShaderMapsBeingCompiled
+[2017.03.21-16.07.24:489][624]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionMultiply_1, GameThreadShaderMap 0x000002559AA1EB00
+[2017.03.21-16.07.27:716][788]LogTemp:Display: Finished compile of shader map 0x0000025618421980
+[2017.03.21-16.07.27:716][788]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x0000025618421980, marking material BasicFootPrint_Mat as finished
+[2017.03.21-16.07.27:716][788]LogTemp:Display: Marking material as finished 0x00000255ABD69080
+[2017.03.21-16.07.28:120][811]LogTemp:Display: Finished compile of shader map 0x000002562AA26080
+[2017.03.21-16.07.28:121][811]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionTextureSample_0 complete, GameThreadShaderMap 0x000002562AA26080, marking material FMatExpressionPreview MaterialExpressionTextureSample_0 as finished
+[2017.03.21-16.07.28:121][811]LogTemp:Display: Marking material as finished 0x0000025589387400
+[2017.03.21-16.07.28:465][831]LogTemp:Display: Finished compile of shader map 0x000002559AA1EB00
+[2017.03.21-16.07.28:465][831]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionMultiply_1 complete, GameThreadShaderMap 0x000002559AA1EB00, marking material FMatExpressionPreview MaterialExpressionMultiply_1 as finished
+[2017.03.21-16.07.28:465][831]LogTemp:Display: Marking material as finished 0x000002560EC35000
+[2017.03.21-16.07.28:948][860]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 46 instructions
+[2017.03.21-16.07.28:948][860]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 82 instructions
+[2017.03.21-16.07.28:948][860]MaterialEditorStats: Info Vertex shader: 81 instructions
+[2017.03.21-16.07.28:948][860]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.03.21-16.08.02:794][ 76]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
+[2017.03.21-16.08.02:795][ 76]LogTemp:Display: Added material ShaderMap 0x000002560EFC8800 with Material 0x0000025589387700 to ShaderMapsBeingCompiled
+[2017.03.21-16.08.02:797][ 76]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionMultiply_1, GameThreadShaderMap 0x000002560EFC8800
+[2017.03.21-16.08.04:279][155]LogTemp:Display: Finished compile of shader map 0x000002560EFC8800
+[2017.03.21-16.08.04:279][155]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionMultiply_1 complete, GameThreadShaderMap 0x000002560EFC8800, marking material FMatExpressionPreview MaterialExpressionMultiply_1 as finished
+[2017.03.21-16.08.04:279][155]LogTemp:Display: Marking material as finished 0x0000025589387700
+[2017.03.21-16.08.59:342][903]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.08.59:344][903]LogTemp:Display: Added material ShaderMap 0x0000025618315980 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.08.59:366][903]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x0000025618315980
+[2017.03.21-16.08.59:367][903]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.08.59:401][903]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
+[2017.03.21-16.08.59:402][903]LogTemp:Display: Added material ShaderMap 0x00000255B3B47C80 with Material 0x000002560ED7D300 to ShaderMapsBeingCompiled
+[2017.03.21-16.08.59:409][903]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionMultiply_1, GameThreadShaderMap 0x00000255B3B47C80
+[2017.03.21-16.09.04:694][182]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.09.04:695][182]LogTemp:Display: Added material ShaderMap 0x00000255B0FA4480 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.09.04:720][182]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x00000255B0FA4480
+[2017.03.21-16.09.04:721][182]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.09.04:727][182]LogTemp:Display: Removed shader map 0x00000255B3B47C80 from material 0x000002560ED7D300
+[2017.03.21-16.09.04:751][182]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
+[2017.03.21-16.09.04:753][182]LogTemp:Display: Added material ShaderMap 0x0000025618316E80 with Material 0x0000025615C8E200 to ShaderMapsBeingCompiled
+[2017.03.21-16.09.04:757][182]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionMultiply_1, GameThreadShaderMap 0x0000025618316E80
+[2017.03.21-16.09.08:382][364]LogTemp:Display: Finished compile of shader map 0x0000025618315980
+[2017.03.21-16.09.08:382][364]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x0000025618315980, marking material BasicFootPrint_Mat as finished
+[2017.03.21-16.09.08:382][364]LogTemp:Display: Marking material as finished 0x00000255ABD69080
+[2017.03.21-16.09.11:779][374]LogTemp:Display: Finished compile of shader map 0x00000255B0FA4480
+[2017.03.21-16.09.11:779][374]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x00000255B0FA4480, marking material BasicFootPrint_Mat as finished
+[2017.03.21-16.09.11:779][374]LogTemp:Display: Marking material as finished 0x00000255ABD69080
+[2017.03.21-16.09.11:782][374]LogTemp:Display: Finished compile of shader map 0x0000025618316E80
+[2017.03.21-16.09.11:782][374]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionMultiply_1 complete, GameThreadShaderMap 0x0000025618316E80, marking material FMatExpressionPreview MaterialExpressionMultiply_1 as finished
+[2017.03.21-16.09.11:782][374]LogTemp:Display: Marking material as finished 0x0000025615C8E200
+[2017.03.21-16.09.12:108][375]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 46 instructions
+[2017.03.21-16.09.12:108][375]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 82 instructions
+[2017.03.21-16.09.12:108][375]MaterialEditorStats: Info Vertex shader: 83 instructions
+[2017.03.21-16.09.12:108][375]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.03.21-16.09.32:756][ 19]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.09.32:757][ 19]LogTemp:Display: Added material ShaderMap 0x0000025615E02400 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.09.32:771][ 19]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x0000025615E02400
+[2017.03.21-16.09.32:772][ 19]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.09.32:802][ 19]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
+[2017.03.21-16.09.32:803][ 19]LogTemp:Display: Added material ShaderMap 0x0000025618442400 with Material 0x0000025618492E00 to ShaderMapsBeingCompiled
+[2017.03.21-16.09.32:809][ 19]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionMultiply_1, GameThreadShaderMap 0x0000025618442400
+[2017.03.21-16.09.32:813][ 19]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.09.32:814][ 19]LogTemp:Display: Added material ShaderMap 0x000002560EFCAB00 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.09.32:839][ 19]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000002560EFCAB00
+[2017.03.21-16.09.32:839][ 19]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.09.32:868][ 19]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.03.21-16.09.32:869][ 19]LogTemp:Display: Added material ShaderMap 0x000002559AA1FC80 with Material 0x000002559AA97400 to ShaderMapsBeingCompiled
+[2017.03.21-16.09.32:873][ 19]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionTextureSample_0, GameThreadShaderMap 0x000002559AA1FC80
+[2017.03.21-16.09.34:747][120]LogTemp:Display: Finished compile of shader map 0x0000025615E02400
+[2017.03.21-16.09.34:747][120]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x0000025615E02400, marking material BasicFootPrint_Mat as finished
+[2017.03.21-16.09.34:747][120]LogTemp:Display: Marking material as finished 0x00000255ABD69080
+[2017.03.21-16.09.35:578][148]LogTemp:Display: Finished compile of shader map 0x0000025618442400
+[2017.03.21-16.09.35:578][148]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionMultiply_1 complete, GameThreadShaderMap 0x0000025618442400, marking material FMatExpressionPreview MaterialExpressionMultiply_1 as finished
+[2017.03.21-16.09.35:578][148]LogTemp:Display: Marking material as finished 0x0000025618492E00
+[2017.03.21-16.09.39:253][159]LogTemp:Display: Finished compile of shader map 0x000002560EFCAB00
+[2017.03.21-16.09.39:253][159]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x000002560EFCAB00, marking material BasicFootPrint_Mat as finished
+[2017.03.21-16.09.39:253][159]LogTemp:Display: Marking material as finished 0x00000255ABD69080
+[2017.03.21-16.09.39:582][160]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 46 instructions
+[2017.03.21-16.09.39:582][160]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 82 instructions
+[2017.03.21-16.09.39:582][160]MaterialEditorStats: Info Vertex shader: 83 instructions
+[2017.03.21-16.09.39:582][160]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.03.21-16.09.39:583][160]LogTemp:Display: Finished compile of shader map 0x000002559AA1FC80
+[2017.03.21-16.09.39:583][160]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionTextureSample_0 complete, GameThreadShaderMap 0x000002559AA1FC80, marking material FMatExpressionPreview MaterialExpressionTextureSample_0 as finished
+[2017.03.21-16.09.39:583][160]LogTemp:Display: Marking material as finished 0x000002559AA97400
+[2017.03.21-16.10.08:044][  6]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.10.08:045][  6]LogTemp:Display: Added material ShaderMap 0x00000256439A8B80 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.10.08:060][  6]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x00000256439A8B80
+[2017.03.21-16.10.08:060][  6]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.10.08:063][  6]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.10.08:064][  6]LogTemp:Display: Added material ShaderMap 0x0000025615C3E080 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.10.08:078][  6]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x0000025615C3E080
+[2017.03.21-16.10.08:078][  6]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.10.11:664][200]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.10.11:665][200]LogTemp:Display: Added material ShaderMap 0x0000025591B92E80 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.10.11:692][200]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x0000025591B92E80
+[2017.03.21-16.10.11:692][200]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.10.11:709][200]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.10.11:710][200]LogTemp:Display: Added material ShaderMap 0x0000025591B03580 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.10.11:734][200]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x0000025591B03580
+[2017.03.21-16.10.11:734][200]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.10.13:637][301]LogTemp:Display: Finished compile of shader map 0x0000025615C3E080
+[2017.03.21-16.10.13:637][301]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x0000025615C3E080, marking material BasicFootPrint_Mat as finished
+[2017.03.21-16.10.13:637][301]LogTemp:Display: Marking material as finished 0x00000255ABD69080
+[2017.03.21-16.10.19:593][566]LogTemp:Display: Finished compile of shader map 0x0000025591B03580
+[2017.03.21-16.10.19:593][566]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x0000025591B03580, marking material BasicFootPrint_Mat as finished
+[2017.03.21-16.10.19:593][566]LogTemp:Display: Marking material as finished 0x00000255ABD69080
+[2017.03.21-16.10.19:607][567]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 46 instructions
+[2017.03.21-16.10.19:607][567]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 82 instructions
+[2017.03.21-16.10.19:607][567]MaterialEditorStats: Info Vertex shader: 83 instructions
+[2017.03.21-16.10.19:607][567]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.03.21-16.10.46:632][578]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.10.46:633][578]LogTemp:Display: Added material ShaderMap 0x0000025616626B00 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.10.46:652][578]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x0000025616626B00
+[2017.03.21-16.10.46:652][578]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.10.53:429][738]LogTemp:Display: Finished compile of shader map 0x0000025616626B00
+[2017.03.21-16.10.53:429][738]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x0000025616626B00, marking material BasicFootPrint_Mat as finished
+[2017.03.21-16.10.53:430][738]LogTemp:Display: Marking material as finished 0x00000255ABD69080
+[2017.03.21-16.10.53:757][739]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 46 instructions
+[2017.03.21-16.10.53:757][739]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 82 instructions
+[2017.03.21-16.10.53:757][739]MaterialEditorStats: Info Vertex shader: 83 instructions
+[2017.03.21-16.10.53:757][739]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.03.21-16.11.18:650][518]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.11.18:651][518]LogTemp:Display: Added material ShaderMap 0x0000025618314F00 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.11.18:665][518]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x0000025618314F00
+[2017.03.21-16.11.18:666][518]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.11.30:234][107]LogTemp:Display: Finished compile of shader map 0x0000025618314F00
+[2017.03.21-16.11.30:234][107]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x0000025618314F00, marking material BasicFootPrint_Mat as finished
+[2017.03.21-16.11.30:234][107]LogTemp:Display: Marking material as finished 0x00000255ABD69080
+[2017.03.21-16.11.30:563][108]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2017.03.21-16.11.30:563][108]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 87 instructions
+[2017.03.21-16.11.30:563][108]MaterialEditorStats: Info Vertex shader: 83 instructions
+[2017.03.21-16.11.30:563][108]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.03.21-16.11.30:639][108]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.039
+[2017.03.21-16.11.30:641][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BasicFootPrint] ([1] browsable assets)...
+[2017.03.21-16.11.30:649][108]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/BasicFootPrint.BasicFootPrint]
+[2017.03.21-16.11.30:649][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/BasicFootPrint]
+[2017.03.21-16.11.30:649][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BasicFootPrint" FILE="../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/BasicFootPrint_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2017.03.21-16.11.30:662][108]LogSavePackage: Save=10.53ms
+[2017.03.21-16.11.30:663][108]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/BasicFootPrint_Auto474949662442475D11E67DBA07D71B57C.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/BasicFootPrint_Auto4.uasset'
+[2017.03.21-16.11.30:664][108]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/BasicFootPrint_Auto4.uasset
+[2017.03.21-16.11.30:664][108]LogFileHelpers: Auto-saving content packages took 0.024
+[2017.03.21-16.11.46:662][542]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.11.46:663][542]LogTemp:Display: Added material ShaderMap 0x00000256163A5600 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.11.46:678][542]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x00000256163A5600
+[2017.03.21-16.11.46:678][542]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.11.54:510][849]LogTemp:Display: Finished compile of shader map 0x00000256163A5600
+[2017.03.21-16.11.54:510][849]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x00000256163A5600, marking material BasicFootPrint_Mat as finished
+[2017.03.21-16.11.54:510][849]LogTemp:Display: Marking material as finished 0x00000255ABD69080
+[2017.03.21-16.11.54:836][850]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2017.03.21-16.11.54:836][850]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 87 instructions
+[2017.03.21-16.11.54:836][850]MaterialEditorStats: Info Vertex shader: 83 instructions
+[2017.03.21-16.11.54:837][850]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.03.21-16.12.06:113][ 47]LogMaterialEditor: Applying material BasicFootPrint_Mat
+[2017.03.21-16.12.06:812][ 47]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.12.06:813][ 47]LogTemp:Display: Added material ShaderMap 0x0000025616426080 with Material 0x00000255ABD69080 to ShaderMapsBeingCompiled
+[2017.03.21-16.12.06:847][ 47]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x0000025616426080
+[2017.03.21-16.12.06:847][ 47]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.12.06:858][ 47]LogTemp:Display: Removed shader map 0x000002560EB97580 from material 0x00000255ABF4D480
+[2017.03.21-16.12.06:873][ 47]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.12.06:877][ 47]LogTemp:Display: Added material ShaderMap 0x000002560EC0C100 with Material 0x00000255ABF4D900 to ShaderMapsBeingCompiled
+[2017.03.21-16.12.06:916][ 47]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000002560EC0C100
+[2017.03.21-16.12.06:920][ 47]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.21-16.12.06:921][ 47]LogTemp:Display: Added material ShaderMap 0x00000256164A3200 with Material 0x00000255ABF4D900 to ShaderMapsBeingCompiled
+[2017.03.21-16.12.06:951][ 47]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x00000256164A3200
+[2017.03.21-16.12.06:952][ 47]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.21-16.12.07:007][ 47]TextureStreamingBuild:Display: Compiling optional shaders took 0.000 seconds.
+[2017.03.21-16.12.08:302][114]LogMaterialEditor: Saving and Compiling material BasicFootPrint_Mat
+[2017.03.21-16.12.14:839][114]LogTemp:Display: Finished compile of shader map 0x00000256164A3200
+[2017.03.21-16.12.14:839][114]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x00000256164A3200, marking material BasicFootPrint_Mat as finished
+[2017.03.21-16.12.14:839][114]LogTemp:Display: Marking material as finished 0x00000255ABF4D900
+[2017.03.21-16.12.14:847][114]LogTemp:Display: Finished compile of shader map 0x0000025616426080
+[2017.03.21-16.12.14:847][114]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x0000025616426080, marking material BasicFootPrint_Mat as finished
+[2017.03.21-16.12.14:847][114]LogTemp:Display: Marking material as finished 0x00000255ABD69080
+[2017.03.21-16.12.14:870][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BasicFootPrint_Mat" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/BasicFootPrint_Mat.uasset" SILENT=true
+[2017.03.21-16.12.14:963][114]LogSavePackage: Save=17.65ms
+[2017.03.21-16.12.14:964][114]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/BasicFootPrint_Mat5C611CD94B6F1188BBCC6D8311F8CC5C.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/BasicFootPrint_Mat.uasset'
+[2017.03.21-16.12.14:967][114]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/BasicFootPrint_Mat.uasset
+[2017.03.21-16.12.15:033][114]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2017.03.21-16.12.15:033][114]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 87 instructions
+[2017.03.21-16.12.15:033][114]MaterialEditorStats: Info Vertex shader: 83 instructions
+[2017.03.21-16.12.15:033][114]MaterialEditorStats: Info Texture samplers: 5/16
