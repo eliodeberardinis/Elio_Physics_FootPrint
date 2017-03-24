@@ -1279,3 +1279,765 @@ LogInit: Object subsystem initialized
 [2017.03.24-14.06.13:677][637]LogHttp:Warning: 00000255BC098B80: request failed, libcurl error: 6 (Couldn't resolve host name)
 [2017.03.24-14.06.13:677][637]LogHttp:Warning: 00000255BC098B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
 [2017.03.24-14.06.13:677][637]LogHttp:Warning: 00000255BC098B80: libcurl info message cache 1 (Closing connection 184)
+[2017.03.24-14.52.11:489][890]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.03.24-14.53.00:732][896]LogLinker:Warning: Can't find file '/Game/BasicFootPrint'
+[2017.03.24-14.53.00:737][896]LogLinker:Warning: Can't find file for asset '/Game/BasicFootPrint' while loading ../../../../Elio_Physics_FootPrint/Footprints/Content/BasicFootPrint_Mat.uasset.
+[2017.03.24-14.53.00:738][896]LoadErrors:Error: Error /Game/BasicFootPrint_Mat : Can't find file for asset. /Game/BasicFootPrint
+[2017.03.24-14.53.00:739][896]LogLinker:Warning: Can't find file '/Game/BasicFootPrint'
+[2017.03.24-14.53.00:739][896]LogLinker:Warning: Can't find file for asset '/Game/BasicFootPrint' while loading ../../../../Elio_Physics_FootPrint/Footprints/Content/BasicFootPrint_Mat.uasset.
+[2017.03.24-14.53.01:036][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FootPrints/BasicFootPrint" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/FootPrints/BasicFootPrint.uasset" SILENT=true
+[2017.03.24-14.53.01:105][896]LogSavePackage: Save=64.62ms
+[2017.03.24-14.53.01:105][896]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/BasicFootPrint3E286031480BF2426DCEC9A573D040AA.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/FootPrints/BasicFootPrint.uasset'
+[2017.03.24-14.53.01:107][896]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/FootPrints/BasicFootPrint.uasset
+[2017.03.24-14.53.01:347][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BasicFootPrint_Mat" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/BasicFootPrint_Mat.uasset" SILENT=true
+[2017.03.24-14.53.01:463][896]LogSavePackage: Save=95.77ms
+[2017.03.24-14.53.01:463][896]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/BasicFootPrint_Mat1DE2557E4AB1CBBE4852A5ABD91EC018.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/BasicFootPrint_Mat.uasset'
+[2017.03.24-14.53.01:465][896]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/BasicFootPrint_Mat.uasset
+[2017.03.24-14.53.06:223][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FootPrints/BasicFootPrint_Mat" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/FootPrints/BasicFootPrint_Mat.uasset" SILENT=true
+[2017.03.24-14.53.06:241][131]LogSavePackage: Save=14.67ms
+[2017.03.24-14.53.06:241][131]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/BasicFootPrint_Mat88F32270466D2C56A8567C9CA9617FE2.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/FootPrints/BasicFootPrint_Mat.uasset'
+[2017.03.24-14.53.06:243][131]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/FootPrints/BasicFootPrint_Mat.uasset
+[2017.03.24-14.53.06:626][131]LogSavePackage: Save=75.76ms
+[2017.03.24-14.53.06:627][131]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonCharacter6874672F4BE450C5CF03C8A43613FBF0.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.03.24-14.53.06:628][131]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.03.24-14.54.47:363][ 88]LogMaterial: Missing cached shader map for material Snow, compiling. 
+[2017.03.24-14.54.47:368][ 88]LogTemp:Display: Added material ShaderMap 0x000002562121C480 with Material 0x000002563FDAD580 to ShaderMapsBeingCompiled
+[2017.03.24-14.54.47:471][ 88]LogTemp:Display: Kicking off shader compilation for Snow, GameThreadShaderMap 0x000002562121C480
+[2017.03.24-14.54.48:117][ 88]LogMaterial: Missing cached shader map for material Snow, compiling. 
+[2017.03.24-14.54.48:120][ 88]LogTemp:Display: Added material ShaderMap 0x0000025655CE0800 with Material 0x000002563FDAD580 to ShaderMapsBeingCompiled
+[2017.03.24-14.54.48:137][ 88]LogTemp:Display: Kicking off shader compilation for Snow, GameThreadShaderMap 0x0000025655CE0800
+[2017.03.24-14.54.48:138][ 88]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-14.54.54:802][299]LogTemp:Display: Finished compile of shader map 0x0000025655CE0800
+[2017.03.24-14.54.54:802][299]LogTemp:Display: Shader map Snow complete, GameThreadShaderMap 0x0000025655CE0800, marking material Snow as finished
+[2017.03.24-14.54.54:802][299]LogTemp:Display: Marking material as finished 0x000002563FDAD580
+[2017.03.24-14.54.55:127][300]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.24-14.54.55:127][300]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.03.24-14.54.55:127][300]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.03.24-14.55.08:818][466]LogMaterial: Missing cached shader map for material Snow, compiling. 
+[2017.03.24-14.55.08:820][466]LogTemp:Display: Added material ShaderMap 0x0000025624B1F900 with Material 0x000002563FDAD580 to ShaderMapsBeingCompiled
+[2017.03.24-14.55.08:843][466]LogTemp:Display: Kicking off shader compilation for Snow, GameThreadShaderMap 0x0000025624B1F900
+[2017.03.24-14.55.08:844][466]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-14.55.08:859][466]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.03.24-14.55.08:863][466]LogTemp:Display: Added material ShaderMap 0x000002562D2F5D00 with Material 0x00000255B2D5BA00 to ShaderMapsBeingCompiled
+[2017.03.24-14.55.08:872][466]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_0, GameThreadShaderMap 0x000002562D2F5D00
+[2017.03.24-14.55.12:677][667]LogTemp:Display: Finished compile of shader map 0x0000025624B1F900
+[2017.03.24-14.55.12:677][667]LogTemp:Display: Shader map Snow complete, GameThreadShaderMap 0x0000025624B1F900, marking material Snow as finished
+[2017.03.24-14.55.12:677][667]LogTemp:Display: Marking material as finished 0x000002563FDAD580
+[2017.03.24-14.55.12:695][668]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.24-14.55.12:695][668]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.03.24-14.55.12:695][668]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.03.24-14.55.13:153][694]LogTemp:Display: Finished compile of shader map 0x000002562D2F5D00
+[2017.03.24-14.55.13:153][694]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant3Vector_0 complete, GameThreadShaderMap 0x000002562D2F5D00, marking material FMatExpressionPreview MaterialExpressionConstant3Vector_0 as finished
+[2017.03.24-14.55.13:153][694]LogTemp:Display: Marking material as finished 0x00000255B2D5BA00
+[2017.03.24-14.55.13:899][735]LogMaterial: Missing cached shader map for material Snow, compiling. 
+[2017.03.24-14.55.13:899][735]LogTemp:Display: Added material ShaderMap 0x00000256297A1600 with Material 0x000002563FDAD580 to ShaderMapsBeingCompiled
+[2017.03.24-14.55.13:910][735]LogTemp:Display: Kicking off shader compilation for Snow, GameThreadShaderMap 0x00000256297A1600
+[2017.03.24-14.55.13:910][735]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-14.55.13:937][735]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.03.24-14.55.13:938][735]LogTemp:Display: Added material ShaderMap 0x0000025624B1F900 with Material 0x000002561862F700 to ShaderMapsBeingCompiled
+[2017.03.24-14.55.13:943][735]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_0, GameThreadShaderMap 0x0000025624B1F900
+[2017.03.24-14.55.17:959][962]LogTemp:Display: Finished compile of shader map 0x00000256297A1600
+[2017.03.24-14.55.17:959][962]LogTemp:Display: Shader map Snow complete, GameThreadShaderMap 0x00000256297A1600, marking material Snow as finished
+[2017.03.24-14.55.17:959][962]LogTemp:Display: Marking material as finished 0x000002563FDAD580
+[2017.03.24-14.55.17:975][963]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.24-14.55.17:975][963]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.03.24-14.55.17:975][963]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.03.24-14.55.18:505][993]LogTemp:Display: Finished compile of shader map 0x0000025624B1F900
+[2017.03.24-14.55.18:505][993]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant3Vector_0 complete, GameThreadShaderMap 0x0000025624B1F900, marking material FMatExpressionPreview MaterialExpressionConstant3Vector_0 as finished
+[2017.03.24-14.55.18:505][993]LogTemp:Display: Marking material as finished 0x000002561862F700
+[2017.03.24-14.56.23:885][598]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.057
+[2017.03.24-14.56.23:887][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BasicFootPrint" FILE="../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/BasicFootPrint_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2017.03.24-14.56.23:897][598]LogSavePackage: Save=5.11ms
+[2017.03.24-14.56.23:897][598]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/BasicFootPrint_Auto4567607F149756D5DE178D6944B143B7F.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/BasicFootPrint_Auto4.uasset'
+[2017.03.24-14.56.23:900][598]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/BasicFootPrint_Auto4.uasset
+[2017.03.24-14.56.23:901][598]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Snow] ([1] browsable assets)...
+[2017.03.24-14.56.23:955][598]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/Snow.Snow]
+[2017.03.24-14.56.23:955][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Snow]
+[2017.03.24-14.56.23:955][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Snow" FILE="../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Textures/Snow_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2017.03.24-14.56.23:978][598]LogSavePackage: Save=17.70ms
+[2017.03.24-14.56.23:978][598]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/Snow_Auto4EC3D65DC403C926DCAE09DBD0295FB52.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Textures/Snow_Auto4.uasset'
+[2017.03.24-14.56.23:979][598]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Textures/Snow_Auto4.uasset
+[2017.03.24-14.56.23:979][598]LogFileHelpers: Auto-saving content packages took 0.094
+[2017.03.24-14.56.33:697][895]LogMaterial: Missing cached shader map for material Snow, compiling. 
+[2017.03.24-14.56.33:702][895]LogTemp:Display: Added material ShaderMap 0x00000256195B6080 with Material 0x000002563FDAD580 to ShaderMapsBeingCompiled
+[2017.03.24-14.56.33:762][895]LogTemp:Display: Kicking off shader compilation for Snow, GameThreadShaderMap 0x00000256195B6080
+[2017.03.24-14.56.33:763][895]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-14.56.33:806][895]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.03.24-14.56.33:808][895]LogTemp:Display: Added material ShaderMap 0x00000256331C3C80 with Material 0x000002565E2CD900 to ShaderMapsBeingCompiled
+[2017.03.24-14.56.33:824][895]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_0, GameThreadShaderMap 0x00000256331C3C80
+[2017.03.24-14.56.35:448][975]LogMaterialEditor: Applying material Snow
+[2017.03.24-14.56.37:955][975]LogMaterial: Missing cached shader map for material Snow, compiling. 
+[2017.03.24-14.56.37:956][975]LogTemp:Display: Added material ShaderMap 0x00000255BE9C7900 with Material 0x000002563FDAD580 to ShaderMapsBeingCompiled
+[2017.03.24-14.56.37:978][975]LogTemp:Display: Kicking off shader compilation for Snow, GameThreadShaderMap 0x00000255BE9C7900
+[2017.03.24-14.56.37:978][975]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-14.56.38:024][975]LogMaterial: Missing cached shader map for material Snow, compiling. 
+[2017.03.24-14.56.38:025][975]LogTemp:Display: Added material ShaderMap 0x0000025621283C80 with Material 0x00000255AB462080 to ShaderMapsBeingCompiled
+[2017.03.24-14.56.38:073][975]LogTemp:Display: Kicking off shader compilation for Snow, GameThreadShaderMap 0x0000025621283C80
+[2017.03.24-14.56.38:095][975]LogMaterial: Missing cached shader map for material Snow, compiling. 
+[2017.03.24-14.56.38:097][975]LogTemp:Display: Added material ShaderMap 0x000002565F752080 with Material 0x00000255AB462080 to ShaderMapsBeingCompiled
+[2017.03.24-14.56.38:148][975]LogTemp:Display: Kicking off shader compilation for Snow, GameThreadShaderMap 0x000002565F752080
+[2017.03.24-14.56.38:151][975]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-14.56.38:289][975]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Snow, compiling. 
+[2017.03.24-14.56.38:290][975]LogTemp:Display: Added material ShaderMap 0x0000025591C3A080 with Material 0x0000025592049600 to ShaderMapsBeingCompiled
+[2017.03.24-14.56.39:965][975]LogTemp:Display: Finished compile of shader map 0x0000025591C3A080
+[2017.03.24-14.56.39:965][975]LogTemp:Display: Shader map FDebugViewModeMaterialProxy Snow complete, GameThreadShaderMap 0x0000025591C3A080, marking material FDebugViewModeMaterialProxy Snow as finished
+[2017.03.24-14.56.39:965][975]LogTemp:Display: Marking material as finished 0x0000025592049600
+[2017.03.24-14.56.40:034][975]TextureStreamingBuild:Display: Compiling optional shaders took 1.816 seconds.
+[2017.03.24-14.56.40:110][975]LogTemp:Display: Finished compile of shader map 0x00000256195B6080
+[2017.03.24-14.56.40:110][975]LogTemp:Display: Shader map Snow complete, GameThreadShaderMap 0x00000256195B6080, marking material Snow as finished
+[2017.03.24-14.56.40:110][975]LogTemp:Display: Marking material as finished 0x000002563FDAD580
+[2017.03.24-14.56.40:188][975]LogTemp:Display: Finished compile of shader map 0x00000255BE9C7900
+[2017.03.24-14.56.40:188][975]LogTemp:Display: Shader map Snow complete, GameThreadShaderMap 0x00000255BE9C7900, marking material Snow as finished
+[2017.03.24-14.56.40:188][975]LogTemp:Display: Marking material as finished 0x000002563FDAD580
+[2017.03.24-14.56.40:192][975]LogTemp:Display: Finished compile of shader map 0x00000256331C3C80
+[2017.03.24-14.56.40:192][975]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant3Vector_0 complete, GameThreadShaderMap 0x00000256331C3C80, marking material FMatExpressionPreview MaterialExpressionConstant3Vector_0 as finished
+[2017.03.24-14.56.40:192][975]LogTemp:Display: Marking material as finished 0x000002565E2CD900
+[2017.03.24-14.56.44:935][108]LogTemp:Display: Finished compile of shader map 0x000002565F752080
+[2017.03.24-14.56.44:935][108]LogTemp:Display: Shader map Snow complete, GameThreadShaderMap 0x000002565F752080, marking material Snow as finished
+[2017.03.24-14.56.44:935][108]LogTemp:Display: Marking material as finished 0x00000255AB462080
+[2017.03.24-14.56.45:227][109]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.24-14.56.45:227][109]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.03.24-14.56.45:227][109]MaterialEditorStats: Info Texture samplers: 2/16
+[2017.03.24-14.57.21:585][673]LogMaterial: Missing cached shader map for material Snow2, compiling. 
+[2017.03.24-14.57.21:587][673]LogTemp:Display: Added material ShaderMap 0x0000025625CEBC80 with Material 0x000002560E424280 to ShaderMapsBeingCompiled
+[2017.03.24-14.57.21:608][673]LogTemp:Display: Kicking off shader compilation for Snow2, GameThreadShaderMap 0x0000025625CEBC80
+[2017.03.24-14.57.27:875][953]LogTemp:Display: Finished compile of shader map 0x0000025625CEBC80
+[2017.03.24-14.57.27:875][953]LogTemp:Display: Shader map Snow2 complete, GameThreadShaderMap 0x0000025625CEBC80, marking material Snow2 as finished
+[2017.03.24-14.57.27:875][953]LogTemp:Display: Marking material as finished 0x000002560E424280
+[2017.03.24-14.57.28:967][998]LogMaterial: Missing cached shader map for material Wood, compiling. 
+[2017.03.24-14.57.28:968][998]LogTemp:Display: Added material ShaderMap 0x00000256250B5600 with Material 0x000002562421B580 to ShaderMapsBeingCompiled
+[2017.03.24-14.57.28:985][998]LogTemp:Display: Kicking off shader compilation for Wood, GameThreadShaderMap 0x00000256250B5600
+[2017.03.24-14.57.32:800][121]LogTemp:Display: Finished compile of shader map 0x00000256250B5600
+[2017.03.24-14.57.32:800][121]LogTemp:Display: Shader map Wood complete, GameThreadShaderMap 0x00000256250B5600, marking material Wood as finished
+[2017.03.24-14.57.32:800][121]LogTemp:Display: Marking material as finished 0x000002562421B580
+[2017.03.24-14.57.35:345][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Grass.uasset" SILENT=true
+[2017.03.24-14.57.35:369][199]LogSavePackage: Save=19.69ms
+[2017.03.24-14.57.35:369][199]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/GrassFD0974C9447C1912FB715791C4C30E5D.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Grass.uasset'
+[2017.03.24-14.57.35:372][199]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Grass.uasset
+[2017.03.24-14.57.56:283][604]LogMaterial: Missing cached shader map for material Wood, compiling. 
+[2017.03.24-14.57.56:285][604]LogTemp:Display: Added material ShaderMap 0x0000025591C3AB00 with Material 0x0000025626BA2200 to ShaderMapsBeingCompiled
+[2017.03.24-14.57.56:303][604]LogTemp:Display: Kicking off shader compilation for Wood, GameThreadShaderMap 0x0000025591C3AB00
+[2017.03.24-14.57.56:602][604]LogMaterial: Missing cached shader map for material Wood, compiling. 
+[2017.03.24-14.57.56:604][604]LogTemp:Display: Added material ShaderMap 0x0000025607FEA080 with Material 0x0000025626BA2200 to ShaderMapsBeingCompiled
+[2017.03.24-14.57.56:625][604]LogTemp:Display: Kicking off shader compilation for Wood, GameThreadShaderMap 0x0000025607FEA080
+[2017.03.24-14.57.56:625][604]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-14.57.56:678][604]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.03.24-14.57.56:680][604]LogTemp:Display: Added material ShaderMap 0x0000025607F6B580 with Material 0x00000256080BFA00 to ShaderMapsBeingCompiled
+[2017.03.24-14.57.56:686][604]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_0, GameThreadShaderMap 0x0000025607F6B580
+[2017.03.24-14.58.01:715][860]LogMaterialEditor: Saving and Compiling material Snow
+[2017.03.24-14.58.01:771][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Snow" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Snow.uasset" SILENT=true
+[2017.03.24-14.58.01:794][860]LogSavePackage: Save=18.59ms
+[2017.03.24-14.58.01:794][860]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/Snow98FAA2C44C2C26102635958D46876D59.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Snow.uasset'
+[2017.03.24-14.58.01:797][860]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Snow.uasset
+[2017.03.24-14.58.01:854][863]LogTemp:Display: Finished compile of shader map 0x0000025607FEA080
+[2017.03.24-14.58.01:854][863]LogTemp:Display: Shader map Wood complete, GameThreadShaderMap 0x0000025607FEA080, marking material Wood as finished
+[2017.03.24-14.58.01:854][863]LogTemp:Display: Marking material as finished 0x0000025626BA2200
+[2017.03.24-14.58.01:876][864]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.24-14.58.01:876][864]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.03.24-14.58.01:876][864]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.03.24-14.58.02:619][907]LogTemp:Display: Finished compile of shader map 0x0000025607F6B580
+[2017.03.24-14.58.02:619][907]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant3Vector_0 complete, GameThreadShaderMap 0x0000025607F6B580, marking material FMatExpressionPreview MaterialExpressionConstant3Vector_0 as finished
+[2017.03.24-14.58.02:619][907]LogTemp:Display: Marking material as finished 0x00000256080BFA00
+[2017.03.24-14.59.35:915][977]LogMaterial: Missing cached shader map for material Wood, compiling. 
+[2017.03.24-14.59.35:917][977]LogTemp:Display: Added material ShaderMap 0x00000256084A9600 with Material 0x0000025626BA2200 to ShaderMapsBeingCompiled
+[2017.03.24-14.59.35:931][977]LogTemp:Display: Kicking off shader compilation for Wood, GameThreadShaderMap 0x00000256084A9600
+[2017.03.24-14.59.35:931][977]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-14.59.36:020][977]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.03.24-14.59.36:021][977]LogTemp:Display: Added material ShaderMap 0x0000025608353580 with Material 0x00000256085B8100 to ShaderMapsBeingCompiled
+[2017.03.24-14.59.36:026][977]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_0, GameThreadShaderMap 0x0000025608353580
+[2017.03.24-14.59.37:920][ 77]LogMaterialEditor: Applying material Wood
+[2017.03.24-14.59.39:051][ 77]LogMaterial: Missing cached shader map for material Wood, compiling. 
+[2017.03.24-14.59.39:053][ 77]LogTemp:Display: Added material ShaderMap 0x0000025608350100 with Material 0x0000025626BA2200 to ShaderMapsBeingCompiled
+[2017.03.24-14.59.39:115][ 77]LogTemp:Display: Kicking off shader compilation for Wood, GameThreadShaderMap 0x0000025608350100
+[2017.03.24-14.59.39:115][ 77]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-14.59.39:168][ 77]LogMaterial: Missing cached shader map for material Wood, compiling. 
+[2017.03.24-14.59.39:169][ 77]LogTemp:Display: Added material ShaderMap 0x00000256189CB580 with Material 0x000002562421A980 to ShaderMapsBeingCompiled
+[2017.03.24-14.59.39:228][ 77]LogTemp:Display: Kicking off shader compilation for Wood, GameThreadShaderMap 0x00000256189CB580
+[2017.03.24-14.59.39:231][ 77]LogMaterial: Missing cached shader map for material Wood, compiling. 
+[2017.03.24-14.59.39:232][ 77]LogTemp:Display: Added material ShaderMap 0x00000256084AAE80 with Material 0x000002562421A980 to ShaderMapsBeingCompiled
+[2017.03.24-14.59.39:256][ 77]LogTemp:Display: Kicking off shader compilation for Wood, GameThreadShaderMap 0x00000256084AAE80
+[2017.03.24-14.59.39:258][ 77]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-14.59.39:339][ 77]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wood, compiling. 
+[2017.03.24-14.59.39:340][ 77]LogTemp:Display: Added material ShaderMap 0x0000025609149600 with Material 0x00000256083DAB00 to ShaderMapsBeingCompiled
+[2017.03.24-14.59.40:968][ 77]LogTemp:Display: Finished compile of shader map 0x0000025609149600
+[2017.03.24-14.59.40:968][ 77]LogTemp:Display: Shader map FDebugViewModeMaterialProxy Wood complete, GameThreadShaderMap 0x0000025609149600, marking material FDebugViewModeMaterialProxy Wood as finished
+[2017.03.24-14.59.40:968][ 77]LogTemp:Display: Marking material as finished 0x00000256083DAB00
+[2017.03.24-14.59.41:032][ 77]TextureStreamingBuild:Display: Compiling optional shaders took 1.702 seconds.
+[2017.03.24-14.59.41:105][ 77]LogTemp:Display: Finished compile of shader map 0x0000025608350100
+[2017.03.24-14.59.41:105][ 77]LogTemp:Display: Shader map Wood complete, GameThreadShaderMap 0x0000025608350100, marking material Wood as finished
+[2017.03.24-14.59.41:105][ 77]LogTemp:Display: Marking material as finished 0x0000025626BA2200
+[2017.03.24-14.59.41:109][ 77]LogTemp:Display: Finished compile of shader map 0x00000256084A9600
+[2017.03.24-14.59.41:109][ 77]LogTemp:Display: Shader map Wood complete, GameThreadShaderMap 0x00000256084A9600, marking material Wood as finished
+[2017.03.24-14.59.41:109][ 77]LogTemp:Display: Marking material as finished 0x0000025626BA2200
+[2017.03.24-14.59.41:110][ 77]LogTemp:Display: Finished compile of shader map 0x0000025608353580
+[2017.03.24-14.59.41:110][ 77]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant3Vector_0 complete, GameThreadShaderMap 0x0000025608353580, marking material FMatExpressionPreview MaterialExpressionConstant3Vector_0 as finished
+[2017.03.24-14.59.41:110][ 77]LogTemp:Display: Marking material as finished 0x00000256085B8100
+[2017.03.24-14.59.44:088][242]LogMaterialEditor: Saving and Compiling material Wood
+[2017.03.24-14.59.44:741][242]LogTemp:Display: Finished compile of shader map 0x00000256084AAE80
+[2017.03.24-14.59.44:741][242]LogTemp:Display: Shader map Wood complete, GameThreadShaderMap 0x00000256084AAE80, marking material Wood as finished
+[2017.03.24-14.59.44:741][242]LogTemp:Display: Marking material as finished 0x000002562421A980
+[2017.03.24-14.59.44:787][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Wood" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Wood.uasset" SILENT=true
+[2017.03.24-14.59.44:807][242]LogSavePackage: Save=15.51ms
+[2017.03.24-14.59.44:807][242]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/Wood53CCAE2849997D04BC0C869AC67B3A13.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Wood.uasset'
+[2017.03.24-14.59.44:810][242]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Wood.uasset
+[2017.03.24-14.59.44:817][242]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.24-14.59.44:817][242]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.03.24-14.59.44:817][242]MaterialEditorStats: Info Texture samplers: 2/16
+[2017.03.24-15.00.09:352][660]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.03.24-15.00.09:354][660]LogTemp:Display: Added material ShaderMap 0x0000025625A12400 with Material 0x00000256083A0180 to ShaderMapsBeingCompiled
+[2017.03.24-15.00.09:375][660]LogTemp:Display: Kicking off shader compilation for Grass, GameThreadShaderMap 0x0000025625A12400
+[2017.03.24-15.00.09:623][660]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.03.24-15.00.09:625][660]LogTemp:Display: Added material ShaderMap 0x0000025648B62B00 with Material 0x00000256083A0180 to ShaderMapsBeingCompiled
+[2017.03.24-15.00.09:644][660]LogTemp:Display: Kicking off shader compilation for Grass, GameThreadShaderMap 0x0000025648B62B00
+[2017.03.24-15.00.09:644][660]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.00.09:673][660]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.03.24-15.00.09:676][660]LogTemp:Display: Added material ShaderMap 0x00000256095E8100 with Material 0x0000025648C53D00 to ShaderMapsBeingCompiled
+[2017.03.24-15.00.09:682][660]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_0, GameThreadShaderMap 0x00000256095E8100
+[2017.03.24-15.00.15:599][961]LogTemp:Display: Finished compile of shader map 0x0000025648B62B00
+[2017.03.24-15.00.15:599][961]LogTemp:Display: Shader map Grass complete, GameThreadShaderMap 0x0000025648B62B00, marking material Grass as finished
+[2017.03.24-15.00.15:599][961]LogTemp:Display: Marking material as finished 0x00000256083A0180
+[2017.03.24-15.00.15:618][962]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.24-15.00.15:619][962]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.03.24-15.00.15:619][962]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.03.24-15.00.16:012][982]LogTemp:Display: Finished compile of shader map 0x00000256095E8100
+[2017.03.24-15.00.16:012][982]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant3Vector_0 complete, GameThreadShaderMap 0x00000256095E8100, marking material FMatExpressionPreview MaterialExpressionConstant3Vector_0 as finished
+[2017.03.24-15.00.16:012][982]LogTemp:Display: Marking material as finished 0x0000025648C53D00
+[2017.03.24-15.00.22:386][316]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.03.24-15.00.22:389][316]LogTemp:Display: Added material ShaderMap 0x00000256084B7200 with Material 0x00000256083A0180 to ShaderMapsBeingCompiled
+[2017.03.24-15.00.22:422][316]LogTemp:Display: Kicking off shader compilation for Grass, GameThreadShaderMap 0x00000256084B7200
+[2017.03.24-15.00.22:422][316]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.00.22:451][316]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.03.24-15.00.22:453][316]LogTemp:Display: Added material ShaderMap 0x000002564904DD00 with Material 0x0000025648F6CA00 to ShaderMapsBeingCompiled
+[2017.03.24-15.00.22:458][316]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_0, GameThreadShaderMap 0x000002564904DD00
+[2017.03.24-15.00.25:581][482]LogMaterialEditor: Applying material Grass
+[2017.03.24-15.00.26:488][482]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.03.24-15.00.26:489][482]LogTemp:Display: Added material ShaderMap 0x00000256515C7900 with Material 0x00000256083A0180 to ShaderMapsBeingCompiled
+[2017.03.24-15.00.26:509][482]LogTemp:Display: Kicking off shader compilation for Grass, GameThreadShaderMap 0x00000256515C7900
+[2017.03.24-15.00.26:580][482]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.00.26:610][482]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.03.24-15.00.26:611][482]LogTemp:Display: Added material ShaderMap 0x00000256515DF200 with Material 0x000002560E426500 to ShaderMapsBeingCompiled
+[2017.03.24-15.00.26:642][482]LogTemp:Display: Kicking off shader compilation for Grass, GameThreadShaderMap 0x00000256515DF200
+[2017.03.24-15.00.26:658][482]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.03.24-15.00.26:659][482]LogTemp:Display: Added material ShaderMap 0x00000256514ECF00 with Material 0x000002560E426500 to ShaderMapsBeingCompiled
+[2017.03.24-15.00.26:695][482]LogTemp:Display: Kicking off shader compilation for Grass, GameThreadShaderMap 0x00000256514ECF00
+[2017.03.24-15.00.26:698][482]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.00.26:804][482]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Grass, compiling. 
+[2017.03.24-15.00.26:805][482]LogTemp:Display: Added material ShaderMap 0x0000025651143580 with Material 0x0000025651117D00 to ShaderMapsBeingCompiled
+[2017.03.24-15.00.28:167][482]LogTemp:Display: Finished compile of shader map 0x0000025651143580
+[2017.03.24-15.00.28:167][482]LogTemp:Display: Shader map FDebugViewModeMaterialProxy Grass complete, GameThreadShaderMap 0x0000025651143580, marking material FDebugViewModeMaterialProxy Grass as finished
+[2017.03.24-15.00.28:167][482]LogTemp:Display: Marking material as finished 0x0000025651117D00
+[2017.03.24-15.00.28:171][482]TextureStreamingBuild:Display: Compiling optional shaders took 1.390 seconds.
+[2017.03.24-15.00.28:310][482]LogTemp:Display: Finished compile of shader map 0x000002564904DD00
+[2017.03.24-15.00.28:310][482]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant3Vector_0 complete, GameThreadShaderMap 0x000002564904DD00, marking material FMatExpressionPreview MaterialExpressionConstant3Vector_0 as finished
+[2017.03.24-15.00.28:310][482]LogTemp:Display: Marking material as finished 0x0000025648F6CA00
+[2017.03.24-15.00.28:313][482]LogTemp:Display: Finished compile of shader map 0x00000256515C7900
+[2017.03.24-15.00.28:313][482]LogTemp:Display: Shader map Grass complete, GameThreadShaderMap 0x00000256515C7900, marking material Grass as finished
+[2017.03.24-15.00.28:313][482]LogTemp:Display: Marking material as finished 0x00000256083A0180
+[2017.03.24-15.00.28:317][482]LogTemp:Display: Finished compile of shader map 0x00000256084B7200
+[2017.03.24-15.00.28:317][482]LogTemp:Display: Shader map Grass complete, GameThreadShaderMap 0x00000256084B7200, marking material Grass as finished
+[2017.03.24-15.00.28:317][482]LogTemp:Display: Marking material as finished 0x00000256083A0180
+[2017.03.24-15.00.30:974][622]LogMaterialEditor: Saving and Compiling material Grass
+[2017.03.24-15.00.31:750][622]LogTemp:Display: Finished compile of shader map 0x00000256514ECF00
+[2017.03.24-15.00.31:750][622]LogTemp:Display: Shader map Grass complete, GameThreadShaderMap 0x00000256514ECF00, marking material Grass as finished
+[2017.03.24-15.00.31:750][622]LogTemp:Display: Marking material as finished 0x000002560E426500
+[2017.03.24-15.00.31:797][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Grass.uasset" SILENT=true
+[2017.03.24-15.00.31:821][622]LogSavePackage: Save=16.40ms
+[2017.03.24-15.00.31:821][622]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/Grass2DC85A88498A3CEEA3C1C7874B4AEEB7.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Grass.uasset'
+[2017.03.24-15.00.31:824][622]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Grass.uasset
+[2017.03.24-15.00.31:888][622]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.24-15.00.31:888][622]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.03.24-15.00.31:888][622]MaterialEditorStats: Info Texture samplers: 2/16
+[2017.03.24-15.00.53:379][545]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.03.24-15.00.53:380][545]LogTemp:Display: Added material ShaderMap 0x00000256091EDD00 with Material 0x00000256083A0180 to ShaderMapsBeingCompiled
+[2017.03.24-15.00.53:392][545]LogTemp:Display: Kicking off shader compilation for Grass, GameThreadShaderMap 0x00000256091EDD00
+[2017.03.24-15.00.53:393][545]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.00.53:423][545]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.03.24-15.00.53:425][545]LogTemp:Display: Added material ShaderMap 0x00000256510AF580 with Material 0x00000256511DD300 to ShaderMapsBeingCompiled
+[2017.03.24-15.00.53:429][545]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_0, GameThreadShaderMap 0x00000256510AF580
+[2017.03.24-15.00.55:069][637]LogMaterialEditor: Applying material Grass
+[2017.03.24-15.00.56:134][637]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.03.24-15.00.56:135][637]LogTemp:Display: Added material ShaderMap 0x00000256510AC480 with Material 0x00000256083A0180 to ShaderMapsBeingCompiled
+[2017.03.24-15.00.56:168][637]LogTemp:Display: Kicking off shader compilation for Grass, GameThreadShaderMap 0x00000256510AC480
+[2017.03.24-15.00.56:169][637]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.00.56:182][637]LogTemp:Display: Removed shader map 0x00000256515DF200 from material 0x000002560E426500
+[2017.03.24-15.00.56:192][637]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.03.24-15.00.56:193][637]LogTemp:Display: Added material ShaderMap 0x00000256091EFC80 with Material 0x000002560E426500 to ShaderMapsBeingCompiled
+[2017.03.24-15.00.56:223][637]LogTemp:Display: Kicking off shader compilation for Grass, GameThreadShaderMap 0x00000256091EFC80
+[2017.03.24-15.00.56:226][637]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.03.24-15.00.56:227][637]LogTemp:Display: Added material ShaderMap 0x0000025607F45980 with Material 0x000002560E426500 to ShaderMapsBeingCompiled
+[2017.03.24-15.00.56:250][637]LogTemp:Display: Kicking off shader compilation for Grass, GameThreadShaderMap 0x0000025607F45980
+[2017.03.24-15.00.56:252][637]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.00.56:318][637]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Grass, compiling. 
+[2017.03.24-15.00.56:319][637]LogTemp:Display: Added material ShaderMap 0x0000025650DC0480 with Material 0x0000025651114A00 to ShaderMapsBeingCompiled
+[2017.03.24-15.00.58:274][637]LogTemp:Display: Finished compile of shader map 0x0000025650DC0480
+[2017.03.24-15.00.58:274][637]LogTemp:Display: Shader map FDebugViewModeMaterialProxy Grass complete, GameThreadShaderMap 0x0000025650DC0480, marking material FDebugViewModeMaterialProxy Grass as finished
+[2017.03.24-15.00.58:274][637]LogTemp:Display: Marking material as finished 0x0000025651114A00
+[2017.03.24-15.00.58:278][637]TextureStreamingBuild:Display: Compiling optional shaders took 1.969 seconds.
+[2017.03.24-15.00.58:345][637]LogTemp:Display: Finished compile of shader map 0x00000256091EDD00
+[2017.03.24-15.00.58:345][637]LogTemp:Display: Shader map Grass complete, GameThreadShaderMap 0x00000256091EDD00, marking material Grass as finished
+[2017.03.24-15.00.58:345][637]LogTemp:Display: Marking material as finished 0x00000256083A0180
+[2017.03.24-15.00.58:347][637]LogTemp:Display: Finished compile of shader map 0x00000256510AC480
+[2017.03.24-15.00.58:347][637]LogTemp:Display: Shader map Grass complete, GameThreadShaderMap 0x00000256510AC480, marking material Grass as finished
+[2017.03.24-15.00.58:347][637]LogTemp:Display: Marking material as finished 0x00000256083A0180
+[2017.03.24-15.00.58:350][637]LogTemp:Display: Finished compile of shader map 0x00000256510AF580
+[2017.03.24-15.00.58:350][637]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant3Vector_0 complete, GameThreadShaderMap 0x00000256510AF580, marking material FMatExpressionPreview MaterialExpressionConstant3Vector_0 as finished
+[2017.03.24-15.00.58:350][637]LogTemp:Display: Marking material as finished 0x00000256511DD300
+[2017.03.24-15.01.01:733][820]LogMaterialEditor: Saving and Compiling material Grass
+[2017.03.24-15.01.02:130][820]LogTemp:Display: Finished compile of shader map 0x0000025607F45980
+[2017.03.24-15.01.02:130][820]LogTemp:Display: Shader map Grass complete, GameThreadShaderMap 0x0000025607F45980, marking material Grass as finished
+[2017.03.24-15.01.02:130][820]LogTemp:Display: Marking material as finished 0x000002560E426500
+[2017.03.24-15.01.02:174][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Grass.uasset" SILENT=true
+[2017.03.24-15.01.02:194][820]LogSavePackage: Save=14.77ms
+[2017.03.24-15.01.02:194][820]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/GrassE1CC6BD24F707E959BB0D1902289B591.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Grass.uasset'
+[2017.03.24-15.01.02:197][820]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Grass.uasset
+[2017.03.24-15.01.02:257][820]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.24-15.01.02:257][820]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.03.24-15.01.02:257][820]MaterialEditorStats: Info Texture samplers: 2/16
+[2017.03.24-15.02.36:657][436]LogSavePackage: Save=333.09ms
+[2017.03.24-15.02.36:657][436]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonExampleMapD0CAF9E1459D63C7E1310AB029D1A622.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.03.24-15.02.36:662][436]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.03.24-15.02.38:475][436]LogSavePackage: Save=922.03ms
+[2017.03.24-15.02.38:475][436]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonExampleMap_BuiltData98A56E2A42733A7F667327A3009ADD60.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.03.24-15.02.38:480][436]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.03.24-15.03.37:593][800]LogActorFactory: Actor Factory created Cube
+[2017.03.24-15.03.39:504][877]LogActorFactory: Actor Factory created Cube
+[2017.03.24-15.04.16:147][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.03.24-15.04.22:443][969]Cmd: EDIT COPY
+[2017.03.24-15.04.24:369][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.24-15.04.26:111][129]Cmd: EDIT PASTE
+[2017.03.24-15.04.51:992][622]Cmd: EDIT PASTE
+[2017.03.24-15.05.08:219][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2017.03.24-15.06.31:204][ 96]LogMaterialEditor: Saving and Compiling material Grass
+[2017.03.24-15.06.31:222][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Grass.uasset" SILENT=true
+[2017.03.24-15.06.31:234][ 96]LogSavePackage: Save=4.32ms
+[2017.03.24-15.06.31:234][ 96]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/GrassD84B336F49B46AF275C6AAB3120F2DD8.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Grass.uasset'
+[2017.03.24-15.06.31:236][ 96]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Grass.uasset
+[2017.03.24-15.08.03:810][331]MapCheck: New page: Map Check
+[2017.03.24-15.08.04:065][331]LightingResults: New page: Lighting Build - 24 Mar 2017 3:08:04 pm
+[2017.03.24-15.08.04:899][331]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.03.24-15.08.05:209][331]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.03.24-15.08.05:251][331]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.03.24-15.08.06:856][331]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.03.24-15.08.06:856][331]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9184
+[2017.03.24-15.08.12:705][331]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.03.24-15.08.12:705][331]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.03.24-15.08.12:705][331]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.03.24-15.08.12:705][331]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.03.24-15.08.12:705][331]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.03.24-15.08.13:467][331]LogEditorBuildUtils: Build time 0:09
+[2017.03.24-15.08.13:793][332]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2017.03.24-15.08.13:827][332]LogTemp:Display: Added material ShaderMap 0x000002566300A780 with Material 0x0000025651115900 to ShaderMapsBeingCompiled
+[2017.03.24-15.08.13:829][332]LogTemp:Display: Kicking off shader compilation for FLightmassMaterialRenderer RampMaterial, GameThreadShaderMap 0x000002566300A780
+[2017.03.24-15.08.13:832][332]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2017.03.24-15.08.13:833][332]LogTemp:Display: Added material ShaderMap 0x0000025663009980 with Material 0x0000025651114100 to ShaderMapsBeingCompiled
+[2017.03.24-15.08.13:835][332]LogTemp:Display: Kicking off shader compilation for FLightmassMaterialRenderer RampMaterial, GameThreadShaderMap 0x0000025663009980
+[2017.03.24-15.08.13:864][333]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2017.03.24-15.08.13:866][333]LogTemp:Display: Added material ShaderMap 0x0000025662E2BC80 with Material 0x000002563FB6A500 to ShaderMapsBeingCompiled
+[2017.03.24-15.08.13:870][333]LogTemp:Display: Kicking off shader compilation for FLightmassMaterialRenderer CubeMaterial, GameThreadShaderMap 0x0000025662E2BC80
+[2017.03.24-15.08.13:874][333]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2017.03.24-15.08.13:875][333]LogTemp:Display: Added material ShaderMap 0x000002566FEF7200 with Material 0x000002563FB68D00 to ShaderMapsBeingCompiled
+[2017.03.24-15.08.13:880][333]LogTemp:Display: Kicking off shader compilation for FLightmassMaterialRenderer CubeMaterial, GameThreadShaderMap 0x000002566FEF7200
+[2017.03.24-15.08.13:925][334]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Wood, compiling. 
+[2017.03.24-15.08.13:927][334]LogTemp:Display: Added material ShaderMap 0x0000025617F07900 with Material 0x00000256081CFA00 to ShaderMapsBeingCompiled
+[2017.03.24-15.08.13:930][334]LogTemp:Display: Kicking off shader compilation for FLightmassMaterialRenderer Wood, GameThreadShaderMap 0x0000025617F07900
+[2017.03.24-15.08.13:934][334]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Wood, compiling. 
+[2017.03.24-15.08.13:935][334]LogTemp:Display: Added material ShaderMap 0x0000025617F07C80 with Material 0x00000256703F0100 to ShaderMapsBeingCompiled
+[2017.03.24-15.08.13:939][334]LogTemp:Display: Kicking off shader compilation for FLightmassMaterialRenderer Wood, GameThreadShaderMap 0x0000025617F07C80
+[2017.03.24-15.08.13:955][335]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Snow, compiling. 
+[2017.03.24-15.08.13:957][335]LogTemp:Display: Added material ShaderMap 0x0000025608351980 with Material 0x0000025591F5D000 to ShaderMapsBeingCompiled
+[2017.03.24-15.08.13:960][335]LogTemp:Display: Kicking off shader compilation for FLightmassMaterialRenderer Snow, GameThreadShaderMap 0x0000025608351980
+[2017.03.24-15.08.13:998][335]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Snow, compiling. 
+[2017.03.24-15.08.13:999][335]LogTemp:Display: Added material ShaderMap 0x0000025608352B00 with Material 0x0000025591F5E800 to ShaderMapsBeingCompiled
+[2017.03.24-15.08.14:002][335]LogTemp:Display: Kicking off shader compilation for FLightmassMaterialRenderer Snow, GameThreadShaderMap 0x0000025608352B00
+[2017.03.24-15.08.14:020][336]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Grass, compiling. 
+[2017.03.24-15.08.14:021][336]LogTemp:Display: Added material ShaderMap 0x0000025608353C80 with Material 0x0000025670681C00 to ShaderMapsBeingCompiled
+[2017.03.24-15.08.14:025][336]LogTemp:Display: Kicking off shader compilation for FLightmassMaterialRenderer Grass, GameThreadShaderMap 0x0000025608353C80
+[2017.03.24-15.08.14:075][336]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Grass, compiling. 
+[2017.03.24-15.08.14:076][336]LogTemp:Display: Added material ShaderMap 0x0000025662D08100 with Material 0x0000025670683700 to ShaderMapsBeingCompiled
+[2017.03.24-15.08.14:078][336]LogTemp:Display: Kicking off shader compilation for FLightmassMaterialRenderer Grass, GameThreadShaderMap 0x0000025662D08100
+[2017.03.24-15.08.16:731][337]LogTemp:Display: Finished compile of shader map 0x0000025662E2BC80
+[2017.03.24-15.08.16:731][337]LogTemp:Display: Shader map FLightmassMaterialRenderer CubeMaterial complete, GameThreadShaderMap 0x0000025662E2BC80, marking material FLightmassMaterialRenderer CubeMaterial as finished
+[2017.03.24-15.08.16:731][337]LogTemp:Display: Marking material as finished 0x000002563FB6A500
+[2017.03.24-15.08.16:734][337]LogTemp:Display: Finished compile of shader map 0x000002566FEF7200
+[2017.03.24-15.08.16:734][337]LogTemp:Display: Shader map FLightmassMaterialRenderer CubeMaterial complete, GameThreadShaderMap 0x000002566FEF7200, marking material FLightmassMaterialRenderer CubeMaterial as finished
+[2017.03.24-15.08.16:734][337]LogTemp:Display: Marking material as finished 0x000002563FB68D00
+[2017.03.24-15.08.16:737][337]LogTemp:Display: Finished compile of shader map 0x000002566300A780
+[2017.03.24-15.08.16:737][337]LogTemp:Display: Shader map FLightmassMaterialRenderer RampMaterial complete, GameThreadShaderMap 0x000002566300A780, marking material FLightmassMaterialRenderer RampMaterial as finished
+[2017.03.24-15.08.16:737][337]LogTemp:Display: Marking material as finished 0x0000025651115900
+[2017.03.24-15.08.16:740][337]LogTemp:Display: Finished compile of shader map 0x0000025663009980
+[2017.03.24-15.08.16:740][337]LogTemp:Display: Shader map FLightmassMaterialRenderer RampMaterial complete, GameThreadShaderMap 0x0000025663009980, marking material FLightmassMaterialRenderer RampMaterial as finished
+[2017.03.24-15.08.16:740][337]LogTemp:Display: Marking material as finished 0x0000025651114100
+[2017.03.24-15.08.16:743][337]LogTemp:Display: Finished compile of shader map 0x0000025662D08100
+[2017.03.24-15.08.16:743][337]LogTemp:Display: Shader map FLightmassMaterialRenderer Grass complete, GameThreadShaderMap 0x0000025662D08100, marking material FLightmassMaterialRenderer Grass as finished
+[2017.03.24-15.08.16:743][337]LogTemp:Display: Marking material as finished 0x0000025670683700
+[2017.03.24-15.08.16:746][337]LogTemp:Display: Finished compile of shader map 0x0000025617F07900
+[2017.03.24-15.08.16:746][337]LogTemp:Display: Shader map FLightmassMaterialRenderer Wood complete, GameThreadShaderMap 0x0000025617F07900, marking material FLightmassMaterialRenderer Wood as finished
+[2017.03.24-15.08.16:746][337]LogTemp:Display: Marking material as finished 0x00000256081CFA00
+[2017.03.24-15.08.16:839][337]LogTemp:Display: Finished compile of shader map 0x0000025617F07C80
+[2017.03.24-15.08.16:839][337]LogTemp:Display: Shader map FLightmassMaterialRenderer Wood complete, GameThreadShaderMap 0x0000025617F07C80, marking material FLightmassMaterialRenderer Wood as finished
+[2017.03.24-15.08.16:839][337]LogTemp:Display: Marking material as finished 0x00000256703F0100
+[2017.03.24-15.08.16:848][337]LogTemp:Display: Finished compile of shader map 0x0000025608351980
+[2017.03.24-15.08.16:849][337]LogTemp:Display: Shader map FLightmassMaterialRenderer Snow complete, GameThreadShaderMap 0x0000025608351980, marking material FLightmassMaterialRenderer Snow as finished
+[2017.03.24-15.08.16:849][337]LogTemp:Display: Marking material as finished 0x0000025591F5D000
+[2017.03.24-15.08.16:859][337]LogTemp:Display: Finished compile of shader map 0x0000025608352B00
+[2017.03.24-15.08.16:859][337]LogTemp:Display: Shader map FLightmassMaterialRenderer Snow complete, GameThreadShaderMap 0x0000025608352B00, marking material FLightmassMaterialRenderer Snow as finished
+[2017.03.24-15.08.16:859][337]LogTemp:Display: Marking material as finished 0x0000025591F5E800
+[2017.03.24-15.08.16:869][337]LogTemp:Display: Finished compile of shader map 0x0000025608353C80
+[2017.03.24-15.08.16:869][337]LogTemp:Display: Shader map FLightmassMaterialRenderer Grass complete, GameThreadShaderMap 0x0000025608353C80, marking material FLightmassMaterialRenderer Grass as finished
+[2017.03.24-15.08.16:869][337]LogTemp:Display: Marking material as finished 0x0000025670681C00
+[2017.03.24-15.08.35:484][190]Job is a success!
+[2017.03.24-15.08.35:911][191]LogMaterial:Warning: Material /Game/Textures/Wood.Wood needed to have new flag set bUsedWithStaticLighting !
+[2017.03.24-15.08.35:927][191]LogMaterial:Warning: Material /Engine/Transient.Wood needed to have new flag set bUsedWithStaticLighting !
+[2017.03.24-15.08.35:959][191]LogMaterial: Missing cached shader map for material Wood, compiling. 
+[2017.03.24-15.08.35:961][191]LogTemp:Display: Added material ShaderMap 0x0000025662D08480 with Material 0x0000025626BA2200 to ShaderMapsBeingCompiled
+[2017.03.24-15.08.35:985][191]LogTemp:Display: Kicking off shader compilation for Wood, GameThreadShaderMap 0x0000025662D08480
+[2017.03.24-15.08.35:986][191]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.08.35:997][191]LogMaterial: Missing cached shader map for material Wood, compiling. 
+[2017.03.24-15.08.35:999][191]LogTemp:Display: Added material ShaderMap 0x00000255BBC9E080 with Material 0x000002562421A980 to ShaderMapsBeingCompiled
+[2017.03.24-15.08.36:085][191]LogTemp:Display: Kicking off shader compilation for Wood, GameThreadShaderMap 0x00000255BBC9E080
+[2017.03.24-15.08.36:085][191]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.08.36:086][191]LogMaterial:Warning: Material /Game/Textures/Grass.Grass needed to have new flag set bUsedWithStaticLighting !
+[2017.03.24-15.08.36:086][191]LogMaterial:Warning: Material /Engine/Transient.Grass needed to have new flag set bUsedWithStaticLighting !
+[2017.03.24-15.08.36:089][191]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.03.24-15.08.36:090][191]LogTemp:Display: Added material ShaderMap 0x0000025662282400 with Material 0x00000256083A0180 to ShaderMapsBeingCompiled
+[2017.03.24-15.08.36:127][191]LogTemp:Display: Kicking off shader compilation for Grass, GameThreadShaderMap 0x0000025662282400
+[2017.03.24-15.08.36:127][191]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.08.36:130][191]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.03.24-15.08.36:132][191]LogTemp:Display: Added material ShaderMap 0x0000025671146780 with Material 0x000002560E426500 to ShaderMapsBeingCompiled
+[2017.03.24-15.08.36:165][191]LogTemp:Display: Kicking off shader compilation for Grass, GameThreadShaderMap 0x0000025671146780
+[2017.03.24-15.08.36:165][191]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.08.36:165][191]LogMaterial:Warning: Material /Game/Textures/Snow.Snow needed to have new flag set bUsedWithStaticLighting !
+[2017.03.24-15.08.36:165][191]LogMaterial:Warning: Material /Engine/Transient.Snow needed to have new flag set bUsedWithStaticLighting !
+[2017.03.24-15.08.36:177][191]LogMaterial: Missing cached shader map for material Snow, compiling. 
+[2017.03.24-15.08.36:178][191]LogTemp:Display: Added material ShaderMap 0x000002568A93B900 with Material 0x000002563FDAD580 to ShaderMapsBeingCompiled
+[2017.03.24-15.08.36:197][191]LogTemp:Display: Kicking off shader compilation for Snow, GameThreadShaderMap 0x000002568A93B900
+[2017.03.24-15.08.36:198][191]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.08.36:201][191]LogMaterial: Missing cached shader map for material Snow, compiling. 
+[2017.03.24-15.08.36:202][191]LogTemp:Display: Added material ShaderMap 0x000002568A882400 with Material 0x00000255AB462080 to ShaderMapsBeingCompiled
+[2017.03.24-15.08.36:230][191]LogTemp:Display: Kicking off shader compilation for Snow, GameThreadShaderMap 0x000002568A882400
+[2017.03.24-15.08.36:231][191]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.08.38:286][191]LogTexture:Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512) - 132 MB total VRAM
+[2017.03.24-15.08.38:286][191]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024) - 132 MB total VRAM
+[2017.03.24-15.08.38:286][191]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024) - 132 MB total VRAM
+[2017.03.24-15.08.38:286][191]LogTexture:Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256) - 132 MB total VRAM
+[2017.03.24-15.08.38:286][191]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512) - 132 MB total VRAM
+[2017.03.24-15.08.38:286][191]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512) - 132 MB total VRAM
+[2017.03.24-15.08.38:286][191]LogTexture:Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32) - 132 MB total VRAM
+[2017.03.24-15.08.38:286][191]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64) - 132 MB total VRAM
+[2017.03.24-15.08.38:286][191]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64) - 132 MB total VRAM
+[2017.03.24-15.08.38:997][191]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024) - 132 MB total VRAM
+[2017.03.24-15.08.38:997][191]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32) - 132 MB total VRAM
+[2017.03.24-15.08.39:086][191]Lightmass on ELIO-GOLD: 20.0 sec total, 161 ms importing, 4 ms setup, 2.17 sec photons, 17.5 sec processing, 0 ms extra exporting [15/15 mappings]. Threads: 1:10 min total, 36.6 sec processing.
+[2017.03.24-15.08.39:241][191]LogStaticLightingSystem: Illumination: 35.0 sec (1.99 sec encoding lightmaps, 708 ms encoding shadowmaps)
+[2017.03.24-15.08.39:241][191]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2017.03.24-15.08.39:241][191]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.03.24-15.08.39:644][191]DumpUnbuiltLightIteractions
+[2017.03.24-15.08.39:644][191]Lights with unbuilt interactions: 0
+[2017.03.24-15.08.39:644][191]
+[2017.03.24-15.08.39:644][191]Primitives with unbuilt interactions: 0
+[2017.03.24-15.08.39:655][192]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.03.24-15.08.39:700][192]MapCheck: New page: ThirdPersonExampleMap - 24 Mar 2017 3:08:39 pm
+[2017.03.24-15.08.41:132][192]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 1,426.338ms to complete.
+[2017.03.24-15.08.41:144][192]LogTemp:Display: Finished compile of shader map 0x0000025662D08480
+[2017.03.24-15.08.41:144][192]LogTemp:Display: Shader map Wood complete, GameThreadShaderMap 0x0000025662D08480, marking material Wood as finished
+[2017.03.24-15.08.41:144][192]LogTemp:Display: Marking material as finished 0x0000025626BA2200
+[2017.03.24-15.08.42:229][246]LogTemp:Display: Finished compile of shader map 0x0000025662282400
+[2017.03.24-15.08.42:229][246]LogTemp:Display: Shader map Grass complete, GameThreadShaderMap 0x0000025662282400, marking material Grass as finished
+[2017.03.24-15.08.42:229][246]LogTemp:Display: Marking material as finished 0x00000256083A0180
+[2017.03.24-15.08.45:934][462]LogTemp:Display: Finished compile of shader map 0x000002568A93B900
+[2017.03.24-15.08.45:934][462]LogTemp:Display: Shader map Snow complete, GameThreadShaderMap 0x000002568A93B900, marking material Snow as finished
+[2017.03.24-15.08.45:934][462]LogTemp:Display: Marking material as finished 0x000002563FDAD580
+[2017.03.24-15.08.52:937][859]LogTemp:Display: Finished compile of shader map 0x00000255BBC9E080
+[2017.03.24-15.08.52:937][859]LogTemp:Display: Shader map Wood complete, GameThreadShaderMap 0x00000255BBC9E080, marking material Wood as finished
+[2017.03.24-15.08.52:937][859]LogTemp:Display: Marking material as finished 0x000002562421A980
+[2017.03.24-15.08.52:952][860]MaterialEditorStats: Info Base pass shader with static lighting: 106 instructions
+[2017.03.24-15.08.52:952][860]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.24-15.08.52:952][860]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.03.24-15.08.52:952][860]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.24-15.08.58:450][171]LogTemp:Display: Finished compile of shader map 0x0000025671146780
+[2017.03.24-15.08.58:450][171]LogTemp:Display: Shader map Grass complete, GameThreadShaderMap 0x0000025671146780, marking material Grass as finished
+[2017.03.24-15.08.58:450][171]LogTemp:Display: Marking material as finished 0x000002560E426500
+[2017.03.24-15.08.58:471][172]MaterialEditorStats: Info Base pass shader with static lighting: 106 instructions
+[2017.03.24-15.08.58:471][172]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.24-15.08.58:471][172]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.03.24-15.08.58:471][172]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.24-15.09.02:900][434]LogTemp:Display: Finished compile of shader map 0x000002568A882400
+[2017.03.24-15.09.02:900][434]LogTemp:Display: Shader map Snow complete, GameThreadShaderMap 0x000002568A882400, marking material Snow as finished
+[2017.03.24-15.09.02:900][434]LogTemp:Display: Marking material as finished 0x00000255AB462080
+[2017.03.24-15.09.03:044][435]MaterialEditorStats: Info Base pass shader with static lighting: 106 instructions
+[2017.03.24-15.09.03:044][435]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.24-15.09.03:044][435]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.03.24-15.09.03:044][435]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.24-15.10.15:580][218]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Footprints
+
+[2017.03.24-15.10.15:580][218]LogTemp:Display: CWD: E:\UE_4.15\Engine\Binaries\DotNET\IOS
+
+[2017.03.24-15.10.15:580][218]LogTemp:Display: Initial Dir: E:\UE_4.15
+
+[2017.03.24-15.10.15:580][218]LogTemp:Display: Env CWD: E:\UE_4.15\Engine\Binaries\DotNET\IOS
+
+[2017.03.24-15.10.15:580][218]LogTemp:Display: BranchPath = ELIO-GOLD/E/UE_4.15/Engine/Binaries --- GameBranchPath = ELIO-GOLD/E/UE_4.15/Engine/Binaries
+
+[2017.03.24-15.10.15:580][218]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.03.24-15.10.17:239][219]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Elio\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.03.24-15.10.17:239][219]LogTemp:Display:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.03.24-15.10.17:239][219]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.03.24-15.10.17:239][219]LogTemp:Display:    at System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.03.24-15.10.17:239][219]LogTemp:Display:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.03.24-15.10.17:239][219]LogTemp:Display:    at iPhonePackager.Program.Main(String[] args)
+
+[2017.03.24-15.12.31:132][639]LogSavePackage: Save=224.07ms
+[2017.03.24-15.12.31:132][639]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonExampleMapAA285E8442EEBFB65AEAE09E047925FD.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.03.24-15.12.31:137][639]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.03.24-15.12.31:556][639]LogSavePackage: Save=391.47ms
+[2017.03.24-15.12.31:556][639]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonExampleMap_BuiltData8651CEE8407B61E6F892F2AD0D14F786.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.03.24-15.12.31:559][639]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.03.24-15.13.26:404][521]LogSavePackage: Save=200.91ms
+[2017.03.24-15.13.26:404][521]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonExampleMapCF8A8EFB4C2F8C6894DD90A22A6072EB.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.03.24-15.13.26:407][521]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.03.24-15.13.26:812][521]LogSavePackage: Save=385.06ms
+[2017.03.24-15.13.26:812][521]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonExampleMap_BuiltDataF07A53484314C70EDC077A9E835D5E7F.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.03.24-15.13.26:814][521]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.03.24-15.13.32:030][754]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.03.24-15.13.32:133][757]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Footprints
+
+[2017.03.24-15.13.32:133][757]LogTemp:Display: CWD: E:\UE_4.15\Engine\Binaries\DotNET\IOS
+
+[2017.03.24-15.13.32:133][757]LogTemp:Display: Initial Dir: E:\UE_4.15
+
+[2017.03.24-15.13.32:133][757]LogTemp:Display: Env CWD: E:\UE_4.15\Engine\Binaries\DotNET\IOS
+
+[2017.03.24-15.13.32:138][757]LogTemp:Display: BranchPath = ELIO-GOLD/E/UE_4.15/Engine/Binaries --- GameBranchPath = ELIO-GOLD/E/UE_4.15/Engine/Binaries
+
+[2017.03.24-15.13.32:162][757]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Elio\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.03.24-15.13.32:162][757]LogTemp:Display:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.03.24-15.13.32:162][757]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.03.24-15.13.32:162][757]LogTemp:Display:    at System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.03.24-15.13.32:162][757]LogTemp:Display:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.03.24-15.13.32:162][757]LogTemp:Display:    at iPhonePackager.Program.Main(String[] args)
+
+[2017.03.24-15.13.54:950][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Surfaces/Grass" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Surfaces/Grass.uasset" SILENT=true
+[2017.03.24-15.13.54:956][ 78]LogSavePackage: Save=3.03ms
+[2017.03.24-15.13.54:956][ 78]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/Grass54658B8C4390C1E19CA3D2B6CA15E13B.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Surfaces/Grass.uasset'
+[2017.03.24-15.13.54:960][ 78]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Surfaces/Grass.uasset
+[2017.03.24-15.14.07:294][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Surfaces/Snow" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Surfaces/Snow.uasset" SILENT=true
+[2017.03.24-15.14.07:368][812]LogSavePackage: Save=8.01ms
+[2017.03.24-15.14.07:368][812]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/SnowEACB8D5E4470853F1E0A5DB4C3574B51.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Surfaces/Snow.uasset'
+[2017.03.24-15.14.07:376][812]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Surfaces/Snow.uasset
+[2017.03.24-15.14.12:387][101]LogMaterialEditor: Saving and Compiling material Grass
+[2017.03.24-15.14.12:401][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Grass.uasset" SILENT=true
+[2017.03.24-15.14.12:415][101]LogSavePackage: Save=4.03ms
+[2017.03.24-15.14.12:415][101]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/Grass842BB7FD4F9686167EEFC9B08E3DD961.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Grass.uasset'
+[2017.03.24-15.14.12:417][101]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Grass.uasset
+[2017.03.24-15.14.26:770][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Surfaces/Wood" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Surfaces/Wood.uasset" SILENT=true
+[2017.03.24-15.14.26:778][951]LogSavePackage: Save=4.68ms
+[2017.03.24-15.14.26:778][951]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/WoodC6E7DF6341B6CFBAF1BE11BB877ED4FE.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Surfaces/Wood.uasset'
+[2017.03.24-15.14.26:780][951]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Surfaces/Wood.uasset
+[2017.03.24-15.14.44:606][960]LogMaterialEditor: Saving and Compiling material Snow
+[2017.03.24-15.14.44:622][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Snow" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Snow.uasset" SILENT=true
+[2017.03.24-15.14.44:651][960]LogSavePackage: Save=5.37ms
+[2017.03.24-15.14.44:651][960]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/SnowA2EB9A0C454E4CC9727E6C8CE83ADFB4.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Snow.uasset'
+[2017.03.24-15.14.44:654][960]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Snow.uasset
+[2017.03.24-15.14.46:749][ 73]LogMaterialEditor: Saving and Compiling material Wood
+[2017.03.24-15.14.46:782][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Wood" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Wood.uasset" SILENT=true
+[2017.03.24-15.14.46:798][ 73]LogSavePackage: Save=9.37ms
+[2017.03.24-15.14.46:798][ 73]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/WoodCC3D02AC42EAF6A7DCAAC48D81C0B8B8.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Wood.uasset'
+[2017.03.24-15.14.46:802][ 73]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Wood.uasset
+[2017.03.24-15.15.43:332][ 65]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.03.24-15.15.43:333][ 65]LogTemp:Display: Added material ShaderMap 0x000002565453E400 with Material 0x00000256083A0180 to ShaderMapsBeingCompiled
+[2017.03.24-15.15.43:344][ 65]LogTemp:Display: Kicking off shader compilation for Grass, GameThreadShaderMap 0x000002565453E400
+[2017.03.24-15.15.43:345][ 65]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.15.45:459][169]LogMaterialEditor: Applying material Grass
+[2017.03.24-15.15.46:646][169]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.03.24-15.15.46:648][169]LogTemp:Display: Added material ShaderMap 0x0000025649160800 with Material 0x00000256083A0180 to ShaderMapsBeingCompiled
+[2017.03.24-15.15.46:682][169]LogTemp:Display: Kicking off shader compilation for Grass, GameThreadShaderMap 0x0000025649160800
+[2017.03.24-15.15.46:683][169]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.15.46:698][169]LogTemp:Display: Removed shader map 0x00000256091EFC80 from material 0x000002560E426500
+[2017.03.24-15.15.46:708][169]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.03.24-15.15.46:709][169]LogTemp:Display: Added material ShaderMap 0x00000256093C6E80 with Material 0x00000255AD3AB400 to ShaderMapsBeingCompiled
+[2017.03.24-15.15.46:747][169]LogTemp:Display: Kicking off shader compilation for Grass, GameThreadShaderMap 0x00000256093C6E80
+[2017.03.24-15.15.46:749][169]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.03.24-15.15.46:750][169]LogTemp:Display: Added material ShaderMap 0x00000255A77DB900 with Material 0x00000255AD3AB400 to ShaderMapsBeingCompiled
+[2017.03.24-15.15.46:777][169]LogTemp:Display: Kicking off shader compilation for Grass, GameThreadShaderMap 0x00000255A77DB900
+[2017.03.24-15.15.46:779][169]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.15.46:864][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Grass, compiling. 
+[2017.03.24-15.15.46:865][169]LogTemp:Display: Added material ShaderMap 0x00000256555B5280 with Material 0x0000025654B2B700 to ShaderMapsBeingCompiled
+[2017.03.24-15.15.48:615][169]LogTemp:Display: Finished compile of shader map 0x00000256555B5280
+[2017.03.24-15.15.48:615][169]LogTemp:Display: Shader map FDebugViewModeMaterialProxy Grass complete, GameThreadShaderMap 0x00000256555B5280, marking material FDebugViewModeMaterialProxy Grass as finished
+[2017.03.24-15.15.48:615][169]LogTemp:Display: Marking material as finished 0x0000025654B2B700
+[2017.03.24-15.15.48:620][169]TextureStreamingBuild:Display: Compiling optional shaders took 1.764 seconds.
+[2017.03.24-15.15.48:681][169]LogTemp:Display: Finished compile of shader map 0x0000025649160800
+[2017.03.24-15.15.48:682][169]LogTemp:Display: Shader map Grass complete, GameThreadShaderMap 0x0000025649160800, marking material Grass as finished
+[2017.03.24-15.15.48:682][169]LogTemp:Display: Marking material as finished 0x00000256083A0180
+[2017.03.24-15.15.48:685][169]LogTemp:Display: Finished compile of shader map 0x000002565453E400
+[2017.03.24-15.15.48:686][169]LogTemp:Display: Shader map Grass complete, GameThreadShaderMap 0x000002565453E400, marking material Grass as finished
+[2017.03.24-15.15.48:686][169]LogTemp:Display: Marking material as finished 0x00000256083A0180
+[2017.03.24-15.15.56:340][533]LogTemp:Display: Finished compile of shader map 0x00000255A77DB900
+[2017.03.24-15.15.56:340][533]LogTemp:Display: Shader map Grass complete, GameThreadShaderMap 0x00000255A77DB900, marking material Grass as finished
+[2017.03.24-15.15.56:340][533]LogTemp:Display: Marking material as finished 0x00000255AD3AB400
+[2017.03.24-15.15.56:363][534]MaterialEditorStats: Info Base pass shader with static lighting: 106 instructions
+[2017.03.24-15.15.56:363][534]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.24-15.15.56:363][534]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.03.24-15.15.56:363][534]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.24-15.15.57:337][589]LogMaterial: Missing cached shader map for material Wood, compiling. 
+[2017.03.24-15.15.57:338][589]LogTemp:Display: Added material ShaderMap 0x00000256555B5280 with Material 0x0000025626BA2200 to ShaderMapsBeingCompiled
+[2017.03.24-15.15.57:349][589]LogTemp:Display: Kicking off shader compilation for Wood, GameThreadShaderMap 0x00000256555B5280
+[2017.03.24-15.15.57:349][589]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.15.58:729][646]LogMaterialEditor: Applying material Wood
+[2017.03.24-15.15.59:784][646]LogMaterial: Missing cached shader map for material Wood, compiling. 
+[2017.03.24-15.15.59:785][646]LogTemp:Display: Added material ShaderMap 0x0000025608630F00 with Material 0x0000025626BA2200 to ShaderMapsBeingCompiled
+[2017.03.24-15.15.59:822][646]LogTemp:Display: Kicking off shader compilation for Wood, GameThreadShaderMap 0x0000025608630F00
+[2017.03.24-15.15.59:823][646]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.15.59:836][646]LogTemp:Display: Removed shader map 0x00000256189CB580 from material 0x000002562421A980
+[2017.03.24-15.15.59:846][646]LogMaterial: Missing cached shader map for material Wood, compiling. 
+[2017.03.24-15.15.59:847][646]LogTemp:Display: Added material ShaderMap 0x00000256089CA780 with Material 0x00000255ACA15480 to ShaderMapsBeingCompiled
+[2017.03.24-15.15.59:894][646]LogTemp:Display: Kicking off shader compilation for Wood, GameThreadShaderMap 0x00000256089CA780
+[2017.03.24-15.15.59:898][646]LogMaterial: Missing cached shader map for material Wood, compiling. 
+[2017.03.24-15.15.59:899][646]LogTemp:Display: Added material ShaderMap 0x00000256691C8480 with Material 0x00000255ACA15480 to ShaderMapsBeingCompiled
+[2017.03.24-15.15.59:931][646]LogTemp:Display: Kicking off shader compilation for Wood, GameThreadShaderMap 0x00000256691C8480
+[2017.03.24-15.15.59:933][646]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.16.00:048][646]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wood, compiling. 
+[2017.03.24-15.16.00:050][646]LogTemp:Display: Added material ShaderMap 0x00000255A7C71980 with Material 0x00000256545C4D00 to ShaderMapsBeingCompiled
+[2017.03.24-15.16.01:750][646]LogTemp:Display: Finished compile of shader map 0x00000255A7C71980
+[2017.03.24-15.16.01:750][646]LogTemp:Display: Shader map FDebugViewModeMaterialProxy Wood complete, GameThreadShaderMap 0x00000255A7C71980, marking material FDebugViewModeMaterialProxy Wood as finished
+[2017.03.24-15.16.01:750][646]LogTemp:Display: Marking material as finished 0x00000256545C4D00
+[2017.03.24-15.16.01:754][646]TextureStreamingBuild:Display: Compiling optional shaders took 1.766 seconds.
+[2017.03.24-15.16.01:801][646]LogTemp:Display: Finished compile of shader map 0x00000256555B5280
+[2017.03.24-15.16.01:801][646]LogTemp:Display: Shader map Wood complete, GameThreadShaderMap 0x00000256555B5280, marking material Wood as finished
+[2017.03.24-15.16.01:801][646]LogTemp:Display: Marking material as finished 0x0000025626BA2200
+[2017.03.24-15.16.01:803][646]LogTemp:Display: Finished compile of shader map 0x0000025608630F00
+[2017.03.24-15.16.01:803][646]LogTemp:Display: Shader map Wood complete, GameThreadShaderMap 0x0000025608630F00, marking material Wood as finished
+[2017.03.24-15.16.01:803][646]LogTemp:Display: Marking material as finished 0x0000025626BA2200
+[2017.03.24-15.16.02:989][698]LogMaterialEditor: Saving and Compiling material Wood
+[2017.03.24-15.16.05:286][698]LogTemp:Display: Finished compile of shader map 0x00000256691C8480
+[2017.03.24-15.16.05:286][698]LogTemp:Display: Shader map Wood complete, GameThreadShaderMap 0x00000256691C8480, marking material Wood as finished
+[2017.03.24-15.16.05:286][698]LogTemp:Display: Marking material as finished 0x00000255ACA15480
+[2017.03.24-15.16.05:346][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Wood" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Wood.uasset" SILENT=true
+[2017.03.24-15.16.05:365][698]LogSavePackage: Save=14.55ms
+[2017.03.24-15.16.05:365][698]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/Wood9DD420ED4698F060EA2365A48C204262.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Wood.uasset'
+[2017.03.24-15.16.05:368][698]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Wood.uasset
+[2017.03.24-15.16.05:428][698]MaterialEditorStats: Info Base pass shader with static lighting: 106 instructions
+[2017.03.24-15.16.05:428][698]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.24-15.16.05:428][698]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.03.24-15.16.05:428][698]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.24-15.16.12:373][ 90]LogMaterial: Missing cached shader map for material Snow, compiling. 
+[2017.03.24-15.16.12:374][ 90]LogTemp:Display: Added material ShaderMap 0x00000255A7DC4480 with Material 0x000002563FDAD580 to ShaderMapsBeingCompiled
+[2017.03.24-15.16.12:387][ 90]LogTemp:Display: Kicking off shader compilation for Snow, GameThreadShaderMap 0x00000255A7DC4480
+[2017.03.24-15.16.12:387][ 90]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.16.14:285][172]LogMaterialEditor: Applying material Snow
+[2017.03.24-15.16.15:349][172]LogMaterial: Missing cached shader map for material Snow, compiling. 
+[2017.03.24-15.16.15:351][172]LogTemp:Display: Added material ShaderMap 0x000002565E1D4100 with Material 0x000002563FDAD580 to ShaderMapsBeingCompiled
+[2017.03.24-15.16.15:390][172]LogTemp:Display: Kicking off shader compilation for Snow, GameThreadShaderMap 0x000002565E1D4100
+[2017.03.24-15.16.15:390][172]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.16.15:404][172]LogTemp:Display: Removed shader map 0x0000025621283C80 from material 0x00000255AB462080
+[2017.03.24-15.16.15:415][172]LogMaterial: Missing cached shader map for material Snow, compiling. 
+[2017.03.24-15.16.15:416][172]LogTemp:Display: Added material ShaderMap 0x00000255BBE7BC80 with Material 0x0000025617D49000 to ShaderMapsBeingCompiled
+[2017.03.24-15.16.15:465][172]LogTemp:Display: Kicking off shader compilation for Snow, GameThreadShaderMap 0x00000255BBE7BC80
+[2017.03.24-15.16.15:469][172]LogMaterial: Missing cached shader map for material Snow, compiling. 
+[2017.03.24-15.16.15:470][172]LogTemp:Display: Added material ShaderMap 0x0000025668268B80 with Material 0x0000025617D49000 to ShaderMapsBeingCompiled
+[2017.03.24-15.16.15:503][172]LogTemp:Display: Kicking off shader compilation for Snow, GameThreadShaderMap 0x0000025668268B80
+[2017.03.24-15.16.15:505][172]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.24-15.16.15:573][172]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Snow, compiling. 
+[2017.03.24-15.16.15:575][172]LogTemp:Display: Added material ShaderMap 0x00000255A7B09D00 with Material 0x00000255A7AF6500 to ShaderMapsBeingCompiled
+[2017.03.24-15.16.17:396][172]LogTemp:Display: Finished compile of shader map 0x00000255A7B09D00
+[2017.03.24-15.16.17:396][172]LogTemp:Display: Shader map FDebugViewModeMaterialProxy Snow complete, GameThreadShaderMap 0x00000255A7B09D00, marking material FDebugViewModeMaterialProxy Snow as finished
+[2017.03.24-15.16.17:396][172]LogTemp:Display: Marking material as finished 0x00000255A7AF6500
+[2017.03.24-15.16.17:401][172]TextureStreamingBuild:Display: Compiling optional shaders took 1.837 seconds.
+[2017.03.24-15.16.17:463][172]LogTemp:Display: Finished compile of shader map 0x00000255A7DC4480
+[2017.03.24-15.16.17:463][172]LogTemp:Display: Shader map Snow complete, GameThreadShaderMap 0x00000255A7DC4480, marking material Snow as finished
+[2017.03.24-15.16.17:463][172]LogTemp:Display: Marking material as finished 0x000002563FDAD580
+[2017.03.24-15.16.17:465][172]LogTemp:Display: Finished compile of shader map 0x000002565E1D4100
+[2017.03.24-15.16.17:465][172]LogTemp:Display: Shader map Snow complete, GameThreadShaderMap 0x000002565E1D4100, marking material Snow as finished
+[2017.03.24-15.16.17:465][172]LogTemp:Display: Marking material as finished 0x000002563FDAD580
+[2017.03.24-15.16.20:293][304]LogMaterialEditor: Saving and Compiling material Snow
+[2017.03.24-15.16.22:089][304]LogTemp:Display: Finished compile of shader map 0x0000025668268B80
+[2017.03.24-15.16.22:089][304]LogTemp:Display: Shader map Snow complete, GameThreadShaderMap 0x0000025668268B80, marking material Snow as finished
+[2017.03.24-15.16.22:089][304]LogTemp:Display: Marking material as finished 0x0000025617D49000
+[2017.03.24-15.16.22:149][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Snow" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Snow.uasset" SILENT=true
+[2017.03.24-15.16.22:169][304]LogSavePackage: Save=15.41ms
+[2017.03.24-15.16.22:169][304]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/Snow1A4C885A4F50C254CE72889A9DE0A0ED.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Snow.uasset'
+[2017.03.24-15.16.22:172][304]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Snow.uasset
+[2017.03.24-15.16.22:234][304]MaterialEditorStats: Info Base pass shader with static lighting: 106 instructions
+[2017.03.24-15.16.22:234][304]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.24-15.16.22:234][304]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.03.24-15.16.22:234][304]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.24-15.20.47:561][313]LogSavePackage: Save=149.54ms
+[2017.03.24-15.20.47:561][313]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonCharacter30D4690445D4EFCD875DABB8E3F5E0F1.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.03.24-15.20.47:564][313]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.03.24-15.24.21:537][754]LogSavePackage: Save=66.04ms
+[2017.03.24-15.24.21:538][754]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonCharacterB14D6C0445C2765D7464F99567DC3C2B.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.03.24-15.24.21:541][754]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.03.24-15.24.47:458][172]LogSavePackage: Save=62.49ms
+[2017.03.24-15.24.47:458][172]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonCharacterAB0CF9124A1F6E7F4671FC8BF5C60CB9.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.03.24-15.24.47:461][172]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.03.24-15.24.48:782][225]LogSavePackage: Save=209.36ms
+[2017.03.24-15.24.48:782][225]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonExampleMap_Auto518B4B4B24502621BAD3D0DA84FE1AF44.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2017.03.24-15.24.48:784][225]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap
+[2017.03.24-15.24.48:786][225]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.271
+[2017.03.24-15.24.48:786][225]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.271
+[2017.03.24-15.24.48:788][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Snow2" FILE="../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Textures/Snow2_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2017.03.24-15.24.48:795][225]LogSavePackage: Save=3.25ms
+[2017.03.24-15.24.48:795][225]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/Snow2_Auto5B17A193647B1AD38FEECC387E2F517CB.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Textures/Snow2_Auto5.uasset'
+[2017.03.24-15.24.48:797][225]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Textures/Snow2_Auto5.uasset
+[2017.03.24-15.24.48:798][225]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Grass] ([1] browsable assets)...
+[2017.03.24-15.24.48:820][225]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/Grass.Grass]
+[2017.03.24-15.24.48:820][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Grass]
+[2017.03.24-15.24.48:820][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass" FILE="../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Textures/Grass_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2017.03.24-15.24.48:866][225]LogSavePackage: Save=15.19ms
+[2017.03.24-15.24.48:866][225]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/Grass_Auto5C10301AC443D336CC1AE8BAE94EEBB50.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Textures/Grass_Auto5.uasset'
+[2017.03.24-15.24.48:868][225]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Textures/Grass_Auto5.uasset
+[2017.03.24-15.24.48:868][225]LogFileHelpers: Auto-saving content packages took 0.081
+[2017.03.24-15.24.52:002][412]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.24-15.24.52:012][412]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-15.24.52:012][412]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.24-15.24.52:012][412]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2017.03.24-15.24.52:058][412]LogPlayLevel: [PlayLevel]   Compiling ThirdPerson_AnimBP as a dependent...
+[2017.03.24-15.24.52:454][412]LogPlayLevel: PlayLevel: Blueprint regeneration took 441 ms (2 blueprints)
+[2017.03.24-15.24.52:454][412]PIE: New page: PIE session: ThirdPersonExampleMap (24 Mar 2017 3:24:52 pm)
+[2017.03.24-15.24.52:454][412]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.24-15.24.52:495][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040542s)
+[2017.03.24-15.24.52:497][412]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.24-15.24.52:499][412]LogPlayLevel: PIE: World Init took: (0.003854s)
+[2017.03.24-15.24.52:499][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.045255s)
+[2017.03.24-15.24.52:568][412]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.24-15.24.52:580][412]LogInit: FAudioDevice initialized.
+[2017.03.24-15.24.52:616][412]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.03.24-15.24.52:658][412]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.24-15.24.52
+[2017.03.24-15.24.52:658][412]LogWorld: Bringing up level for play took: 0.042564
+[2017.03.24-15.24.52:683][412]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.03.24-15.24.52:685][412]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.509
+[2017.03.24-15.24.52:686][412]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-15.25.49:115][783]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-15.25.49:636][783]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-15.25.52:490][938]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.24-15.25.52:499][938]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-15.25.52:499][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.24-15.25.52:500][938]PIE: New page: PIE session: ThirdPersonExampleMap (24 Mar 2017 3:25:52 pm)
+[2017.03.24-15.25.52:500][938]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.24-15.25.52:525][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025289s)
+[2017.03.24-15.25.52:526][938]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.24-15.25.52:526][938]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2017.03.24-15.25.52:526][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026729s)
+[2017.03.24-15.25.52:570][938]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.24-15.25.52:655][938]LogInit: FAudioDevice initialized.
+[2017.03.24-15.25.52:696][938]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.03.24-15.25.52:701][938]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.24-15.25.52
+[2017.03.24-15.25.52:701][938]LogWorld: Bringing up level for play took: 0.004500
+[2017.03.24-15.25.52:702][938]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.03.24-15.25.52:703][938]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.473
+[2017.03.24-15.25.52:704][938]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-15.25.54:116][  7]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-15.25.54:198][  7]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.24-15.27.50:704][  0]LogSavePackage: Save=64.45ms
+[2017.03.24-15.27.50:704][  0]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonCharacter654F2FDB4DCBB678F3B3FD9253E4A2BF.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.03.24-15.27.50:707][  0]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
