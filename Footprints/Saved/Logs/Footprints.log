@@ -2768,3 +2768,1009 @@ LogInit: Object subsystem initialized
 [2017.03.27-17.15.11:382][534]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2017.03.27-17.15.12:454][593]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2017.03.27-17.15.12:490][593]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.16.29:102][786]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.Actor_16.DebugSkelMeshComponent_45) Already registered. Aborting.
+[2017.03.27-17.16.29:132][786]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_57:PersistentLevel.Actor_16.DebugSkelMeshComponent_45) - call TermArticulated first.
+[2017.03.27-17.17.16:106][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_Jump" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" SILENT=true
+[2017.03.27-17.17.16:129][106]LogSavePackage: Save=11.35ms
+[2017.03.27-17.17.16:129][106]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPerson_Jump4E0313904B6C23BB42001C98FF6634CB.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPerson_Jump.uasset'
+[2017.03.27-17.17.16:134][106]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPerson_Jump.uasset
+[2017.03.27-17.17.19:473][279]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.27-17.17.19:489][279]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.17.19:489][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.27-17.17.19:489][279]PIE: New page: PIE session: ThirdPersonExampleMap (27 Mar 2017 7:17:19 pm)
+[2017.03.27-17.17.19:489][279]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.27-17.17.19:513][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024172s)
+[2017.03.27-17.17.19:515][279]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.27-17.17.19:515][279]LogPlayLevel: PIE: World Init took: (0.001450s)
+[2017.03.27-17.17.19:515][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026082s)
+[2017.03.27-17.17.19:582][279]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.27-17.17.19:596][279]LogInit: FAudioDevice initialized.
+[2017.03.27-17.17.19:632][279]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.03.27-17.17.19:635][279]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.27-18.17.19
+[2017.03.27-17.17.19:635][279]LogWorld: Bringing up level for play took: 0.002656
+[2017.03.27-17.17.19:636][279]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.752
+[2017.03.27-17.17.19:637][279]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.17.22:321][436]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.17.23:422][502]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.17.24:688][578]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.17.24:921][592]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.17.25:809][645]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.17.28:928][831]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.17.28:985][831]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.17.46:522][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_Jump" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" SILENT=true
+[2017.03.27-17.17.46:534][656]LogSavePackage: Save=6.21ms
+[2017.03.27-17.17.46:534][656]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPerson_Jump91879FD043D7D6B2BC3C8283A972C98B.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPerson_Jump.uasset'
+[2017.03.27-17.17.46:539][656]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPerson_Jump.uasset
+[2017.03.27-17.17.58:992][ 80]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.27-17.17.59:005][ 80]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.17.59:006][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.27-17.17.59:006][ 80]PIE: New page: PIE session: ThirdPersonExampleMap (27 Mar 2017 7:17:59 pm)
+[2017.03.27-17.17.59:006][ 80]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.27-17.17.59:032][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025582s)
+[2017.03.27-17.17.59:033][ 80]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.27-17.17.59:033][ 80]LogPlayLevel: PIE: World Init took: (0.001447s)
+[2017.03.27-17.17.59:033][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027488s)
+[2017.03.27-17.17.59:089][ 80]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.27-17.17.59:103][ 80]LogInit: FAudioDevice initialized.
+[2017.03.27-17.17.59:141][ 80]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.03.27-17.17.59:147][ 80]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.27-18.17.59
+[2017.03.27-17.17.59:148][ 80]LogWorld: Bringing up level for play took: 0.005856
+[2017.03.27-17.17.59:150][ 80]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.265
+[2017.03.27-17.17.59:151][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.18.03:393][330]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.18.03:526][338]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.11:243][801]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.11:510][817]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.12:527][878]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.12:994][906]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.13:294][924]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.15:177][ 37]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.18.15:443][ 53]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.18.15:760][ 72]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.18.16:043][ 89]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.18.16:360][108]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.18.16:644][125]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.18.16:960][144]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.18.17:244][161]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.18.17:560][180]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.18.18:627][244]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.18.18:760][252]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.20:727][370]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.21:043][389]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.21:277][403]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.24:043][569]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.24:327][586]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.24:644][605]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.24:894][620]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.18.25:660][666]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.25:944][683]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.27:377][769]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.18.28:460][834]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.18.28:777][853]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.18.29:060][870]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.18.29:377][889]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.18.31:160][996]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.18.31:460][ 14]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.18.31:710][ 29]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.18.32:594][ 82]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.18.32:877][ 99]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.18.34:360][188]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.35:444][253]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.35:760][272]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.36:010][287]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.36:777][333]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.39:194][478]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.39:461][494]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.41:412][611]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.41:696][628]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.42:512][677]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.42:862][698]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.18.44:163][776]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.18.44:296][784]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.18.45:179][837]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.18.45:546][859]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.18.46:730][930]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.18.46:770][930]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.19.20:092][853]LogSavePackage: Save=206.73ms
+[2017.03.27-17.19.20:092][853]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonExampleMap_Auto053B3A48B471E000BFD66308BB40FCC33.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto0.umap'
+[2017.03.27-17.19.20:094][853]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto0.umap
+[2017.03.27-17.19.20:096][853]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.367
+[2017.03.27-17.19.20:096][853]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.367
+[2017.03.27-17.19.20:100][853]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Animations/ThirdPersonJump_End] ([1] browsable assets)...
+[2017.03.27-17.19.20:100][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPersonJump_End]
+[2017.03.27-17.19.20:125][853]LogSavePackage: Save=11.84ms
+[2017.03.27-17.19.20:125][853]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonJump_End_Auto0A6EE28D047BCEDD7EB01F3BB56AA9DB4.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Mannequin/Animations/ThirdPersonJump_End_Auto0.uasset'
+[2017.03.27-17.19.20:128][853]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Mannequin/Animations/ThirdPersonJump_End_Auto0.uasset
+[2017.03.27-17.19.20:128][853]LogFileHelpers: Auto-saving content packages took 0.030
+[2017.03.27-17.19.32:276][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_Jump" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" SILENT=true
+[2017.03.27-17.19.32:293][407]LogSavePackage: Save=10.17ms
+[2017.03.27-17.19.32:293][407]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPerson_JumpBB17C68C40F90BED39A56B8EA1B6008D.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPerson_Jump.uasset'
+[2017.03.27-17.19.32:297][407]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPerson_Jump.uasset
+[2017.03.27-17.19.40:024][800]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.27-17.19.40:038][800]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.19.40:038][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.27-17.19.40:038][800]PIE: New page: PIE session: ThirdPersonExampleMap (27 Mar 2017 7:19:40 pm)
+[2017.03.27-17.19.40:038][800]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.27-17.19.40:064][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025256s)
+[2017.03.27-17.19.40:065][800]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.27-17.19.40:065][800]LogPlayLevel: PIE: World Init took: (0.001691s)
+[2017.03.27-17.19.40:066][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027454s)
+[2017.03.27-17.19.40:124][800]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.27-17.19.40:137][800]LogInit: FAudioDevice initialized.
+[2017.03.27-17.19.40:171][800]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.03.27-17.19.40:174][800]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.27-18.19.40
+[2017.03.27-17.19.40:174][800]LogWorld: Bringing up level for play took: 0.002793
+[2017.03.27-17.19.40:176][800]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.709
+[2017.03.27-17.19.40:176][800]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.19.43:906][ 20]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.19.45:072][ 90]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.19.47:756][251]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.19.49:540][358]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.19.49:823][375]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.19.50:139][394]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.19.50:423][411]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.19.51:806][494]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.19.54:273][642]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.19.54:556][659]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.19.55:690][727]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.19.56:090][751]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.19.56:373][768]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.19.58:374][888]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.19.58:658][905]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.19.59:391][949]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.19.59:725][969]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.20.00:041][988]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.20.00:324][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.20.00:641][ 24]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.20.04:375][248]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.20.04:708][268]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.20.04:941][282]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.20.07:575][440]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.20.07:858][457]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.20.08:175][476]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.20.08:458][493]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.20.09:658][565]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.20.10:758][631]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.20.11:077][650]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.20.11:743][690]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.20.13:543][798]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.20.13:826][815]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.20.14:143][834]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.20.14:427][851]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.20.15:727][929]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.20.18:993][125]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.20.19:311][144]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.20.19:594][161]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.20.19:910][180]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.20.20:144][194]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.20.21:011][246]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.20.21:294][263]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.20.21:611][282]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.20.21:894][299]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.20.22:211][318]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.20.22:494][335]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.20.23:844][416]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.20.27:977][664]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.20.28:277][682]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.20.30:296][803]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.20.30:562][819]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.20.31:347][866]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.20.31:385][866]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.21.09:773][657]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.Actor_17.DebugSkelMeshComponent_48) Already registered. Aborting.
+[2017.03.27-17.21.09:819][657]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_60:PersistentLevel.Actor_17.DebugSkelMeshComponent_48) - call TermArticulated first.
+[2017.03.27-17.21.29:644][510]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.Actor_18.DebugSkelMeshComponent_51) Already registered. Aborting.
+[2017.03.27-17.21.29:690][510]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_63:PersistentLevel.Actor_18.DebugSkelMeshComponent_51) - call TermArticulated first.
+[2017.03.27-17.22.59:977][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPersonJump_Loop" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" SILENT=true
+[2017.03.27-17.22.59:994][378]LogSavePackage: Save=8.98ms
+[2017.03.27-17.22.59:994][378]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonJump_Loop5A77105748145AF55AF18EA7D0EE1423.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset'
+[2017.03.27-17.22.59:997][378]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset
+[2017.03.27-17.23.04:233][603]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.27-17.23.04:243][603]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.23.04:244][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.27-17.23.04:244][603]PIE: New page: PIE session: ThirdPersonExampleMap (27 Mar 2017 7:23:04 pm)
+[2017.03.27-17.23.04:244][603]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.27-17.23.04:268][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023620s)
+[2017.03.27-17.23.04:272][603]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.27-17.23.04:272][603]LogPlayLevel: PIE: World Init took: (0.003902s)
+[2017.03.27-17.23.04:272][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027930s)
+[2017.03.27-17.23.04:313][603]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.27-17.23.04:324][603]LogInit: FAudioDevice initialized.
+[2017.03.27-17.23.04:357][603]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.03.27-17.23.04:360][603]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.27-18.23.04
+[2017.03.27-17.23.04:360][603]LogWorld: Bringing up level for play took: 0.002784
+[2017.03.27-17.23.04:362][603]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.523
+[2017.03.27-17.23.04:362][603]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.23.07:313][777]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.23.09:530][910]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.09:847][929]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.10:080][943]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.11:347][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.11:681][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.11:981][ 57]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.12:281][ 75]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.13:764][164]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.23.15:664][278]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.23.17:665][398]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.23.17:948][415]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.23.19:265][494]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.20:165][548]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.21:365][620]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.21:682][639]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.21:998][658]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.23:898][772]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.24:748][823]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.25:032][840]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.25:582][873]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.26:015][899]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.26:332][918]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.26:615][935]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.26:932][954]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.27:215][971]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.27:532][990]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.23.28:715][ 61]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.28:732][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.31:549][231]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.31:849][249]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.32:149][267]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.33:816][367]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.34:099][384]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.34:416][403]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.34:699][420]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.36:099][504]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.36:932][554]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.37:300][576]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.37:533][590]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.38:616][655]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.39:049][681]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.39:366][700]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.39:649][717]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.39:966][736]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.40:250][753]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.40:567][772]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.23.40:849][789]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.41:166][808]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.42:583][893]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.23.42:600][894]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.23.43:517][949]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.23.43:983][977]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.23.44:266][994]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.23.44:583][ 13]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.23.44:866][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.23.45:183][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.23.45:466][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.23.45:783][ 85]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.23.46:066][102]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.23.46:383][121]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.23.47:750][203]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.47:766][204]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.52:623][495]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.52:923][513]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.53:206][530]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.53:472][546]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.55:489][667]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.55:807][686]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.56:090][703]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.56:406][722]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.23.57:789][805]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.23.57:806][806]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.00:057][941]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.00:357][959]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.00:590][973]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.01:773][ 44]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.02:107][ 64]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.02:407][ 82]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.02:706][100]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.04:173][188]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.04:947][233]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.05:297][254]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.05:580][271]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.05:897][290]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.06:180][307]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.07:997][416]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.08:280][433]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.08:597][452]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.08:881][469]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.24.10:097][542]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.12:897][710]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.13:214][729]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.13:497][746]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.15:547][869]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.15:831][886]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.16:148][905]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.16:431][922]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.16:748][941]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.17:031][958]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.24.18:381][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.19:131][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.19:481][105]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.19:781][123]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.20:081][141]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.20:381][159]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.20:681][177]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.20:981][195]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.21:281][213]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.21:581][231]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.21:881][249]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.22:181][267]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.24.23:481][345]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.24:298][394]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.25:731][480]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.27:348][577]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.27:665][596]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.27:948][613]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.28:265][632]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.29:665][716]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.29:682][717]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.30:565][770]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.31:148][805]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.31:515][827]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.31:832][846]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.32:065][860]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.32:998][916]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.33:282][933]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.33:598][952]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.33:882][969]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.34:198][988]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.24.34:482][  5]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.24.35:748][ 81]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.36:615][133]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.37:798][204]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.38:132][224]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.38:432][242]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.40:150][345]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.40:466][364]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.40:750][381]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.24.42:250][471]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.43:133][524]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.24.45:917][691]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.24.45:957][691]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.25.47:992][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_Jump" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" SILENT=true
+[2017.03.27-17.25.48:016][641]LogSavePackage: Save=8.52ms
+[2017.03.27-17.25.48:016][641]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPerson_Jump7C12AA57497C8F2E067F69974BF262BB.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPerson_Jump.uasset'
+[2017.03.27-17.25.48:022][641]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Mannequin/Animations/ThirdPerson_Jump.uasset
+[2017.03.27-17.25.58:025][913]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.27-17.25.58:034][913]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.25.58:034][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.27-17.25.58:034][913]PIE: New page: PIE session: ThirdPersonExampleMap (27 Mar 2017 7:25:58 pm)
+[2017.03.27-17.25.58:034][913]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.27-17.25.58:054][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020080s)
+[2017.03.27-17.25.58:055][913]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.27-17.25.58:056][913]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2017.03.27-17.25.58:056][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021809s)
+[2017.03.27-17.25.58:096][913]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.27-17.25.58:106][913]LogInit: FAudioDevice initialized.
+[2017.03.27-17.25.58:139][913]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.03.27-17.25.58:142][913]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.27-18.25.58
+[2017.03.27-17.25.58:142][913]LogWorld: Bringing up level for play took: 0.002681
+[2017.03.27-17.25.58:143][913]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.742
+[2017.03.27-17.25.58:143][913]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.26.01:224][ 95]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.26.02:374][164]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.03:441][228]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.03:791][249]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.05:641][360]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.05:941][378]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.06:241][396]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.07:757][487]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.08:574][536]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.08:925][557]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.09:225][575]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.11:259][697]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.11:642][720]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.12:076][746]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.12:359][763]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.13:758][847]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.14:659][901]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.17:376][ 64]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.17:659][ 81]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.19:159][171]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.20:209][234]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.20:543][254]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.20:826][271]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.22:675][382]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.22:959][399]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.23:276][418]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.24:609][498]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.24:659][501]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.26:843][632]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.27:159][651]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.28:659][741]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.29:226][775]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.29:510][792]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.29:826][811]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.31:226][895]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.31:276][898]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.32:176][952]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.32:560][975]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.32:810][990]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.33:726][ 45]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.34:027][ 63]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.34:393][ 85]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.34:676][102]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.34:993][121]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.36:427][207]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.36:477][210]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.37:360][263]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.37:743][286]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.38:027][303]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.38:344][322]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.38:627][339]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.39:660][401]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.39:978][420]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.40:295][439]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.40:578][456]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.40:894][475]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.41:178][492]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.41:495][511]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.26.41:778][528]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.26.43:078][606]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.43:978][660]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.45:011][722]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.45:345][742]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.45:662][761]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.45:945][778]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.46:845][832]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.47:195][853]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.47:511][872]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.47:795][889]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.49:212][974]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.50:045][ 24]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.50:395][ 45]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.50:695][ 63]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.52:262][157]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.52:545][174]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.52:861][193]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.53:145][210]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.26.54:645][300]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.55:428][347]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.56:229][395]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.56:528][413]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.56:829][431]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.58:539][532]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.26.58:856][551]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.27.00:139][628]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.27.00:189][631]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.27.02:507][770]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.27.02:824][789]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.27.03:073][804]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.27.05:224][933]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.27.05:507][950]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.27.05:824][969]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.27.07:125][ 47]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.07:175][ 50]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.08:075][104]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.08:459][127]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.08:692][141]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.09:508][190]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.09:792][207]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.27.11:042][282]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.11:942][336]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.12:742][384]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.12:975][398]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.13:975][458]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.14:309][478]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.14:609][496]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.14:909][514]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.15:209][532]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.16:642][618]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.16:692][621]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.17:559][673]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.19:626][797]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.19:909][814]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.20:177][830]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.21:210][892]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.21:560][913]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.21:843][930]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.22:161][949]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.22:443][966]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.22:761][985]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.27.24:010][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.24:060][ 63]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.24:294][ 77]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.24:611][ 96]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.26:827][228]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.27:144][247]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.27:427][264]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.28:861][350]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.29:094][364]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.29:411][383]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.29:694][400]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.30:011][419]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.30:295][436]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.30:612][455]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.30:895][472]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.31:212][491]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.31:496][508]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.31:812][527]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.32:095][544]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.33:512][629]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.33:746][643]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.34:062][662]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.34:345][679]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.34:662][698]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.34:945][715]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.35:262][734]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.35:546][751]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.35:862][770]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.36:146][787]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.36:462][806]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.27.37:713][881]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.27.37:762][884]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.27.39:579][993]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.27.39:896][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.27.40:183][ 29]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.27.41:896][132]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.27.42:179][149]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.27.42:496][168]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.27.42:780][185]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.27.44:079][263]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.44:979][317]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.45:380][341]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.45:663][358]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.45:946][375]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.46:797][426]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.47:197][450]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.27.48:447][525]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.48:497][528]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.49:380][581]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.49:847][609]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.50:130][626]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.50:397][642]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.51:430][704]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.51:814][727]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.52:097][744]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.52:414][763]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.27.53:780][845]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.53:830][848]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.27.59:990][216]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.28.00:039][219]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.01:823][326]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.02:140][345]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.02:424][362]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.02:691][378]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.03:357][418]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.03:674][437]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.03:957][454]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.04:274][473]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.04:557][490]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.05:940][573]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.07:007][637]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.07:407][661]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.07:690][678]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.08:007][697]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.08:291][714]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.10:024][818]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.10:308][835]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.10:625][854]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.28.11:974][935]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.28.12:024][938]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.28.14:026][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.28.14:343][ 77]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.28.14:576][ 91]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.28.15:692][158]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.28.16:009][177]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.28.16:326][196]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.28.16:609][213]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.28.16:927][232]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.28.18:176][307]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.18:226][310]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.20:276][433]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.21:876][529]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.22:159][546]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.23:576][631]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.25:360][738]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.26:794][824]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.27:144][845]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.27:460][864]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.27:744][881]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.28.29:044][959]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.29:894][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.30:260][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.30:544][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.30:811][ 65]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.32:694][178]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.33:011][197]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.33:294][214]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.28.33:611][233]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.28.34:811][305]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.34:861][308]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.35:928][372]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.36:262][392]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.36:545][409]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.38:245][511]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.38:578][531]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.38:895][550]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.39:179][567]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.39:445][583]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.40:045][619]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.40:362][638]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.40:645][655]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.28.40:962][674]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.28.42:279][753]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.28.42:329][756]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.28.44:112][863]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.28.44:380][879]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.28.45:313][935]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.28.45:680][957]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.28.45:963][974]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.28.46:279][993]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.28.46:563][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.28.46:880][ 29]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat from function: 'FootPrints' from node: Set Material in graph: FootPrints in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_PhysMat
+[2017.03.27-17.28.48:097][102]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.28.48:133][102]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.35.25:925][661]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.03.27-17.35.25:939][661]LogTemp:Display: Added material ShaderMap 0x000001A1BB180800 with Material 0x000001A286475D80 to ShaderMapsBeingCompiled
+[2017.03.27-17.35.26:008][661]LogTemp:Display: Kicking off shader compilation for Material_0, GameThreadShaderMap 0x000001A1BB180800
+[2017.03.27-17.35.26:197][662]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2017.03.27-17.35.26:198][662]LogTemp:Display: Added material ShaderMap 0x000001A261548100 with Material 0x000001A286444100 to ShaderMapsBeingCompiled
+[2017.03.27-17.35.26:244][662]LogTemp:Display: Kicking off shader compilation for Material_1, GameThreadShaderMap 0x000001A261548100
+[2017.03.27-17.35.26:977][663]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2017.03.27-17.35.26:982][663]LogTemp:Display: Added material ShaderMap 0x000001A250937900 with Material 0x000001A28649AE00 to ShaderMapsBeingCompiled
+[2017.03.27-17.35.27:046][663]LogTemp:Display: Kicking off shader compilation for Material_2, GameThreadShaderMap 0x000001A250937900
+[2017.03.27-17.35.27:136][664]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2017.03.27-17.35.27:137][664]LogTemp:Display: Added material ShaderMap 0x000001A261BD6E80 with Material 0x000001A286499780 to ShaderMapsBeingCompiled
+[2017.03.27-17.35.27:165][664]LogTemp:Display: Kicking off shader compilation for Material_3, GameThreadShaderMap 0x000001A261BD6E80
+[2017.03.27-17.35.39:656][ 18]LogTemp:Display: Finished compile of shader map 0x000001A1BB180800
+[2017.03.27-17.35.39:656][ 18]LogTemp:Display: Shader map Material_0 complete, GameThreadShaderMap 0x000001A1BB180800, marking material Material_0 as finished
+[2017.03.27-17.35.39:656][ 18]LogTemp:Display: Marking material as finished 0x000001A286475D80
+[2017.03.27-17.35.47:914][325]LogTemp:Display: Finished compile of shader map 0x000001A261548100
+[2017.03.27-17.35.47:914][325]LogTemp:Display: Shader map Material_1 complete, GameThreadShaderMap 0x000001A261548100, marking material Material_1 as finished
+[2017.03.27-17.35.47:914][325]LogTemp:Display: Marking material as finished 0x000001A286444100
+[2017.03.27-17.35.59:841][849]LogTemp:Display: Finished compile of shader map 0x000001A250937900
+[2017.03.27-17.35.59:841][849]LogTemp:Display: Shader map Material_2 complete, GameThreadShaderMap 0x000001A250937900, marking material Material_2 as finished
+[2017.03.27-17.35.59:841][849]LogTemp:Display: Marking material as finished 0x000001A28649AE00
+[2017.03.27-17.36.06:660][140]LogTemp:Display: Finished compile of shader map 0x000001A261BD6E80
+[2017.03.27-17.36.06:660][140]LogTemp:Display: Shader map Material_3 complete, GameThreadShaderMap 0x000001A261BD6E80, marking material Material_3 as finished
+[2017.03.27-17.36.06:660][140]LogTemp:Display: Marking material as finished 0x000001A286499780
+[2017.03.27-17.36.17:997][722]LogSavePackage: Save=174.86ms
+[2017.03.27-17.36.17:997][722]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonCharacter45E677374747BA0D403C679A6039F013.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.03.27-17.36.18:000][722]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.03.27-17.36.18:577][750]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.03.27-17.36.20:238][800]LogSavePackage: Save=111.38ms
+[2017.03.27-17.36.20:238][800]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonCharacterF0984CE84B5D68DC5FE1C3801589F448.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.03.27-17.36.20:240][800]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.03.27-17.36.29:889][192]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.27-17.36.29:898][192]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.36.29:898][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.27-17.36.29:898][192]PIE: New page: PIE session: ThirdPersonExampleMap (27 Mar 2017 7:36:29 pm)
+[2017.03.27-17.36.29:899][192]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.27-17.36.29:923][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024472s)
+[2017.03.27-17.36.29:924][192]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.27-17.36.29:925][192]LogPlayLevel: PIE: World Init took: (0.001510s)
+[2017.03.27-17.36.29:925][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026466s)
+[2017.03.27-17.36.29:970][192]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.27-17.36.29:980][192]LogInit: FAudioDevice initialized.
+[2017.03.27-17.36.30:018][192]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.03.27-17.36.30:021][192]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.27-18.36.30
+[2017.03.27-17.36.30:021][192]LogWorld: Bringing up level for play took: 0.002212
+[2017.03.27-17.36.30:022][192]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.862
+[2017.03.27-17.36.30:022][192]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.36.36:834][598]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.36.37:152][617]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.36.38:567][702]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.36.38:617][705]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.36.38:851][719]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.36.39:168][738]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.36.41:787][895]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.36.42:104][914]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.36.42:387][931]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.36.43:954][ 25]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.36.44:004][ 28]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.36.44:754][ 73]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.36.45:121][ 95]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.36.45:404][112]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.36.45:721][131]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.36.45:954][145]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.36.46:856][199]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.36.47:656][247]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.36.47:973][266]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.36.50:890][441]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.36.52:356][529]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.36.53:156][577]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.36.53:506][598]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.36.53:790][615]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.36.55:890][741]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.36.56:173][758]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.36.56:489][777]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.36.58:039][870]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.36.58:740][912]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.36.59:040][930]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.36.59:340][948]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.36.59:640][966]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.37.01:240][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.37.01:557][ 81]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.37.01:840][ 98]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.37.03:274][184]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.37.04:041][230]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.37.04:391][251]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.37.04:691][269]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.37.07:008][408]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.37.07:258][423]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.37.08:275][484]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.37.08:608][504]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.37.08:925][523]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.37.09:208][540]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.37.09:525][559]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.37.09:808][576]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.37.10:124][595]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.37.10:408][612]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.37.11:908][702]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.37.12:658][747]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.37.13:008][768]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.37.13:241][782]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.37.14:325][847]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.37.14:658][867]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.37.14:975][886]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.37.15:258][903]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.37.15:575][922]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.37.15:858][939]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.37.17:242][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.37.17:891][ 61]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.37.18:192][ 79]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.37.18:492][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.37.18:792][115]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.37.20:875][240]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.37.21:192][259]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.37.21:475][276]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.37.21:792][295]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.37.23:159][377]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.37.23:209][380]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.37.24:276][444]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.37.24:659][467]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.37.24:942][484]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.37.25:209][500]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.37.25:562][521]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.37.25:611][521]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.38.04:586][775]LogSavePackage: Save=153.28ms
+[2017.03.27-17.38.04:587][775]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonExampleMap_Auto1B3EA29844E8896029AED5A9390F59C88.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2017.03.27-17.38.04:589][775]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2017.03.27-17.38.04:590][775]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.592
+[2017.03.27-17.38.04:590][775]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.592
+[2017.03.27-17.38.04:593][775]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Animations/ThirdPersonJump_Loop] ([1] browsable assets)...
+[2017.03.27-17.38.04:593][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPersonJump_Loop]
+[2017.03.27-17.38.04:608][775]LogSavePackage: Save=5.76ms
+[2017.03.27-17.38.04:608][775]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonJump_Loop_Auto14E8A6728407A4203828A6BBADBEC83B5.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Mannequin/Animations/ThirdPersonJump_Loop_Auto1.uasset'
+[2017.03.27-17.38.04:609][775]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Mannequin/Animations/ThirdPersonJump_Loop_Auto1.uasset
+[2017.03.27-17.38.04:609][775]LogFileHelpers: Auto-saving content packages took 0.018
+[2017.03.27-17.38.22:993][648]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.27-17.38.23:005][648]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.38.23:005][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.27-17.38.23:005][648]PIE: New page: PIE session: ThirdPersonExampleMap (27 Mar 2017 7:38:23 pm)
+[2017.03.27-17.38.23:005][648]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.27-17.38.23:024][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018528s)
+[2017.03.27-17.38.23:025][648]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.27-17.38.23:025][648]LogPlayLevel: PIE: World Init took: (0.001381s)
+[2017.03.27-17.38.23:026][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020311s)
+[2017.03.27-17.38.23:068][648]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.27-17.38.23:077][648]LogInit: FAudioDevice initialized.
+[2017.03.27-17.38.23:112][648]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.03.27-17.38.23:115][648]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.27-18.38.23
+[2017.03.27-17.38.23:115][648]LogWorld: Bringing up level for play took: 0.002187
+[2017.03.27-17.38.23:116][648]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.231
+[2017.03.27-17.38.23:116][648]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.38.27:646][916]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.38.29:378][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.38.30:562][ 90]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.38.30:879][109]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.38.31:195][128]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.38.31:479][145]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.38.31:795][164]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.38.33:129][244]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.38.33:179][247]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.38.34:245][311]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.38.34:646][335]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.38.34:880][349]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.38.35:980][415]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.38.36:313][435]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.38.36:630][454]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.38.36:913][471]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.38.38:464][564]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.38.38:513][567]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.38.40:731][700]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.38.41:048][719]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.38.41:331][736]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.38.41:648][755]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.38.41:931][772]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.38.42:248][791]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.38.42:531][808]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.38.42:848][827]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.38.43:131][844]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.38.43:447][863]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.38.43:731][880]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.38.44:048][899]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.38.45:564][990]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.38.47:581][111]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.38.47:898][130]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.38.48:131][144]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.38.49:398][220]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.38.49:798][244]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.38.50:115][263]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.38.50:398][280]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.38.50:714][299]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.38.50:948][313]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.38.51:814][365]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.38.52:098][382]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.38.53:631][474]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.38.53:681][477]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.38.54:415][521]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.38.54:765][542]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.38.55:048][559]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.38.55:365][578]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.38.57:082][681]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.38.57:398][700]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.38.57:681][717]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.38.59:232][810]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.38.59:282][813]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.00:348][877]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.00:732][900]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.01:015][917]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.01:332][936]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.03:748][ 81]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.04:065][100]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.04:348][117]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.06:065][220]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.06:365][238]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.06:665][256]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.08:065][340]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.08:115][343]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.08:765][382]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.09:082][401]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.09:365][418]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.11:149][525]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.11:432][542]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.11:749][561]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.13:166][646]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.13:216][649]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.14:283][713]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.15:333][776]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.16:066][820]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.16:350][837]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.18:350][957]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.18:666][976]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.20:116][ 63]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.39.20:166][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.39.20:900][110]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.39.21:217][129]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.39.21:500][146]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.39.22:933][232]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.39.23:228][248]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.39.25:945][411]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.25:995][414]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.28:429][560]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.28:745][579]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.29:029][596]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.33:379][857]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.33:663][874]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.33:979][893]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.36:630][ 52]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.36:947][ 71]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.37:230][ 88]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.37:547][107]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.37:830][124]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.38:430][160]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.40:464][282]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.40:747][299]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.41:064][318]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.41:347][335]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.41:664][354]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.43:197][446]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.44:047][497]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.44:414][519]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.44:697][536]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.45:014][555]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.45:264][570]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.45:614][591]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.45:948][611]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.46:264][630]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.46:547][647]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.46:864][666]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.47:148][683]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.48:631][772]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.50:548][887]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.50:832][904]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.52:798][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.53:115][ 41]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.53:398][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.39.54:782][141]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.55:682][195]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.56:082][219]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.56:365][236]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.57:716][317]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.57:999][334]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.58:316][353]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.39.58:599][370]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.00:100][460]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.40.00:150][463]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.40.02:018][575]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.40.02:335][594]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.40.02:619][611]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.40.03:453][661]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.40.03:786][681]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.40.04:086][699]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.40.04:386][717]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.40.05:936][810]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.05:986][813]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.06:719][857]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.07:037][876]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.07:320][893]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.09:904][ 48]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.10:703][ 96]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.11:053][117]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.11:337][134]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.13:137][242]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.13:420][259]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.13:737][278]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.15:187][365]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.15:237][368]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.16:304][432]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.16:637][452]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.16:937][470]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.17:238][488]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.17:488][503]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.18:554][567]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.18:838][584]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.19:154][603]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.19:438][620]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.19:754][639]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.21:154][723]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.21:204][726]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.22:271][790]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.22:621][811]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.22:905][828]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.23:196][844]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.24:213][905]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.24:546][925]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.24:829][942]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.25:146][961]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.25:430][978]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.26:880][ 65]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.27:929][128]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.28:246][147]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.28:530][164]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.28:847][183]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.30:780][299]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.32:296][390]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.40.32:346][393]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.40.33:197][444]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.40.33:547][465]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.40.33:780][479]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.40.35:146][561]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.40.35:446][579]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-17.40.37:081][677]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.37:131][680]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.37:881][725]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.38:247][747]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.38:531][764]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.41:497][942]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.41:548][945]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.45:081][157]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.46:765][258]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.47:048][275]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.48:782][379]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.49:081][397]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-17.40.50:681][493]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.50:732][496]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.51:798][560]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.52:182][583]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.52:465][600]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.52:732][616]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-17.40.53:599][668]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.40.53:642][668]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.40.56:423][827]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.27-17.40.56:433][827]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.40.56:433][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.27-17.40.56:433][827]PIE: New page: PIE session: ThirdPersonExampleMap (27 Mar 2017 7:40:56 pm)
+[2017.03.27-17.40.56:434][827]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.27-17.40.56:454][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019761s)
+[2017.03.27-17.40.56:455][827]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.27-17.40.56:455][827]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2017.03.27-17.40.56:455][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021401s)
+[2017.03.27-17.40.56:501][827]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.27-17.40.56:510][827]LogInit: FAudioDevice initialized.
+[2017.03.27-17.40.56:545][827]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.03.27-17.40.56:548][827]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.27-18.40.56
+[2017.03.27-17.40.56:548][827]LogWorld: Bringing up level for play took: 0.002190
+[2017.03.27-17.40.56:549][827]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.336
+[2017.03.27-17.40.56:549][827]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.40.57:286][868]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.40.57:318][868]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
