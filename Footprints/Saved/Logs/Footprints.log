@@ -3774,3 +3774,660 @@ LogInit: Object subsystem initialized
 [2017.03.27-17.40.56:549][827]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2017.03.27-17.40.57:286][868]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2017.03.27-17.40.57:318][868]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-17.44.29:157][329]LogSavePackage: Save=104.66ms
+[2017.03.27-17.44.29:157][329]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonCharacter41E9BB78427058A6EA962688A379364D.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.03.27-17.44.29:160][329]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.03.27-17.59.42:940][570]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.03.27-18.04.18:240][489]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.27-18.04.18:358][489]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-18.04.18:358][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.27-18.04.18:359][489]PIE: New page: PIE session: ThirdPersonExampleMap (27 Mar 2017 8:04:18 pm)
+[2017.03.27-18.04.18:359][489]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.27-18.04.18:447][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086980s)
+[2017.03.27-18.04.18:486][489]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.27-18.04.18:487][489]LogPlayLevel: PIE: World Init took: (0.040451s)
+[2017.03.27-18.04.18:488][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.129176s)
+[2017.03.27-18.04.18:569][489]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.27-18.04.18:583][489]LogInit: FAudioDevice initialized.
+[2017.03.27-18.04.18:622][489]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.03.27-18.04.18:628][489]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.27-19.04.18
+[2017.03.27-18.04.18:628][489]LogWorld: Bringing up level for play took: 0.004408
+[2017.03.27-18.04.18:630][489]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.244
+[2017.03.27-18.04.18:631][489]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-18.04.23:673][780]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.23:990][799]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.25:090][865]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.25:473][888]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.25:757][905]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.26:074][924]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.27:591][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.28:658][ 79]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.28:991][ 99]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.29:275][116]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.31:394][243]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.31:677][260]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.31:995][279]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.32:277][296]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.33:893][393]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.04.33:944][396]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.04.34:744][444]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.04.35:094][465]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.04.35:377][482]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.04.35:694][501]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.04.37:444][606]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.04.37:761][625]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.04.38:044][642]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.04.38:361][661]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.04.39:894][753]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.41:745][864]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.42:062][883]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.42:295][897]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.43:812][988]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.44:195][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.44:478][ 28]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.47:629][217]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.47:896][233]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.50:963][417]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.51:013][420]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.51:780][466]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.52:130][487]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.52:430][505]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.52:730][523]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.53:030][541]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.53:330][559]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.53:630][577]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.53:930][595]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.54:230][613]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.54:530][631]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.54:830][649]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.55:130][667]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.55:430][685]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.04.57:080][784]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.57:114][786]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.57:930][835]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.58:747][884]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.59:030][901]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.59:347][920]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.04.59:630][937]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.01:747][ 64]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.02:047][ 82]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.04:247][214]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.04:531][231]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.04:847][250]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.05:131][267]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.05:664][299]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.08:981][498]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.09:031][501]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.09:731][543]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.10:048][562]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.10:331][579]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.10:614][596]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.11:331][639]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.11:648][658]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.11:931][675]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.12:248][694]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.12:482][708]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.16:382][942]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.16:715][962]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.17:032][981]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.17:315][998]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.18:793][ 85]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.05.19:027][ 99]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.05.19:344][118]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.05.21:561][251]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.05.21:877][270]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.05.22:161][287]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.05.22:861][329]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.05.23:178][348]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.05.23:495][367]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.05.24:945][454]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.24:995][457]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.25:728][501]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.26:045][520]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.28:029][639]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.28:328][657]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.28:630][675]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.30:014][758]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.30:247][772]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.30:564][791]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.30:847][808]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.31:165][827]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.32:047][880]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.32:397][901]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.32:681][918]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.32:997][937]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.33:281][954]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.33:598][973]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.05.34:964][ 55]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.35:014][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.35:881][110]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.36:798][165]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.37:131][185]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.37:448][204]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.37:731][221]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.40:348][378]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.40:631][395]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.05.42:131][485]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.05.42:365][499]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.05.42:681][518]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.05.42:965][535]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.05.44:415][622]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-18.05.44:491][622]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-18.17.58:997][647]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.27-18.17.59:004][647]LogTemp:Display: Added material ShaderMap 0x000001A1D619B900 with Material 0x000001A1D63EF880 to ShaderMapsBeingCompiled
+[2017.03.27-18.17.59:040][647]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000001A1D619B900
+[2017.03.27-18.17.59:069][647]LogMaterial: 0.03 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.27-18.17.59:090][647]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2017.03.27-18.17.59:092][647]LogTemp:Display: Added material ShaderMap 0x000001A1911B7900 with Material 0x000001A201FEBA00 to ShaderMapsBeingCompiled
+[2017.03.27-18.17.59:094][647]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionTextureObject_0, GameThreadShaderMap 0x000001A1911B7900
+[2017.03.27-18.18.06:774][844]LogTemp:Display: Finished compile of shader map 0x000001A1D619B900
+[2017.03.27-18.18.06:774][844]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x000001A1D619B900, marking material BasicFootPrint_Mat as finished
+[2017.03.27-18.18.06:774][844]LogTemp:Display: Marking material as finished 0x000001A1D63EF880
+[2017.03.27-18.18.07:104][845]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2017.03.27-18.18.07:104][845]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 87 instructions
+[2017.03.27-18.18.07:104][845]MaterialEditorStats: Info Vertex shader: 83 instructions
+[2017.03.27-18.18.07:104][845]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.03.27-18.18.07:105][845]LogTemp:Display: Finished compile of shader map 0x000001A1911B7900
+[2017.03.27-18.18.07:105][845]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionTextureObject_0 complete, GameThreadShaderMap 0x000001A1911B7900, marking material FMatExpressionPreview MaterialExpressionTextureObject_0 as finished
+[2017.03.27-18.18.07:105][845]LogTemp:Display: Marking material as finished 0x000001A201FEBA00
+[2017.03.27-18.18.21:420][160]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2017.03.27-18.18.21:421][160]LogTemp:Display: Added material ShaderMap 0x000001A201EA6780 with Material 0x000001A201FEBA00 to ShaderMapsBeingCompiled
+[2017.03.27-18.18.21:424][160]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionTextureObject_0, GameThreadShaderMap 0x000001A201EA6780
+[2017.03.27-18.18.22:093][196]LogTemp:Display: Finished compile of shader map 0x000001A201EA6780
+[2017.03.27-18.18.22:093][196]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionTextureObject_0 complete, GameThreadShaderMap 0x000001A201EA6780, marking material FMatExpressionPreview MaterialExpressionTextureObject_0 as finished
+[2017.03.27-18.18.22:093][196]LogTemp:Display: Marking material as finished 0x000001A201FEBA00
+[2017.03.27-18.19.42:651][956]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.27-18.19.42:654][956]LogTemp:Display: Added material ShaderMap 0x000001A1A7462780 with Material 0x000001A1D63EF880 to ShaderMapsBeingCompiled
+[2017.03.27-18.19.42:690][956]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000001A1A7462780
+[2017.03.27-18.19.42:691][956]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.27-18.19.42:721][956]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2017.03.27-18.19.42:722][956]LogTemp:Display: Added material ShaderMap 0x000001A22FBDF580 with Material 0x000001A1ACEA3100 to ShaderMapsBeingCompiled
+[2017.03.27-18.19.42:726][956]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionTextureObject_0, GameThreadShaderMap 0x000001A22FBDF580
+[2017.03.27-18.19.49:307][279]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.27-18.19.49:309][279]LogTemp:Display: Added material ShaderMap 0x000001A23E99BC80 with Material 0x000001A1D63EF880 to ShaderMapsBeingCompiled
+[2017.03.27-18.19.49:335][279]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000001A23E99BC80
+[2017.03.27-18.19.49:335][279]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.27-18.19.49:341][279]LogTemp:Display: Removed shader map 0x000001A22FBDF580 from material 0x000001A1ACEA3100
+[2017.03.27-18.19.49:365][279]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2017.03.27-18.19.49:366][279]LogTemp:Display: Added material ShaderMap 0x000001A250935280 with Material 0x000001A27C835600 to ShaderMapsBeingCompiled
+[2017.03.27-18.19.49:370][279]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionTextureObject_0, GameThreadShaderMap 0x000001A250935280
+[2017.03.27-18.19.50:869][363]LogTemp:Display: Finished compile of shader map 0x000001A1A7462780
+[2017.03.27-18.19.50:869][363]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x000001A1A7462780, marking material BasicFootPrint_Mat as finished
+[2017.03.27-18.19.50:869][363]LogTemp:Display: Marking material as finished 0x000001A1D63EF880
+[2017.03.27-18.19.55:387][487]LogTemp:Display: Finished compile of shader map 0x000001A23E99BC80
+[2017.03.27-18.19.55:387][487]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x000001A23E99BC80, marking material BasicFootPrint_Mat as finished
+[2017.03.27-18.19.55:387][487]LogTemp:Display: Marking material as finished 0x000001A1D63EF880
+[2017.03.27-18.19.55:718][488]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2017.03.27-18.19.55:718][488]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 87 instructions
+[2017.03.27-18.19.55:718][488]MaterialEditorStats: Info Vertex shader: 83 instructions
+[2017.03.27-18.19.55:718][488]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.03.27-18.19.55:720][488]LogTemp:Display: Finished compile of shader map 0x000001A250935280
+[2017.03.27-18.19.55:720][488]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionTextureObject_0 complete, GameThreadShaderMap 0x000001A250935280, marking material FMatExpressionPreview MaterialExpressionTextureObject_0 as finished
+[2017.03.27-18.19.55:720][488]LogTemp:Display: Marking material as finished 0x000001A27C835600
+[2017.03.27-18.21.49:529][707]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 E:/UE_4.15/FeaturePacks/StarterContent.upack)
+[2017.03.27-18.21.49:762][707]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2017.03.27-18.21.49:822][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2017.03.27-18.21.49:866][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2017.03.27-18.21.49:904][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2017.03.27-18.21.49:942][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2017.03.27-18.21.49:973][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2017.03.27-18.21.50:010][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2017.03.27-18.21.50:050][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2017.03.27-18.21.50:085][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2017.03.27-18.21.50:133][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2017.03.27-18.21.50:162][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2017.03.27-18.21.50:189][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2017.03.27-18.21.50:231][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Collapse01.uasset"
+[2017.03.27-18.21.50:272][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Collapse02.uasset"
+[2017.03.27-18.21.50:305][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2017.03.27-18.21.50:338][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Explosion01.uasset"
+[2017.03.27-18.21.50:381][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Explosion02.uasset"
+[2017.03.27-18.21.50:414][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2017.03.27-18.21.50:463][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Fire01.uasset"
+[2017.03.27-18.21.50:498][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2017.03.27-18.21.50:566][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2017.03.27-18.21.50:604][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2017.03.27-18.21.50:651][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Light01.uasset"
+[2017.03.27-18.21.50:682][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2017.03.27-18.21.50:724][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Light02.uasset"
+[2017.03.27-18.21.50:762][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2017.03.27-18.21.50:801][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Smoke01.uasset"
+[2017.03.27-18.21.50:831][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2017.03.27-18.21.50:885][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2017.03.27-18.21.50:941][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2017.03.27-18.21.51:095][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2017.03.27-18.21.51:165][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2017.03.27-18.21.51:225][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2017.03.27-18.21.51:280][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2017.03.27-18.21.51:327][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Steam01.uasset"
+[2017.03.27-18.21.51:364][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2017.03.27-18.21.51:436][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2017.03.27-18.21.51:470][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2017.03.27-18.21.51:509][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2017.03.27-18.21.51:533][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2017.03.27-18.21.51:554][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2017.03.27-18.21.51:577][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2017.03.27-18.21.51:606][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2017.03.27-18.21.51:649][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2017.03.27-18.21.51:681][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2017.03.27-18.21.51:711][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2017.03.27-18.21.51:740][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2017.03.27-18.21.51:771][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2017.03.27-18.21.51:795][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2017.03.27-18.21.51:829][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2017.03.27-18.21.51:866][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2017.03.27-18.21.51:892][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2017.03.27-18.21.52:766][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2017.03.27-18.21.52:819][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2017.03.27-18.21.52:861][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2017.03.27-18.21.52:908][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Maps/Minimal_Default.umap"
+[2017.03.27-18.21.52:943][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2017.03.27-18.21.53:014][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Maps/StarterMap.umap"
+[2017.03.27-18.21.53:165][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2017.03.27-18.21.53:277][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2017.03.27-18.21.53:313][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2017.03.27-18.21.53:345][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2017.03.27-18.21.53:386][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2017.03.27-18.21.53:424][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2017.03.27-18.21.53:465][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2017.03.27-18.21.53:508][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2017.03.27-18.21.53:543][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2017.03.27-18.21.53:590][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2017.03.27-18.21.53:630][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2017.03.27-18.21.53:674][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2017.03.27-18.21.53:716][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2017.03.27-18.21.53:751][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2017.03.27-18.21.53:775][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2017.03.27-18.21.53:798][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2017.03.27-18.21.53:836][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2017.03.27-18.21.53:888][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2017.03.27-18.21.53:926][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Glass.uasset"
+[2017.03.27-18.21.53:974][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2017.03.27-18.21.54:006][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2017.03.27-18.21.54:045][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2017.03.27-18.21.54:075][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2017.03.27-18.21.54:107][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2017.03.27-18.21.54:136][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2017.03.27-18.21.54:185][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2017.03.27-18.21.54:224][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2017.03.27-18.21.54:262][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2017.03.27-18.21.54:292][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2017.03.27-18.21.54:329][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2017.03.27-18.21.54:359][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2017.03.27-18.21.54:400][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2017.03.27-18.21.54:429][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2017.03.27-18.21.54:463][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2017.03.27-18.21.54:493][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2017.03.27-18.21.54:533][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2017.03.27-18.21.54:569][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2017.03.27-18.21.54:624][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2017.03.27-18.21.54:665][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2017.03.27-18.21.54:699][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2017.03.27-18.21.54:726][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2017.03.27-18.21.54:774][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2017.03.27-18.21.54:803][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2017.03.27-18.21.54:838][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2017.03.27-18.21.54:876][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2017.03.27-18.21.54:927][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Particles/P_Explosion.uasset"
+[2017.03.27-18.21.54:963][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Particles/P_Fire.uasset"
+[2017.03.27-18.21.54:995][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Particles/P_Smoke.uasset"
+[2017.03.27-18.21.55:039][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Particles/P_Sparks.uasset"
+[2017.03.27-18.21.55:093][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2017.03.27-18.21.55:124][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2017.03.27-18.21.55:155][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2017.03.27-18.21.55:186][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2017.03.27-18.21.55:221][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2017.03.27-18.21.55:245][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2017.03.27-18.21.55:277][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2017.03.27-18.21.55:301][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2017.03.27-18.21.55:327][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2017.03.27-18.21.55:365][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2017.03.27-18.21.55:440][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2017.03.27-18.21.55:485][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/MaterialSphere.uasset"
+[2017.03.27-18.21.55:515][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/SM_Bush.uasset"
+[2017.03.27-18.21.55:544][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/SM_Chair.uasset"
+[2017.03.27-18.21.55:574][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2017.03.27-18.21.55:613][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/SM_Couch.uasset"
+[2017.03.27-18.21.55:663][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/SM_Door.uasset"
+[2017.03.27-18.21.55:694][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2017.03.27-18.21.55:733][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2017.03.27-18.21.55:775][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2017.03.27-18.21.55:810][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2017.03.27-18.21.55:862][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2017.03.27-18.21.55:901][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2017.03.27-18.21.55:948][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2017.03.27-18.21.55:994][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/SM_Rock.uasset"
+[2017.03.27-18.21.56:021][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/SM_Shelf.uasset"
+[2017.03.27-18.21.56:047][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/SM_Stairs.uasset"
+[2017.03.27-18.21.56:090][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/SM_Statue.uasset"
+[2017.03.27-18.21.56:136][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/SM_TableRound.uasset"
+[2017.03.27-18.21.56:163][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2017.03.27-18.21.56:195][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2017.03.27-18.21.56:229][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2017.03.27-18.21.56:286][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2017.03.27-18.21.56:321][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2017.03.27-18.21.56:348][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2017.03.27-18.21.56:401][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2017.03.27-18.21.56:436][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2017.03.27-18.21.56:478][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2017.03.27-18.21.56:516][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2017.03.27-18.21.56:560][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2017.03.27-18.21.56:598][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2017.03.27-18.21.56:634][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2017.03.27-18.21.56:668][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2017.03.27-18.21.56:742][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2017.03.27-18.21.56:774][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2017.03.27-18.21.56:817][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2017.03.27-18.21.56:852][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2017.03.27-18.21.56:918][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2017.03.27-18.21.56:951][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2017.03.27-18.21.56:971][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2017.03.27-18.21.56:992][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2017.03.27-18.21.57:016][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2017.03.27-18.21.57:050][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2017.03.27-18.21.57:094][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2017.03.27-18.21.57:134][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2017.03.27-18.21.57:185][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2017.03.27-18.21.57:216][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2017.03.27-18.21.57:261][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2017.03.27-18.21.57:305][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2017.03.27-18.21.57:332][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2017.03.27-18.21.57:357][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2017.03.27-18.21.57:451][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2017.03.27-18.21.57:566][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2017.03.27-18.21.57:675][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2017.03.27-18.21.57:784][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2017.03.27-18.21.57:911][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2017.03.27-18.21.58:062][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2017.03.27-18.21.58:197][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2017.03.27-18.21.58:308][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2017.03.27-18.21.58:474][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2017.03.27-18.21.58:591][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2017.03.27-18.21.58:700][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2017.03.27-18.21.58:828][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2017.03.27-18.21.58:991][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2017.03.27-18.21.59:064][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2017.03.27-18.21.59:126][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2017.03.27-18.21.59:173][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2017.03.27-18.21.59:217][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2017.03.27-18.21.59:267][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2017.03.27-18.21.59:325][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2017.03.27-18.21.59:387][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2017.03.27-18.21.59:420][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2017.03.27-18.21.59:591][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2017.03.27-18.21.59:658][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2017.03.27-18.21.59:819][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2017.03.27-18.21.59:878][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2017.03.27-18.21.59:993][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2017.03.27-18.22.00:091][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2017.03.27-18.22.00:188][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2017.03.27-18.22.05:467][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2017.03.27-18.22.05:622][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2017.03.27-18.22.05:770][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2017.03.27-18.22.05:868][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2017.03.27-18.22.06:019][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2017.03.27-18.22.06:151][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2017.03.27-18.22.06:266][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2017.03.27-18.22.06:351][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2017.03.27-18.22.06:931][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2017.03.27-18.22.07:012][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2017.03.27-18.22.07:102][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2017.03.27-18.22.07:139][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Door_M.uasset"
+[2017.03.27-18.22.07:179][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Door_N.uasset"
+[2017.03.27-18.22.07:228][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2017.03.27-18.22.07:312][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2017.03.27-18.22.07:334][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2017.03.27-18.22.07:363][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2017.03.27-18.22.07:391][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2017.03.27-18.22.07:412][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2017.03.27-18.22.07:433][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2017.03.27-18.22.07:625][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2017.03.27-18.22.07:800][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2017.03.27-18.22.08:296][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2017.03.27-18.22.08:472][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2017.03.27-18.22.08:637][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2017.03.27-18.22.08:788][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2017.03.27-18.22.08:839][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2017.03.27-18.22.08:908][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2017.03.27-18.22.09:087][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2017.03.27-18.22.09:725][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2017.03.27-18.22.09:844][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2017.03.27-18.22.10:023][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2017.03.27-18.22.10:086][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2017.03.27-18.22.10:275][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2017.03.27-18.22.10:402][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2017.03.27-18.22.10:465][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2017.03.27-18.22.10:542][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2017.03.27-18.22.11:378][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2017.03.27-18.22.11:455][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2017.03.27-18.22.11:536][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2017.03.27-18.22.11:657][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2017.03.27-18.22.11:795][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2017.03.27-18.22.11:884][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2017.03.27-18.22.12:602][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2017.03.27-18.22.12:716][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2017.03.27-18.22.12:901][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2017.03.27-18.22.13:067][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2017.03.27-18.22.13:212][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2017.03.27-18.22.13:265][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2017.03.27-18.22.14:233][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2017.03.27-18.22.14:270][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2017.03.27-18.22.14:323][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2017.03.27-18.22.14:360][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2017.03.27-18.22.14:412][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2017.03.27-18.22.14:455][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2017.03.27-18.22.14:490][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2017.03.27-18.22.14:528][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2017.03.27-18.22.14:568][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2017.03.27-18.22.14:616][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2017.03.27-18.22.15:218][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2017.03.27-18.22.15:327][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2017.03.27-18.22.15:383][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2017.03.27-18.22.15:550][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2017.03.27-18.22.15:721][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2017.03.27-18.22.15:767][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Water_M.uasset"
+[2017.03.27-18.22.15:860][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Water_N.uasset"
+[2017.03.27-18.22.15:941][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2017.03.27-18.22.16:681][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2017.03.27-18.22.16:778][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2017.03.27-18.22.16:897][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2017.03.27-18.22.17:025][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2017.03.27-18.22.17:191][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2017.03.27-18.22.17:264][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2017.03.27-18.22.18:141][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2017.03.27-18.22.18:214][707]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2017.03.27-18.22.19:579][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2017.03.27-18.22.19:703][707]LogSavePackage: Save=98.50ms
+[2017.03.27-18.22.19:703][707]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/Floor_400x400BC10DAD94FB1D7357C40FAB770A44161.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2017.03.27-18.22.19:707][707]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2017.03.27-18.23.05:212][ 63]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.27-18.23.05:216][ 63]LogTemp:Display: Added material ShaderMap 0x000001A262D64100 with Material 0x000001A1D63EF880 to ShaderMapsBeingCompiled
+[2017.03.27-18.23.05:268][ 63]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000001A262D64100
+[2017.03.27-18.23.05:269][ 63]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.27-18.23.05:303][ 63]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2017.03.27-18.23.05:304][ 63]LogTemp:Display: Added material ShaderMap 0x000001A22B472080 with Material 0x000001A1C6C24A00 to ShaderMapsBeingCompiled
+[2017.03.27-18.23.05:311][ 63]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionTextureObject_0, GameThreadShaderMap 0x000001A22B472080
+[2017.03.27-18.23.09:079][258]LogMaterialEditor: Applying material BasicFootPrint_Mat
+[2017.03.27-18.23.11:679][258]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.27-18.23.11:680][258]LogTemp:Display: Added material ShaderMap 0x000001A22031C480 with Material 0x000001A1D63EF880 to ShaderMapsBeingCompiled
+[2017.03.27-18.23.11:712][258]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000001A22031C480
+[2017.03.27-18.23.11:712][258]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.27-18.23.11:727][258]LogTemp:Display: Removed shader map 0x000001A232DAD280 from material 0x000001A220714880
+[2017.03.27-18.23.11:842][258]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.27-18.23.11:843][258]LogTemp:Display: Added material ShaderMap 0x000001A201E2D280 with Material 0x000001A220714D00 to ShaderMapsBeingCompiled
+[2017.03.27-18.23.11:936][258]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000001A201E2D280
+[2017.03.27-18.23.11:941][258]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.27-18.23.11:943][258]LogTemp:Display: Added material ShaderMap 0x000001A261BD4480 with Material 0x000001A220714D00 to ShaderMapsBeingCompiled
+[2017.03.27-18.23.11:979][258]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000001A261BD4480
+[2017.03.27-18.23.11:986][258]LogMaterial: 0.01 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.27-18.23.12:066][258]TextureStreamingBuild:Display: Compiling optional shaders took 0.004 seconds.
+[2017.03.27-18.23.12:146][258]LogTemp:Display: Finished compile of shader map 0x000001A262D64100
+[2017.03.27-18.23.12:146][258]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x000001A262D64100, marking material BasicFootPrint_Mat as finished
+[2017.03.27-18.23.12:146][258]LogTemp:Display: Marking material as finished 0x000001A1D63EF880
+[2017.03.27-18.23.12:147][258]LogTemp:Display: Finished compile of shader map 0x000001A22B472080
+[2017.03.27-18.23.12:147][258]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionTextureObject_0 complete, GameThreadShaderMap 0x000001A22B472080, marking material FMatExpressionPreview MaterialExpressionTextureObject_0 as finished
+[2017.03.27-18.23.12:147][258]LogTemp:Display: Marking material as finished 0x000001A1C6C24A00
+[2017.03.27-18.23.19:247][645]LogTemp:Display: Finished compile of shader map 0x000001A22031C480
+[2017.03.27-18.23.19:247][645]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x000001A22031C480, marking material BasicFootPrint_Mat as finished
+[2017.03.27-18.23.19:247][645]LogTemp:Display: Marking material as finished 0x000001A1D63EF880
+[2017.03.27-18.23.27:388][106]LogTemp:Display: Finished compile of shader map 0x000001A261BD4480
+[2017.03.27-18.23.27:388][106]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x000001A261BD4480, marking material BasicFootPrint_Mat as finished
+[2017.03.27-18.23.27:388][106]LogTemp:Display: Marking material as finished 0x000001A220714D00
+[2017.03.27-18.23.27:406][107]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2017.03.27-18.23.27:406][107]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 87 instructions
+[2017.03.27-18.23.27:406][107]MaterialEditorStats: Info Vertex shader: 83 instructions
+[2017.03.27-18.23.27:406][107]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.03.27-18.24.14:192][701]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.27-18.24.14:194][701]LogTemp:Display: Added material ShaderMap 0x000001A21133EE80 with Material 0x000001A1D63EF880 to ShaderMapsBeingCompiled
+[2017.03.27-18.24.14:223][701]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000001A21133EE80
+[2017.03.27-18.24.14:224][701]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.27-18.24.14:437][701]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.27-18.24.14:439][701]LogTemp:Display: Added material ShaderMap 0x000001A22B470800 with Material 0x000001A1D63EF880 to ShaderMapsBeingCompiled
+[2017.03.27-18.24.14:475][701]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000001A22B470800
+[2017.03.27-18.24.14:475][701]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.27-18.24.14:508][701]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2017.03.27-18.24.14:509][701]LogTemp:Display: Added material ShaderMap 0x000001A2252E1D00 with Material 0x000001A2021AAB00 to ShaderMapsBeingCompiled
+[2017.03.27-18.24.14:515][701]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionTextureObject_0, GameThreadShaderMap 0x000001A2252E1D00
+[2017.03.27-18.24.15:553][742]LogTemp:Display: Finished compile of shader map 0x000001A21133EE80
+[2017.03.27-18.24.15:553][742]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x000001A21133EE80, marking material BasicFootPrint_Mat as finished
+[2017.03.27-18.24.15:553][742]LogTemp:Display: Marking material as finished 0x000001A1D63EF880
+[2017.03.27-18.24.23:151][156]LogTemp:Display: Finished compile of shader map 0x000001A22B470800
+[2017.03.27-18.24.23:151][156]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x000001A22B470800, marking material BasicFootPrint_Mat as finished
+[2017.03.27-18.24.23:151][156]LogTemp:Display: Marking material as finished 0x000001A1D63EF880
+[2017.03.27-18.24.23:170][157]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2017.03.27-18.24.23:170][157]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 87 instructions
+[2017.03.27-18.24.23:170][157]MaterialEditorStats: Info Vertex shader: 83 instructions
+[2017.03.27-18.24.23:170][157]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.03.27-18.24.23:564][179]LogTemp:Display: Finished compile of shader map 0x000001A2252E1D00
+[2017.03.27-18.24.23:564][179]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionTextureObject_0 complete, GameThreadShaderMap 0x000001A2252E1D00, marking material FMatExpressionPreview MaterialExpressionTextureObject_0 as finished
+[2017.03.27-18.24.23:564][179]LogTemp:Display: Marking material as finished 0x000001A2021AAB00
+[2017.03.27-18.24.54:461][798]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.27-18.24.54:464][798]LogTemp:Display: Added material ShaderMap 0x000001A2856A5D00 with Material 0x000001A1D63EF880 to ShaderMapsBeingCompiled
+[2017.03.27-18.24.54:487][798]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000001A2856A5D00
+[2017.03.27-18.24.54:487][798]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.27-18.24.54:493][798]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.27-18.24.54:494][798]LogTemp:Display: Added material ShaderMap 0x000001A22D61B580 with Material 0x000001A1D63EF880 to ShaderMapsBeingCompiled
+[2017.03.27-18.24.54:533][798]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000001A22D61B580
+[2017.03.27-18.24.54:533][798]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.27-18.24.55:943][858]LogTemp:Display: Finished compile of shader map 0x000001A2856A5D00
+[2017.03.27-18.24.55:944][858]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x000001A2856A5D00, marking material BasicFootPrint_Mat as finished
+[2017.03.27-18.24.55:944][858]LogTemp:Display: Marking material as finished 0x000001A1D63EF880
+[2017.03.27-18.25.02:976][201]LogTemp:Display: Finished compile of shader map 0x000001A22D61B580
+[2017.03.27-18.25.02:976][201]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x000001A22D61B580, marking material BasicFootPrint_Mat as finished
+[2017.03.27-18.25.02:976][201]LogTemp:Display: Marking material as finished 0x000001A1D63EF880
+[2017.03.27-18.25.03:308][202]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2017.03.27-18.25.03:308][202]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 87 instructions
+[2017.03.27-18.25.03:308][202]MaterialEditorStats: Info Vertex shader: 83 instructions
+[2017.03.27-18.25.03:308][202]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.03.27-18.25.40:902][160]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.27-18.25.40:904][160]LogTemp:Display: Added material ShaderMap 0x000001A2617FE400 with Material 0x000001A1D63EF880 to ShaderMapsBeingCompiled
+[2017.03.27-18.25.40:924][160]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000001A2617FE400
+[2017.03.27-18.25.40:924][160]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.27-18.25.50:967][687]LogTemp:Display: Finished compile of shader map 0x000001A2617FE400
+[2017.03.27-18.25.50:967][687]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x000001A2617FE400, marking material BasicFootPrint_Mat as finished
+[2017.03.27-18.25.50:967][687]LogTemp:Display: Marking material as finished 0x000001A1D63EF880
+[2017.03.27-18.25.50:986][688]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2017.03.27-18.25.50:987][688]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 87 instructions
+[2017.03.27-18.25.50:987][688]MaterialEditorStats: Info Vertex shader: 83 instructions
+[2017.03.27-18.25.50:987][688]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.03.27-18.26.06:045][ 23]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.27-18.26.06:120][ 23]LogTemp:Display: Added material ShaderMap 0x000001A286ADA780 with Material 0x000001A1D63EF880 to ShaderMapsBeingCompiled
+[2017.03.27-18.26.06:160][ 23]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000001A286ADA780
+[2017.03.27-18.26.06:160][ 23]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.27-18.26.12:565][214]LogTemp:Display: Finished compile of shader map 0x000001A286ADA780
+[2017.03.27-18.26.12:565][214]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x000001A286ADA780, marking material BasicFootPrint_Mat as finished
+[2017.03.27-18.26.12:565][214]LogTemp:Display: Marking material as finished 0x000001A1D63EF880
+[2017.03.27-18.26.12:894][215]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 62 instructions
+[2017.03.27-18.26.12:894][215]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 98 instructions
+[2017.03.27-18.26.12:894][215]MaterialEditorStats: Info Vertex shader: 84 instructions
+[2017.03.27-18.26.12:894][215]MaterialEditorStats: Info Texture samplers: 6/16
+[2017.03.27-18.26.49:388][416]LogMaterialEditor: Applying material BasicFootPrint_Mat
+[2017.03.27-18.26.50:101][416]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.27-18.26.50:102][416]LogTemp:Display: Added material ShaderMap 0x000001A20202FC80 with Material 0x000001A1D63EF880 to ShaderMapsBeingCompiled
+[2017.03.27-18.26.50:131][416]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000001A20202FC80
+[2017.03.27-18.26.50:131][416]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.27-18.26.50:143][416]LogTemp:Display: Removed shader map 0x000001A201E2D280 from material 0x000001A220714D00
+[2017.03.27-18.26.50:158][416]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.27-18.26.50:160][416]LogTemp:Display: Added material ShaderMap 0x000001A2739F0100 with Material 0x000001A220715180 to ShaderMapsBeingCompiled
+[2017.03.27-18.26.50:198][416]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000001A2739F0100
+[2017.03.27-18.26.50:203][416]LogMaterial: Missing cached shader map for material BasicFootPrint_Mat, compiling. 
+[2017.03.27-18.26.50:205][416]LogTemp:Display: Added material ShaderMap 0x000001A260FD6780 with Material 0x000001A220715180 to ShaderMapsBeingCompiled
+[2017.03.27-18.26.50:240][416]LogTemp:Display: Kicking off shader compilation for BasicFootPrint_Mat, GameThreadShaderMap 0x000001A260FD6780
+[2017.03.27-18.26.50:242][416]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.27-18.26.50:284][416]TextureStreamingBuild:Display: Compiling optional shaders took 0.000 seconds.
+[2017.03.27-18.26.51:185][456]LogMaterialEditor: Saving and Compiling material BasicFootPrint_Mat
+[2017.03.27-18.26.57:600][456]LogTemp:Display: Finished compile of shader map 0x000001A260FD6780
+[2017.03.27-18.26.57:600][456]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x000001A260FD6780, marking material BasicFootPrint_Mat as finished
+[2017.03.27-18.26.57:600][456]LogTemp:Display: Marking material as finished 0x000001A220715180
+[2017.03.27-18.26.57:691][456]LogTemp:Display: Finished compile of shader map 0x000001A20202FC80
+[2017.03.27-18.26.57:691][456]LogTemp:Display: Shader map BasicFootPrint_Mat complete, GameThreadShaderMap 0x000001A20202FC80, marking material BasicFootPrint_Mat as finished
+[2017.03.27-18.26.57:691][456]LogTemp:Display: Marking material as finished 0x000001A1D63EF880
+[2017.03.27-18.26.57:828][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FootPrints/BasicFootPrint_Mat" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/FootPrints/BasicFootPrint_Mat.uasset" SILENT=true
+[2017.03.27-18.26.57:922][456]LogSavePackage: Save=40.09ms
+[2017.03.27-18.26.57:922][456]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/BasicFootPrint_Mat88B78DB24AC0CCC43B43E297AC64ACFB.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/FootPrints/BasicFootPrint_Mat.uasset'
+[2017.03.27-18.26.57:925][456]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/FootPrints/BasicFootPrint_Mat.uasset
+[2017.03.27-18.26.57:988][456]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 62 instructions
+[2017.03.27-18.26.57:988][456]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 98 instructions
+[2017.03.27-18.26.57:989][456]MaterialEditorStats: Info Vertex shader: 84 instructions
+[2017.03.27-18.26.57:989][456]MaterialEditorStats: Info Texture samplers: 6/16
+[2017.03.27-18.27.34:748][881]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.27-18.27.34:761][881]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-18.27.34:761][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.27-18.27.34:761][881]PIE: New page: PIE session: ThirdPersonExampleMap (27 Mar 2017 8:27:34 pm)
+[2017.03.27-18.27.34:763][881]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.27-18.27.34:794][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030822s)
+[2017.03.27-18.27.34:796][881]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.27-18.27.34:797][881]LogPlayLevel: PIE: World Init took: (0.002512s)
+[2017.03.27-18.27.34:797][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033865s)
+[2017.03.27-18.27.34:864][881]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.27-18.27.34:874][881]LogInit: FAudioDevice initialized.
+[2017.03.27-18.27.34:908][881]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.03.27-18.27.34:911][881]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.27-19.27.34
+[2017.03.27-18.27.34:911][881]LogWorld: Bringing up level for play took: 0.002438
+[2017.03.27-18.27.34:912][881]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.038
+[2017.03.27-18.27.34:912][881]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-18.27.41:413][266]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.27.42:030][303]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.27.42:346][322]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.27.42:664][341]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.27.42:952][358]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.27.44:413][445]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.27.44:697][462]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.27.45:014][481]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.27.46:676][580]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.27.47:444][626]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.27.48:891][712]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.27.49:208][731]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.27.49:511][749]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.27.51:519][869]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.27.52:287][915]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.27.52:671][938]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.27.52:992][957]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.27.54:633][ 55]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.27.54:866][ 69]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.27.55:183][ 88]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.27.55:466][105]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.27.55:786][124]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.27.56:235][151]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.27.56:552][170]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.27.56:836][187]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.27.57:153][206]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.27.57:437][223]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.27.57:737][241]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.27.59:059][320]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.27.59:126][324]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.28.00:013][377]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.28.00:398][400]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.28.00:686][417]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.28.01:002][436]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.28.03:057][559]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.28.03:375][578]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.28.04:765][661]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.04:817][664]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.08:059][857]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.08:409][878]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.08:709][896]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.10:113][980]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.10:396][997]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.10:701][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.11:001][ 33]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
