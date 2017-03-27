@@ -4431,3 +4431,229 @@ LogInit: Object subsystem initialized
 [2017.03.27-18.28.10:396][997]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
 [2017.03.27-18.28.10:701][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
 [2017.03.27-18.28.11:001][ 33]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.11:267][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.11:894][ 85]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.12:211][104]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.12:494][121]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.14:028][213]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.28.14:650][250]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.28.14:967][269]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.28.15:217][284]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.28.18:801][499]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.28.19:234][525]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.28.19:551][544]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.28.19:834][561]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.28.20:151][580]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.28.21:734][675]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.28.21:967][689]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.28.22:234][705]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.28.24:484][840]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.28.25:501][901]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.28.25:785][918]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.28.26:101][937]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.28.26:385][954]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.28.27:768][ 37]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.28:468][ 79]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.31:502][261]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.31:752][276]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.32:502][321]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.32:785][338]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.33:102][357]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.33:385][374]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.34:895][463]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.28.35:478][498]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.28.35:795][517]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.28.36:079][534]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.28.36:395][553]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.28.36:679][570]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.28.36:995][589]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.28.38:462][677]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.28.38:762][695]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.28.39:062][713]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.28.40:562][803]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.41:229][843]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.41:829][879]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.28.47:130][197]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-18.28.47:188][197]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-18.28.48:791][285]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.27-18.28.48:803][285]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-18.28.48:803][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.27-18.28.48:803][285]PIE: New page: PIE session: ThirdPersonExampleMap (27 Mar 2017 8:28:48 pm)
+[2017.03.27-18.28.48:805][285]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.27-18.28.48:827][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021537s)
+[2017.03.27-18.28.48:828][285]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.27-18.28.48:828][285]LogPlayLevel: PIE: World Init took: (0.001355s)
+[2017.03.27-18.28.48:828][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023310s)
+[2017.03.27-18.28.48:879][285]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.27-18.28.48:890][285]LogInit: FAudioDevice initialized.
+[2017.03.27-18.28.48:920][285]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.03.27-18.28.48:923][285]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.27-19.28.48
+[2017.03.27-18.28.48:923][285]LogWorld: Bringing up level for play took: 0.002597
+[2017.03.27-18.28.48:925][285]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.051
+[2017.03.27-18.28.48:925][285]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-18.28.50:050][349]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-18.28.50:088][349]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-18.30.35:849][984]BlueprintLog: New page: Collapse to Function
+[2017.03.27-18.30.50:436][769]BlueprintLog: New page: Collapse to Function
+[2017.03.27-18.31.03:961][505]BlueprintLog: New page: Collapse to Function
+[2017.03.27-18.35.42:117][228]LogSavePackage: Save=212.87ms
+[2017.03.27-18.35.42:117][228]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonExampleMap_Auto2599BA4B6410A4190FC9ED988A7E4419B.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2017.03.27-18.35.42:119][228]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2017.03.27-18.35.42:121][228]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.796
+[2017.03.27-18.35.42:121][228]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.796
+[2017.03.27-18.35.42:125][228]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.03.27-18.35.42:203][228]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.03.27-18.35.42:203][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2017.03.27-18.35.42:366][228]LogSavePackage: Save=145.70ms
+[2017.03.27-18.35.42:366][228]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonCharacter_Auto295E4ABF447CC6B3114728EA85FE9CC71.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2017.03.27-18.35.42:368][228]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset
+[2017.03.27-18.35.42:368][228]LogFileHelpers: Auto-saving content packages took 0.245
+[2017.03.27-18.38.50:867][562]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.03.27-18.38.52:637][618]LogSavePackage: Save=154.69ms
+[2017.03.27-18.38.52:637][618]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonCharacter07D68114455CEF230E8F64A5BECEDCC9.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.03.27-18.38.52:642][618]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.03.27-18.38.57:461][898]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.27-18.38.57:469][898]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-18.38.57:470][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.27-18.38.57:470][898]PIE: New page: PIE session: ThirdPersonExampleMap (27 Mar 2017 8:38:57 pm)
+[2017.03.27-18.38.57:470][898]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.03.27-18.38.57:490][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020329s)
+[2017.03.27-18.38.57:491][898]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.27-18.38.57:492][898]LogPlayLevel: PIE: World Init took: (0.001318s)
+[2017.03.27-18.38.57:492][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022078s)
+[2017.03.27-18.38.57:536][898]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.27-18.38.57:546][898]LogInit: FAudioDevice initialized.
+[2017.03.27-18.38.57:578][898]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.03.27-18.38.57:580][898]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.03.27-19.38.57
+[2017.03.27-18.38.57:580][898]LogWorld: Bringing up level for play took: 0.002138
+[2017.03.27-18.38.57:581][898]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.707
+[2017.03.27-18.38.57:581][898]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-18.39.02:662][200]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.02:912][215]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.03:229][234]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.04:979][339]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.05:295][358]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.05:578][375]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.07:028][462]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.08:079][525]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.08:412][545]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.08:696][562]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.09:012][581]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.09:296][598]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.09:612][617]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.09:895][634]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.10:162][650]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.11:029][702]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.11:346][721]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.11:579][735]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.14:479][909]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.15:129][948]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.16:046][  3]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.16:613][ 37]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.17:330][ 80]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.17:579][ 95]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.19:663][220]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.19:946][237]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.21:363][322]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.21:963][358]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.22:263][376]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.24:147][489]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.24:463][508]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.24:747][525]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.26:230][614]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.26:848][651]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.27:664][700]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.27:947][717]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.31:132][908]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.32:798][  8]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.34:748][125]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.35:065][144]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.35:349][161]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.36:899][254]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.37:182][271]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.37:499][290]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.39:132][388]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.39:682][421]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.39:999][440]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.42:682][601]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.44:232][694]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.44:282][697]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.44:569][714]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.44:883][733]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.45:166][750]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.45:433][766]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.46:616][837]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.46:983][859]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.47:266][876]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.47:583][895]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.39.49:133][988]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.49:366][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.49:683][ 21]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.50:983][ 99]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.51:300][118]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.52:067][164]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.52:450][187]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.52:750][205]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.53:050][223]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.39.54:666][320]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.55:150][349]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.55:467][368]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.55:750][385]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.56:700][442]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.57:034][462]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.57:317][479]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.58:276][535]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.58:709][561]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.58:992][578]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.59:309][597]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.39.59:592][614]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.40.01:010][699]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.01:693][740]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.02:310][777]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.03:010][819]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.03:310][837]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.06:410][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.06:727][ 42]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.07:010][ 59]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.07:327][ 78]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.07:610][ 95]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.09:343][199]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.40.09:660][218]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.40.09:944][235]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.40.10:710][281]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.40.11:061][302]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.40.11:377][321]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.40.11:660][338]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.40.11:977][357]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.40.12:260][374]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Snow
+[2017.03.27-18.40.13:761][464]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.40.13:994][478]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.40.14:311][497]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.40.14:594][514]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.40.16:894][652]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.40.17:178][669]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Grass
+[2017.03.27-18.40.18:711][761]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.18:761][764]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.19:294][796]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.20:161][848]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.20:428][864]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.21:295][916]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.21:578][933]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.21:845][949]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.22:679][999]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.22:945][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.23:379][ 41]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.23:695][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.23:945][ 75]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.24:379][101]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.24:662][118]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.24:945][135]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.25:428][164]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.25:745][183]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.26:029][200]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.28:729][362]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.30:279][455]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.31:595][534]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.31:879][551]LogBlueprintUserMessages: [ThirdPersonCharacter_167] wood
+[2017.03.27-18.40.33:496][648]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.03.27-18.40.33:544][648]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
