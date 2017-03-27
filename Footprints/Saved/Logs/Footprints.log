@@ -526,3 +526,7 @@ LogInit: Object subsystem initialized
 [2017.03.27-14.54.23:031][827]LogSavePackage: Save=115.26ms
 [2017.03.27-14.54.23:031][827]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonCharacter1B6EA8E947A7BE3CC42A17A9FDF4215B.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
 [2017.03.27-14.54.23:034][827]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.03.27-14.56.57:813][847]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.03.27-14.56.59:199][883]LogSavePackage: Save=80.84ms
+[2017.03.27-14.56.59:199][883]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonCharacterD3570A8F476F59611046309DB45F42ED.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.03.27-14.56.59:202][883]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
