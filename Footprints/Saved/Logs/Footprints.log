@@ -5675,3 +5675,397 @@ LogInit: Object subsystem initialized
 [2017.03.29-11.15.40:840][313]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
 [2017.03.29-11.15.40:840][313]MaterialEditorStats: Info Vertex shader: 26 instructions
 [2017.03.29-11.15.40:840][313]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.29-14.38.13:777][360]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.38.13:783][360]LogTemp:Display: Added material ShaderMap 0x000001A210B61600 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.38.13:843][360]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A210B61600
+[2017.03.29-14.38.13:846][360]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.38.13:849][360]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.03.29-14.38.13:850][360]LogTemp:Display: Added material ShaderMap 0x000001A2315C8F00 with Material 0x000001A2A5FFBA00 to ShaderMapsBeingCompiled
+[2017.03.29-14.38.13:853][360]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_1, GameThreadShaderMap 0x000001A2315C8F00
+[2017.03.29-14.38.23:205][591]LogTemp:Display: Finished compile of shader map 0x000001A210B61600
+[2017.03.29-14.38.23:205][591]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A210B61600, marking material Snow3D as finished
+[2017.03.29-14.38.23:205][591]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.38.23:538][592]MaterialEditorStats: Info Base pass shader with static lighting: 106 instructions
+[2017.03.29-14.38.23:538][592]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.29-14.38.23:538][592]MaterialEditorStats: Info Vertex shader: 26 instructions
+[2017.03.29-14.38.23:538][592]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.29-14.38.23:540][592]LogTemp:Display: Finished compile of shader map 0x000001A2315C8F00
+[2017.03.29-14.38.23:540][592]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant3Vector_1 complete, GameThreadShaderMap 0x000001A2315C8F00, marking material FMatExpressionPreview MaterialExpressionConstant3Vector_1 as finished
+[2017.03.29-14.38.23:540][592]LogTemp:Display: Marking material as finished 0x000001A2A5FFBA00
+[2017.03.29-14.38.28:824][769]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.38.28:825][769]LogTemp:Display: Added material ShaderMap 0x000001A2315C8480 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.38.28:866][769]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A2315C8480
+[2017.03.29-14.38.28:866][769]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.38.28:899][769]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.03.29-14.38.28:900][769]LogTemp:Display: Added material ShaderMap 0x000001A250536080 with Material 0x000001A2A5FFBA00 to ShaderMapsBeingCompiled
+[2017.03.29-14.38.28:905][769]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_1, GameThreadShaderMap 0x000001A250536080
+[2017.03.29-14.38.36:816][930]LogTemp:Display: Finished compile of shader map 0x000001A250536080
+[2017.03.29-14.38.36:816][930]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant3Vector_1 complete, GameThreadShaderMap 0x000001A250536080, marking material FMatExpressionPreview MaterialExpressionConstant3Vector_1 as finished
+[2017.03.29-14.38.36:816][930]LogTemp:Display: Marking material as finished 0x000001A2A5FFBA00
+[2017.03.29-14.38.36:828][930]LogTemp:Display: Finished compile of shader map 0x000001A2315C8480
+[2017.03.29-14.38.36:828][930]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A2315C8480, marking material Snow3D as finished
+[2017.03.29-14.38.36:828][930]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.38.37:149][931]MaterialEditorStats: Info Base pass shader with static lighting: 106 instructions
+[2017.03.29-14.38.37:149][931]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.29-14.38.37:149][931]MaterialEditorStats: Info Vertex shader: 26 instructions
+[2017.03.29-14.38.37:149][931]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.29-14.38.48:498][184]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.38.48:499][184]LogTemp:Display: Added material ShaderMap 0x000001A2A802B900 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.38.48:547][184]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A2A802B900
+[2017.03.29-14.38.48:548][184]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.38.48:581][184]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.03.29-14.38.48:583][184]LogTemp:Display: Added material ShaderMap 0x000001A250535600 with Material 0x000001A24E21CA00 to ShaderMapsBeingCompiled
+[2017.03.29-14.38.48:588][184]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_1, GameThreadShaderMap 0x000001A250535600
+[2017.03.29-14.38.53:899][462]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.38.53:901][462]LogTemp:Display: Added material ShaderMap 0x000001A2315C8480 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.38.53:975][462]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A2315C8480
+[2017.03.29-14.38.53:976][462]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.38.53:982][462]LogTemp:Display: Removed shader map 0x000001A250535600 from material 0x000001A24E21CA00
+[2017.03.29-14.38.54:007][462]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.03.29-14.38.54:008][462]LogTemp:Display: Added material ShaderMap 0x000001A22F83F200 with Material 0x000001A24E00FA00 to ShaderMapsBeingCompiled
+[2017.03.29-14.38.54:012][462]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_1, GameThreadShaderMap 0x000001A22F83F200
+[2017.03.29-14.38.54:416][480]LogTemp:Display: Finished compile of shader map 0x000001A2A802B900
+[2017.03.29-14.38.54:416][480]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A2A802B900, marking material Snow3D as finished
+[2017.03.29-14.38.54:416][480]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.39.01:294][866]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.39.01:296][866]LogTemp:Display: Added material ShaderMap 0x000001A22F83C100 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.39.01:357][866]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A22F83C100
+[2017.03.29-14.39.01:357][866]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.39.01:362][866]LogTemp:Display: Removed shader map 0x000001A22F83F200 from material 0x000001A24E00FA00
+[2017.03.29-14.39.01:387][866]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.03.29-14.39.01:389][866]LogTemp:Display: Added material ShaderMap 0x000001A23197D980 with Material 0x000001A20D6AEE00 to ShaderMapsBeingCompiled
+[2017.03.29-14.39.01:392][866]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_1, GameThreadShaderMap 0x000001A23197D980
+[2017.03.29-14.39.01:709][871]LogTemp:Display: Finished compile of shader map 0x000001A2315C8480
+[2017.03.29-14.39.01:709][871]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A2315C8480, marking material Snow3D as finished
+[2017.03.29-14.39.01:709][871]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.39.01:847][873]LogTemp:Display: Finished compile of shader map 0x000001A22F83F200
+[2017.03.29-14.39.20:579][877]LogTemp:Display: Finished compile of shader map 0x000001A23197D980
+[2017.03.29-14.39.20:579][877]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant3Vector_1 complete, GameThreadShaderMap 0x000001A23197D980, marking material FMatExpressionPreview MaterialExpressionConstant3Vector_1 as finished
+[2017.03.29-14.39.20:579][877]LogTemp:Display: Marking material as finished 0x000001A20D6AEE00
+[2017.03.29-14.39.20:612][878]LogTemp:Display: Finished compile of shader map 0x000001A22F83C100
+[2017.03.29-14.39.20:612][878]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A22F83C100, marking material Snow3D as finished
+[2017.03.29-14.39.20:612][878]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.39.20:632][879]MaterialEditorStats: Info Base pass shader with static lighting: 106 instructions
+[2017.03.29-14.39.20:633][879]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.29-14.39.20:633][879]MaterialEditorStats: Info Vertex shader: 26 instructions
+[2017.03.29-14.39.20:633][879]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.29-14.40.35:666][930]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.40.35:667][930]LogTemp:Display: Added material ShaderMap 0x000001A203383C80 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.40.35:712][930]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A203383C80
+[2017.03.29-14.40.35:713][930]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.40.35:784][930]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.40.35:785][930]LogTemp:Display: Added material ShaderMap 0x000001A261214480 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.40.35:849][930]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A261214480
+[2017.03.29-14.40.35:849][930]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.40.43:376][ 40]LogTemp:Display: Finished compile of shader map 0x000001A261214480
+[2017.03.29-14.40.43:376][ 40]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A261214480, marking material Snow3D as finished
+[2017.03.29-14.40.43:376][ 40]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.40.43:708][ 41]MaterialEditorStats: Info Base pass shader with static lighting: 106 instructions
+[2017.03.29-14.40.43:708][ 41]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.29-14.40.43:708][ 41]MaterialEditorStats: Info Vertex shader: 26 instructions
+[2017.03.29-14.40.43:708][ 41]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.29-14.41.04:750][421]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.41.04:751][421]LogTemp:Display: Added material ShaderMap 0x000001A24ECB7900 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.41.04:782][421]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A24ECB7900
+[2017.03.29-14.41.04:782][421]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.41.08:834][637]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.41.08:939][637]LogTemp:Display: Added material ShaderMap 0x000001A26CE36400 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.41.08:995][637]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A26CE36400
+[2017.03.29-14.41.08:995][637]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.41.09:092][640]LogTemp:Display: Finished compile of shader map 0x000001A24ECB7900
+[2017.03.29-14.41.09:092][640]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A24ECB7900, marking material Snow3D as finished
+[2017.03.29-14.41.09:092][640]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.41.19:744][  8]LogTemp:Display: Finished compile of shader map 0x000001A26CE36400
+[2017.03.29-14.41.19:744][  8]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A26CE36400, marking material Snow3D as finished
+[2017.03.29-14.41.19:744][  8]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.41.20:074][  9]MaterialEditorStats: Info Base pass shader with static lighting: 106 instructions
+[2017.03.29-14.41.20:075][  9]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.29-14.41.20:075][  9]MaterialEditorStats: Info Vertex shader: 28 instructions
+[2017.03.29-14.41.20:075][  9]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.29-14.42.06:149][360]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.42.06:154][360]LogTemp:Display: Added material ShaderMap 0x000001A2A802B200 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.42.06:201][360]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A2A802B200
+[2017.03.29-14.42.06:201][360]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.42.15:634][538]LogTemp:Display: Finished compile of shader map 0x000001A2A802B200
+[2017.03.29-14.42.15:634][538]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A2A802B200, marking material Snow3D as finished
+[2017.03.29-14.42.15:634][538]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.42.15:962][539]MaterialEditorStats: Info Base pass shader with static lighting: 106 instructions
+[2017.03.29-14.42.15:962][539]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.29-14.42.15:962][539]MaterialEditorStats: Info Vertex shader: 28 instructions
+[2017.03.29-14.42.15:962][539]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.29-14.42.27:947][925]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.42.27:948][925]LogTemp:Display: Added material ShaderMap 0x000001A2A8028B80 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.42.27:982][925]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A2A8028B80
+[2017.03.29-14.42.27:982][925]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.42.27:988][925]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.42.27:989][925]LogTemp:Display: Added material ShaderMap 0x000001A203381280 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.42.28:029][925]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A203381280
+[2017.03.29-14.42.28:029][925]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.42.32:057][143]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.42.32:059][143]LogTemp:Display: Added material ShaderMap 0x000001A27F16C800 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.42.32:112][143]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A27F16C800
+[2017.03.29-14.42.32:113][143]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.42.32:114][143]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2017.03.29-14.42.32:115][143]LogTemp:Display: Added material ShaderMap 0x000001A27EEE8F00 with Material 0x000001A224BA6E00 to ShaderMapsBeingCompiled
+[2017.03.29-14.42.32:119][143]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_2, GameThreadShaderMap 0x000001A27EEE8F00
+[2017.03.29-14.42.32:478][157]LogTemp:Display: Finished compile of shader map 0x000001A203381280
+[2017.03.29-14.42.32:478][157]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A203381280, marking material Snow3D as finished
+[2017.03.29-14.42.32:478][157]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.42.39:725][226]LogTemp:Display: Finished compile of shader map 0x000001A27F16C800
+[2017.03.29-14.42.39:725][226]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A27F16C800, marking material Snow3D as finished
+[2017.03.29-14.42.39:725][226]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.42.39:729][226]LogTemp:Display: Finished compile of shader map 0x000001A27EEE8F00
+[2017.03.29-14.42.39:730][226]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant3Vector_2 complete, GameThreadShaderMap 0x000001A27EEE8F00, marking material FMatExpressionPreview MaterialExpressionConstant3Vector_2 as finished
+[2017.03.29-14.42.39:730][226]LogTemp:Display: Marking material as finished 0x000001A224BA6E00
+[2017.03.29-14.42.40:050][227]MaterialEditorStats: Info Base pass shader with static lighting: 106 instructions
+[2017.03.29-14.42.40:050][227]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.29-14.42.40:050][227]MaterialEditorStats: Info Vertex shader: 28 instructions
+[2017.03.29-14.42.40:050][227]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.29-14.42.45:708][346]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.42.45:710][346]LogTemp:Display: Added material ShaderMap 0x000001A23197E780 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.42.45:752][346]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A23197E780
+[2017.03.29-14.42.45:753][346]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.42.45:783][346]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2017.03.29-14.42.45:785][346]LogTemp:Display: Added material ShaderMap 0x000001A27EF46780 with Material 0x000001A1E8F9EE00 to ShaderMapsBeingCompiled
+[2017.03.29-14.42.45:790][346]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_2, GameThreadShaderMap 0x000001A27EF46780
+[2017.03.29-14.42.47:180][418]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.42.47:181][418]LogTemp:Display: Added material ShaderMap 0x000001A27D508800 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.42.47:236][418]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A27D508800
+[2017.03.29-14.42.47:236][418]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.42.47:243][418]LogTemp:Display: Removed shader map 0x000001A27EF46780 from material 0x000001A1E8F9EE00
+[2017.03.29-14.42.47:267][418]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2017.03.29-14.42.47:269][418]LogTemp:Display: Added material ShaderMap 0x000001A27D38C800 with Material 0x000001A22C9A8100 to ShaderMapsBeingCompiled
+[2017.03.29-14.42.47:272][418]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_2, GameThreadShaderMap 0x000001A27D38C800
+[2017.03.29-14.42.47:787][441]LogTemp:Display: Finished compile of shader map 0x000001A23197E780
+[2017.03.29-14.42.47:787][441]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A23197E780, marking material Snow3D as finished
+[2017.03.29-14.42.47:787][441]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.42.50:108][571]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.42.50:109][571]LogTemp:Display: Added material ShaderMap 0x000001A27F29D600 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.42.50:164][571]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A27F29D600
+[2017.03.29-14.42.50:165][571]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.42.50:171][571]LogTemp:Display: Removed shader map 0x000001A27D38C800 from material 0x000001A22C9A8100
+[2017.03.29-14.42.50:195][571]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2017.03.29-14.42.50:196][571]LogTemp:Display: Added material ShaderMap 0x000001A2880F0F00 with Material 0x000001A273AECA00 to ShaderMapsBeingCompiled
+[2017.03.29-14.42.50:200][571]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_2, GameThreadShaderMap 0x000001A2880F0F00
+[2017.03.29-14.42.51:279][622]LogTemp:Display: Finished compile of shader map 0x000001A27D508800
+[2017.03.29-14.42.51:279][622]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A27D508800, marking material Snow3D as finished
+[2017.03.29-14.42.51:279][622]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.42.51:339][625]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.42.51:341][625]LogTemp:Display: Added material ShaderMap 0x000001A28808DD00 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.42.51:396][625]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A28808DD00
+[2017.03.29-14.42.51:396][625]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.42.51:398][625]LogTemp:Display: Removed shader map 0x000001A2880F0F00 from material 0x000001A273AECA00
+[2017.03.29-14.42.51:422][625]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2017.03.29-14.42.51:423][625]LogTemp:Display: Added material ShaderMap 0x000001A282A5A080 with Material 0x000001A22DE28A00 to ShaderMapsBeingCompiled
+[2017.03.29-14.42.51:427][625]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_2, GameThreadShaderMap 0x000001A282A5A080
+[2017.03.29-14.42.51:706][634]LogTemp:Display: Finished compile of shader map 0x000001A27F29D600
+[2017.03.29-14.42.51:706][634]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A27F29D600, marking material Snow3D as finished
+[2017.03.29-14.42.51:706][634]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.42.52:179][661]LogTemp:Display: Finished compile of shader map 0x000001A2880F0F00
+[2017.03.29-14.43.07:988][556]LogTemp:Display: Finished compile of shader map 0x000001A28808DD00
+[2017.03.29-14.43.07:988][556]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A28808DD00, marking material Snow3D as finished
+[2017.03.29-14.43.07:988][556]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.43.08:009][557]MaterialEditorStats: Info Base pass shader with static lighting: 106 instructions
+[2017.03.29-14.43.08:009][557]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.29-14.43.08:009][557]MaterialEditorStats: Info Vertex shader: 28 instructions
+[2017.03.29-14.43.08:009][557]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.29-14.43.09:147][621]LogTemp:Display: Finished compile of shader map 0x000001A282A5A080
+[2017.03.29-14.43.09:147][621]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant3Vector_2 complete, GameThreadShaderMap 0x000001A282A5A080, marking material FMatExpressionPreview MaterialExpressionConstant3Vector_2 as finished
+[2017.03.29-14.43.09:147][621]LogTemp:Display: Marking material as finished 0x000001A22DE28A00
+[2017.03.29-14.43.53:341][429]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.03.29-14.43.53:343][429]LogTemp:Display: Added material ShaderMap 0x000001A26CDD4480 with Material 0x000001A286A39000 to ShaderMapsBeingCompiled
+[2017.03.29-14.43.53:346][429]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_0, GameThreadShaderMap 0x000001A26CDD4480
+[2017.03.29-14.43.53:710][429]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_1, compiling. 
+[2017.03.29-14.43.53:712][429]LogTemp:Display: Added material ShaderMap 0x000001A27EE83580 with Material 0x000001A286A3BD00 to ShaderMapsBeingCompiled
+[2017.03.29-14.43.53:717][429]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionTextureObject_1, GameThreadShaderMap 0x000001A27EE83580
+[2017.03.29-14.43.53:720][429]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.03.29-14.43.53:721][429]LogTemp:Display: Added material ShaderMap 0x000001A27EE81D00 with Material 0x000001A26140CA00 to ShaderMapsBeingCompiled
+[2017.03.29-14.43.53:727][429]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_1, GameThreadShaderMap 0x000001A27EE81D00
+[2017.03.29-14.43.53:729][429]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2017.03.29-14.43.53:731][429]LogTemp:Display: Added material ShaderMap 0x000001A27EE80800 with Material 0x000001A26140FD00 to ShaderMapsBeingCompiled
+[2017.03.29-14.43.53:736][429]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_2, GameThreadShaderMap 0x000001A27EE80800
+[2017.03.29-14.43.54:870][485]LogTemp:Display: Finished compile of shader map 0x000001A26CDD4480
+[2017.03.29-14.43.54:870][485]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant3Vector_0 complete, GameThreadShaderMap 0x000001A26CDD4480, marking material FMatExpressionPreview MaterialExpressionConstant3Vector_0 as finished
+[2017.03.29-14.43.54:870][485]LogTemp:Display: Marking material as finished 0x000001A286A39000
+[2017.03.29-14.43.55:530][521]LogTemp:Display: Finished compile of shader map 0x000001A27EE83580
+[2017.03.29-14.43.55:530][521]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionTextureObject_1 complete, GameThreadShaderMap 0x000001A27EE83580, marking material FMatExpressionPreview MaterialExpressionTextureObject_1 as finished
+[2017.03.29-14.43.55:530][521]LogTemp:Display: Marking material as finished 0x000001A286A3BD00
+[2017.03.29-14.43.56:073][550]LogTemp:Display: Finished compile of shader map 0x000001A27EE81D00
+[2017.03.29-14.43.56:073][550]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant3Vector_1 complete, GameThreadShaderMap 0x000001A27EE81D00, marking material FMatExpressionPreview MaterialExpressionConstant3Vector_1 as finished
+[2017.03.29-14.43.56:073][550]LogTemp:Display: Marking material as finished 0x000001A26140CA00
+[2017.03.29-14.43.56:448][570]LogTemp:Display: Finished compile of shader map 0x000001A27EE80800
+[2017.03.29-14.43.56:448][570]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant3Vector_2 complete, GameThreadShaderMap 0x000001A27EE80800, marking material FMatExpressionPreview MaterialExpressionConstant3Vector_2 as finished
+[2017.03.29-14.43.56:448][570]LogTemp:Display: Marking material as finished 0x000001A26140FD00
+[2017.03.29-14.45.29:226][742]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.45.29:227][742]LogTemp:Display: Added material ShaderMap 0x000001A27F341980 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.45.29:265][742]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A27F341980
+[2017.03.29-14.45.29:266][742]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.45.29:293][742]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2017.03.29-14.45.29:294][742]LogTemp:Display: Added material ShaderMap 0x000001A27282F580 with Material 0x000001A20D717A00 to ShaderMapsBeingCompiled
+[2017.03.29-14.45.29:300][742]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_2, GameThreadShaderMap 0x000001A27282F580
+[2017.03.29-14.45.31:399][843]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.45.31:401][843]LogTemp:Display: Added material ShaderMap 0x000001A27282C480 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.45.31:456][843]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A27282C480
+[2017.03.29-14.45.31:456][843]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.45.31:463][843]LogTemp:Display: Removed shader map 0x000001A27282F580 from material 0x000001A20D717A00
+[2017.03.29-14.45.31:487][843]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2017.03.29-14.45.31:488][843]LogTemp:Display: Added material ShaderMap 0x000001A2884E9280 with Material 0x000001A2A6F9FA00 to ShaderMapsBeingCompiled
+[2017.03.29-14.45.31:492][843]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_2, GameThreadShaderMap 0x000001A2884E9280
+[2017.03.29-14.45.32:421][885]LogTemp:Display: Finished compile of shader map 0x000001A27F341980
+[2017.03.29-14.45.32:421][885]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A27F341980, marking material Snow3D as finished
+[2017.03.29-14.45.32:421][885]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.45.41:081][357]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.03.29-14.45.41:083][357]LogTemp:Display: Added material ShaderMap 0x000001A2883E5600 with Material 0x000001A286A31080 to ShaderMapsBeingCompiled
+[2017.03.29-14.45.41:088][357]LogTemp:Display: Kicking off shader compilation for PreviewMaterial_0, GameThreadShaderMap 0x000001A2883E5600
+[2017.03.29-14.45.41:088][357]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.45.41:095][357]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.45.41:097][357]LogTemp:Display: Added material ShaderMap 0x000001A2883E4100 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.45.41:148][357]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A2883E4100
+[2017.03.29-14.45.41:149][357]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.45.41:881][390]LogTemp:Display: Finished compile of shader map 0x000001A27282C480
+[2017.03.29-14.45.41:881][390]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A27282C480, marking material Snow3D as finished
+[2017.03.29-14.45.41:881][390]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.45.42:365][417]LogTemp:Display: Finished compile of shader map 0x000001A2884E9280
+[2017.03.29-14.45.42:365][417]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant3Vector_2 complete, GameThreadShaderMap 0x000001A2884E9280, marking material FMatExpressionPreview MaterialExpressionConstant3Vector_2 as finished
+[2017.03.29-14.45.42:365][417]LogTemp:Display: Marking material as finished 0x000001A2A6F9FA00
+[2017.03.29-14.45.42:860][444]LogTemp:Display: Finished compile of shader map 0x000001A2883E5600
+[2017.03.29-14.45.42:860][444]LogTemp:Display: Shader map PreviewMaterial_0 complete, GameThreadShaderMap 0x000001A2883E5600, marking material PreviewMaterial_0 as finished
+[2017.03.29-14.45.42:860][444]LogTemp:Display: Marking material as finished 0x000001A286A31080
+[2017.03.29-14.45.56:113][197]LogTemp:Display: Finished compile of shader map 0x000001A2883E4100
+[2017.03.29-14.45.56:113][197]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A2883E4100, marking material Snow3D as finished
+[2017.03.29-14.45.56:113][197]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.45.56:133][198]MaterialEditorStats: Info Base pass shader with static lighting: 106 instructions
+[2017.03.29-14.45.56:133][198]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.29-14.45.56:133][198]MaterialEditorStats: Info Vertex shader: 28 instructions
+[2017.03.29-14.45.56:133][198]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.29-14.45.56:361][210]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.45.56:362][210]LogTemp:Display: Added material ShaderMap 0x000001A27F29C800 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.45.56:392][210]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A27F29C800
+[2017.03.29-14.45.56:392][210]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.46.04:378][390]LogTemp:Display: Finished compile of shader map 0x000001A27F29C800
+[2017.03.29-14.46.04:378][390]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A27F29C800, marking material Snow3D as finished
+[2017.03.29-14.46.04:378][390]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.46.04:705][391]MaterialEditorStats: Info Base pass shader with static lighting: 106 instructions
+[2017.03.29-14.46.04:705][391]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.29-14.46.04:705][391]MaterialEditorStats: Info Vertex shader: 28 instructions
+[2017.03.29-14.46.04:705][391]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.29-14.46.30:440][185]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.46.30:441][185]LogTemp:Display: Added material ShaderMap 0x000001A214841280 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.46.30:470][185]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A214841280
+[2017.03.29-14.46.30:470][185]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.46.30:475][185]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.46.30:476][185]LogTemp:Display: Added material ShaderMap 0x000001A28808D980 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.46.30:505][185]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A28808D980
+[2017.03.29-14.46.30:505][185]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.46.30:532][185]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2017.03.29-14.46.30:533][185]LogTemp:Display: Added material ShaderMap 0x000001A2727E6080 with Material 0x000001A1CA4ECD00 to ShaderMapsBeingCompiled
+[2017.03.29-14.46.30:537][185]LogTemp:Display: Kicking off shader compilation for FMatExpressionPreview MaterialExpressionConstant3Vector_2, GameThreadShaderMap 0x000001A2727E6080
+[2017.03.29-14.46.34:929][414]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.46.34:931][414]LogTemp:Display: Added material ShaderMap 0x000001A288B48F00 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.46.34:986][414]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A288B48F00
+[2017.03.29-14.46.34:986][414]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.46.35:470][440]LogTemp:Display: Finished compile of shader map 0x000001A28808D980
+[2017.03.29-14.46.35:470][440]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A28808D980, marking material Snow3D as finished
+[2017.03.29-14.46.35:470][440]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.46.36:014][468]LogTemp:Display: Finished compile of shader map 0x000001A2727E6080
+[2017.03.29-14.46.36:014][468]LogTemp:Display: Shader map FMatExpressionPreview MaterialExpressionConstant3Vector_2 complete, GameThreadShaderMap 0x000001A2727E6080, marking material FMatExpressionPreview MaterialExpressionConstant3Vector_2 as finished
+[2017.03.29-14.46.36:014][468]LogTemp:Display: Marking material as finished 0x000001A1CA4ECD00
+[2017.03.29-14.46.44:058][640]LogTemp:Display: Finished compile of shader map 0x000001A288B48F00
+[2017.03.29-14.46.44:058][640]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A288B48F00, marking material Snow3D as finished
+[2017.03.29-14.46.44:058][640]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.46.44:382][641]MaterialEditorStats: Info Base pass shader with static lighting: 106 instructions
+[2017.03.29-14.46.44:382][641]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.29-14.46.44:382][641]MaterialEditorStats: Info Vertex shader: 28 instructions
+[2017.03.29-14.46.44:382][641]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.29-14.46.52:283][796]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.46.52:284][796]LogTemp:Display: Added material ShaderMap 0x000001A2726FB200 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.46.52:314][796]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A2726FB200
+[2017.03.29-14.46.52:315][796]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.46.56:323][ 11]LogMaterialEditor: Applying material Snow3D
+[2017.03.29-14.46.58:911][ 11]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.46.58:913][ 11]LogTemp:Display: Added material ShaderMap 0x000001A2887EA080 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.46.59:029][ 11]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A2887EA080
+[2017.03.29-14.46.59:030][ 11]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.46.59:051][ 11]LogTemp:Display: Removed shader map 0x000001A202B5A780 from material 0x000001A2A6ED6380
+[2017.03.29-14.46.59:074][ 11]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.46.59:076][ 11]LogTemp:Display: Added material ShaderMap 0x000001A28953D600 with Material 0x000001A2A6ED5780 to ShaderMapsBeingCompiled
+[2017.03.29-14.46.59:226][ 11]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A28953D600
+[2017.03.29-14.46.59:235][ 11]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.46.59:236][ 11]LogTemp:Display: Added material ShaderMap 0x000001A28A563580 with Material 0x000001A2A6ED5780 to ShaderMapsBeingCompiled
+[2017.03.29-14.46.59:333][ 11]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A28A563580
+[2017.03.29-14.46.59:340][ 11]LogMaterial: 0.01 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.46.59:679][ 11]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Snow3D, compiling. 
+[2017.03.29-14.46.59:681][ 11]LogTemp:Display: Added material ShaderMap 0x000001A2A7ABFC80 with Material 0x000001A22F853D00 to ShaderMapsBeingCompiled
+[2017.03.29-14.47.04:667][ 11]LogTemp:Display: Finished compile of shader map 0x000001A2A7ABFC80
+[2017.03.29-14.47.04:667][ 11]LogTemp:Display: Shader map FDebugViewModeMaterialProxy Snow3D complete, GameThreadShaderMap 0x000001A2A7ABFC80, marking material FDebugViewModeMaterialProxy Snow3D as finished
+[2017.03.29-14.47.04:667][ 11]LogTemp:Display: Marking material as finished 0x000001A22F853D00
+[2017.03.29-14.47.04:673][ 11]TextureStreamingBuild:Display: Compiling optional shaders took 5.005 seconds.
+[2017.03.29-14.47.04:770][ 11]LogTemp:Display: Finished compile of shader map 0x000001A2726FB200
+[2017.03.29-14.47.04:770][ 11]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A2726FB200, marking material Snow3D as finished
+[2017.03.29-14.47.04:770][ 11]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.47.04:794][ 11]LogTemp:Display: Finished compile of shader map 0x000001A2887EA080
+[2017.03.29-14.47.04:794][ 11]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A2887EA080, marking material Snow3D as finished
+[2017.03.29-14.47.04:794][ 11]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.47.25:915][867]LogTemp:Display: Finished compile of shader map 0x000001A28A563580
+[2017.03.29-14.47.25:915][867]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A28A563580, marking material Snow3D as finished
+[2017.03.29-14.47.25:915][867]LogTemp:Display: Marking material as finished 0x000001A2A6ED5780
+[2017.03.29-14.47.26:233][868]MaterialEditorStats: Info Base pass shader with static lighting: 106 instructions
+[2017.03.29-14.47.26:233][868]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.29-14.47.26:233][868]MaterialEditorStats: Info Vertex shader: 28 instructions
+[2017.03.29-14.47.26:233][868]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.29-14.47.49:699][723]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.038
+[2017.03.29-14.47.49:701][723]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Snow3D] ([1] browsable assets)...
+[2017.03.29-14.47.49:727][723]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/Snow3D.Snow3D]
+[2017.03.29-14.47.49:727][723]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Snow3D]
+[2017.03.29-14.47.49:727][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Snow3D" FILE="../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Textures/Snow3D_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2017.03.29-14.47.49:886][723]LogSavePackage: Save=60.93ms
+[2017.03.29-14.47.49:886][723]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/Snow3D_Auto8534337B14182523759E4A4A6E11258AB.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Textures/Snow3D_Auto8.uasset'
+[2017.03.29-14.47.49:887][723]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/Textures/Snow3D_Auto8.uasset
+[2017.03.29-14.47.49:887][723]LogFileHelpers: Auto-saving content packages took 0.188
+[2017.03.29-14.49.25:263][560]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.49.25:265][560]LogTemp:Display: Added material ShaderMap 0x000001A282AC9600 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.49.25:305][560]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A282AC9600
+[2017.03.29-14.49.25:315][560]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.49.25:318][560]LogTemp:Display: Added material ShaderMap 0x000001A273039980 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.49.25:388][560]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A273039980
+[2017.03.29-14.49.25:389][560]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.49.27:277][637]LogTemp:Display: Finished compile of shader map 0x000001A282AC9600
+[2017.03.29-14.49.27:277][637]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A282AC9600, marking material Snow3D as finished
+[2017.03.29-14.49.27:278][637]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.49.32:345][894]LogMaterialEditor: Applying material Snow3D
+[2017.03.29-14.49.33:434][894]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.49.33:436][894]LogTemp:Display: Added material ShaderMap 0x000001A288B49600 with Material 0x000001A1C1FC8400 to ShaderMapsBeingCompiled
+[2017.03.29-14.49.33:596][894]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A288B49600
+[2017.03.29-14.49.33:596][894]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.49.33:610][894]LogTemp:Display: Removed shader map 0x000001A28953D600 from material 0x000001A2A6ED5780
+[2017.03.29-14.49.33:632][894]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.49.33:634][894]LogTemp:Display: Added material ShaderMap 0x000001A2B7390F00 with Material 0x000001A286380280 to ShaderMapsBeingCompiled
+[2017.03.29-14.49.33:785][894]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A2B7390F00
+[2017.03.29-14.49.33:792][894]LogMaterial: Missing cached shader map for material Snow3D, compiling. 
+[2017.03.29-14.49.33:794][894]LogTemp:Display: Added material ShaderMap 0x000001A294C43580 with Material 0x000001A286380280 to ShaderMapsBeingCompiled
+[2017.03.29-14.49.33:893][894]LogTemp:Display: Kicking off shader compilation for Snow3D, GameThreadShaderMap 0x000001A294C43580
+[2017.03.29-14.49.33:896][894]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-14.49.33:969][894]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Snow3D, compiling. 
+[2017.03.29-14.49.33:971][894]LogTemp:Display: Added material ShaderMap 0x000001A29506FC80 with Material 0x000001A27CE9AE00 to ShaderMapsBeingCompiled
+[2017.03.29-14.49.39:291][894]LogTemp:Display: Finished compile of shader map 0x000001A29506FC80
+[2017.03.29-14.49.39:291][894]LogTemp:Display: Shader map FDebugViewModeMaterialProxy Snow3D complete, GameThreadShaderMap 0x000001A29506FC80, marking material FDebugViewModeMaterialProxy Snow3D as finished
+[2017.03.29-14.49.39:291][894]LogTemp:Display: Marking material as finished 0x000001A27CE9AE00
+[2017.03.29-14.49.39:296][894]TextureStreamingBuild:Display: Compiling optional shaders took 5.339 seconds.
+[2017.03.29-14.49.39:363][894]LogTemp:Display: Finished compile of shader map 0x000001A273039980
+[2017.03.29-14.49.39:363][894]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A273039980, marking material Snow3D as finished
+[2017.03.29-14.49.39:363][894]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.49.39:635][899]LogTemp:Display: Finished compile of shader map 0x000001A288B49600
+[2017.03.29-14.49.39:635][899]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A288B49600, marking material Snow3D as finished
+[2017.03.29-14.49.39:635][899]LogTemp:Display: Marking material as finished 0x000001A1C1FC8400
+[2017.03.29-14.50.00:415][836]LogTemp:Display: Finished compile of shader map 0x000001A294C43580
+[2017.03.29-14.50.00:415][836]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001A294C43580, marking material Snow3D as finished
+[2017.03.29-14.50.00:415][836]LogTemp:Display: Marking material as finished 0x000001A286380280
+[2017.03.29-14.50.00:439][837]MaterialEditorStats: Info Base pass shader with static lighting: 106 instructions
+[2017.03.29-14.50.00:439][837]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
+[2017.03.29-14.50.00:439][837]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.03.29-14.50.00:439][837]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.29-14.50.33:836][767]LogMaterialEditor: Saving and Compiling material Snow3D
+[2017.03.29-14.50.33:895][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Snow3D" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Snow3D.uasset" SILENT=true
+[2017.03.29-14.50.33:920][767]LogSavePackage: Save=20.44ms
+[2017.03.29-14.50.33:920][767]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/Snow3DF2EFFAD24EEAC04F7B0DC1868DD8B998.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Snow3D.uasset'
+[2017.03.29-14.50.33:924][767]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Snow3D.uasset
