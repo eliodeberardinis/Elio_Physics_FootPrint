@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<CrashGUID>UE4CC-Windows-63FC638A40AD2973BD189BA3C1FF2288_0000</CrashGUID>
+		<ProcessId>8380</ProcessId>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<IsEnsure>false</IsEnsure>
+		<IsAssert>true</IsAssert>
+		<CrashType>Assert</CrashType>
+		<SecondsSinceStart>187743</SecondsSinceStart>
+		<GameName>UE4-Footprints</GameName>
+		<ExecutableName>UE4Editor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>Windows</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Editor</EngineMode>
+		<EngineModeEx>Vanilla</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>4.15.1-3348071+++UE4+Release-4.15</EngineVersion>
+		<CommandLine>&quot;E:/Elio_Physics_FootPrint/Footprints/Footprints.uproject&quot;-EpicPortal</CommandLine>
+		<LanguageLCID>18441</LanguageLCID>
+		<AppDefaultLocale>en_SG</AppDefaultLocale>
+		<BuildVersion>++UE4+Release-4.15-CL-3348071</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<UserName>Elio</UserName>
+		<BaseDir>E:/UE_4.15/Engine/Binaries/Win64/</BaseDir>
+		<RootDir>E:/UE_4.15/</RootDir>
+		<MachineId>B79D2F0F4E30B75D8A696A887DF641E7</MachineId>
+		<LoginId>b79d2f0f4e30b75d8a696a887df641e7</LoginId>
+		<EpicAccountId>69b0f15eb689440b8c1d4c17449e915e</EpicAccountId>
+		<CallStack />
+		<SourceContext />
+		<UserDescription />
+		<UserActivityHint>Layout=&quot;MaterialEditor_Preview&quot; Label=&quot;Viewport&quot; Content=SOverlay</UserActivityHint>
+		<ErrorMessage>Fatal error: [File:D:\Build\++UE4+Release-4.15+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 176] &nl;Unreal Engine is exiting due to D3D device being lost. (Error: 0x887A0007 - &apos;RESET&apos;)&nl;</ErrorMessage>
+		<CrashDumpMode>0</CrashDumpMode>
+		<CrashReporterMessage />
+		<Misc.NumberOfCores>2</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>4</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>Intel(R) HD Graphics 5500</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 10</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<MemoryStats.TotalPhysical>8487608320</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>65536</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>8</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>1290633216</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>140730434924544</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>1249292288</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>2915717120</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>5334110208</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>5465427968</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<TimeOfCrash>636264832905950000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 10  64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+</FGenericCrashContext>
