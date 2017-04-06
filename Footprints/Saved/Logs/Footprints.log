@@ -2612,3 +2612,138 @@ LogInit: Object subsystem initialized
 [2017.03.31-16.38.01:671][746]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 80 instructions
 [2017.03.31-16.38.01:671][746]MaterialEditorStats: Info Vertex shader: 29 instructions
 [2017.03.31-16.38.01:671][746]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.31-16.38.46:301][880]LogTemp:Display: Finished compile of shader map 0x000001AAC0E08B80
+[2017.03.31-16.38.46:301][880]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001AAC0E08B80, marking material Snow3D as finished
+[2017.03.31-16.38.46:301][880]LogTemp:Display: Marking material as finished 0x000001AA42A5E980
+[2017.03.31-16.38.53:293][901]LogTemp:Display: Finished compile of shader map 0x000001AADFFABC80
+[2017.03.31-16.38.53:293][901]LogTemp:Display: Shader map Snow3D complete, GameThreadShaderMap 0x000001AADFFABC80, marking material Snow3D as finished
+[2017.03.31-16.38.53:293][901]LogTemp:Display: Marking material as finished 0x000001AA42A5D780
+[2017.04.02-15.47.30:296][938]LogHttp:Warning: 000001AA4D1AD300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.04.02-15.47.30:296][938]LogHttp:Warning: 000001AA4D1AD300: libcurl info message cache 0 (Connection 62 seems to be dead!)
+[2017.04.02-15.47.30:297][938]LogHttp:Warning: 000001AA4D1AD300: libcurl info message cache 1 (Closing connection 62)
+[2017.04.02-15.47.30:297][938]LogHttp:Warning: 000001AA4D1AD300: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.04.02-15.47.30:297][938]LogHttp:Warning: 000001AA4D1AD300: libcurl info message cache 3 (Closing connection 63)
+[2017.04.02-23.02.35:807][624]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.04.04-08.51.36:510][177]LogHttp:Warning: 000001AA85FC7700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.04.04-08.51.36:541][177]LogHttp:Warning: 000001AA85FC7700: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1aa49122f80 [can pipeline])
+[2017.04.04-08.51.36:541][177]LogHttp:Warning: 000001AA85FC7700: libcurl info message cache 1 (Re-using existing connection! (#131) with host datarouter.ol.epicgames.com)
+[2017.04.04-08.51.36:541][177]LogHttp:Warning: 000001AA85FC7700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.192.111.22) port 443 (#131))
+[2017.04.04-08.51.36:541][177]LogHttp:Warning: 000001AA85FC7700: libcurl info message cache 3 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2017.04.04-08.51.36:543][177]LogHttp:Warning: 000001AA85FC7700: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2017.04.04-08.51.36:543][177]LogHttp:Warning: 000001AA85FC7700: libcurl info message cache 5 (Closing connection 131)
+[2017.04.04-08.51.36:543][177]LogHttp:Warning: 000001AA85FC7700: libcurl info message cache 6 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7A068D38-42A7-F29C-B125-67BA4FD64848%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.15.1-3348071%2B%2B%2BUE4%2BRelease-4.15&UserID=b79d2f0f4e30b75d8a696a887df641e7%7C69b0f15eb689440b8c1d4c17449e915e%7Caded47d9-c70c-40a3-a62c-4b4e243513f5&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2017.04.04-08.51.36:543][177]LogHttp:Warning: 000001AA85FC7700: libcurl info message cache 7 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.04.04-08.51.36:543][177]LogHttp:Warning: 000001AA85FC7700: libcurl info message cache 8 (Closing connection 132)
+[2017.04.04-11.14.01:907][595]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.04.04-16.58.44:056][663]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.04.04-16.58.44:056][663]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.04.04-21.39.37:890][431]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.04.04-21.39.37:964][431]LogHttp:Warning: 000001AA85FC5480: request failed, libcurl error: 28 (Timeout was reached)
+[2017.04.04-21.39.37:964][431]LogHttp:Warning: 000001AA85FC5480: libcurl info message cache 0 (Connection 147 seems to be dead!)
+[2017.04.04-21.39.37:964][431]LogHttp:Warning: 000001AA85FC5480: libcurl info message cache 1 (Closing connection 147)
+[2017.04.04-21.39.37:964][431]LogHttp:Warning: 000001AA85FC5480: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.04.04-21.39.37:964][431]LogHttp:Warning: 000001AA85FC5480: libcurl info message cache 3 (Resolving timed out after 13197547 milliseconds)
+[2017.04.04-21.39.37:964][431]LogHttp:Warning: 000001AA85FC5480: libcurl info message cache 4 (Closing connection 148)
+[2017.04.05-09.02.07:227][669]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.04.06-11.18.24:223][106]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.06-11.18.25:715][106]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.06-11.18.26:071][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.06-11.18.26:457][106]PIE: New page: PIE session: ThirdPersonExampleMap (6 Apr 2017 1:18:26 pm)
+[2017.04.06-11.18.26:884][106]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.04.06-11.18.34:553][106]LogPlayLevel: PIE: StaticDuplicateObject took: (7.556934s)
+[2017.04.06-11.18.35:687][106]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.04.06-11.18.36:169][106]LogPlayLevel: PIE: World Init took: (1.593301s)
+[2017.04.06-11.18.36:261][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (9.436923s)
+[2017.04.06-11.18.39:638][106]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.06-11.18.39:722][106]LogInit: FAudioDevice initialized.
+[2017.04.06-11.18.40:710][106]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.04.06-11.18.42:505][106]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.04.06-12.18.42
+[2017.04.06-11.18.42:611][106]LogWorld: Bringing up level for play took: 1.645620
+[2017.04.06-11.18.43:364][106]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 18.633
+[2017.04.06-11.18.43:751][106]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.06-11.18.48:537][107]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.04.06-11.19.23:857][907]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.06-11.19.30:438][907]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.06-11.19.34:187][982]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.06-11.19.34:200][982]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.06-11.19.34:200][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.06-11.19.34:200][982]PIE: New page: PIE session: ThirdPersonExampleMap (6 Apr 2017 1:19:34 pm)
+[2017.04.06-11.19.34:200][982]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.04.06-11.19.34:301][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101537s)
+[2017.04.06-11.19.34:302][982]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.04.06-11.19.34:312][982]LogPlayLevel: PIE: World Init took: (0.010876s)
+[2017.04.06-11.19.34:313][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.112728s)
+[2017.04.06-11.19.34:409][982]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.06-11.19.34:425][982]LogInit: FAudioDevice initialized.
+[2017.04.06-11.19.34:460][982]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.04.06-11.19.34:472][982]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.04.06-12.19.34
+[2017.04.06-11.19.34:473][982]LogWorld: Bringing up level for play took: 0.012233
+[2017.04.06-11.19.34:489][982]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.22
+[2017.04.06-11.19.34:490][982]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.06-11.19.35:663][ 36]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.06-11.19.35:821][ 36]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.06-11.20.54:925][800]LogMaterialEditor: Saving and Compiling material Snow3D
+[2017.04.06-11.20.55:655][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Snow3D" FILE="../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Snow3D.uasset" SILENT=true
+[2017.04.06-11.20.56:340][800]LogSavePackage: Save=411.69ms
+[2017.04.06-11.20.56:340][800]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/Snow3D953198C14FD89E830A77B7927F9555A6.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Snow3D.uasset'
+[2017.04.06-11.20.56:394][800]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/Textures/Snow3D.uasset
+[2017.04.06-11.29.56:897][670]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.062
+[2017.04.06-11.29.57:059][670]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.04.06-11.29.57:415][670]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.04.06-11.29.57:415][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2017.04.06-11.29.58:971][670]LogSavePackage: Save=1453.72ms
+[2017.04.06-11.29.58:971][670]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonCharacter_Auto0C8A51773455471F9A15653A63FB6451C.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto0.uasset'
+[2017.04.06-11.29.59:000][670]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto0.uasset
+[2017.04.06-11.29.59:000][670]LogFileHelpers: Auto-saving content packages took 2.103
+[2017.04.06-11.30.56:372][740]LogSavePackage: Save=273.12ms
+[2017.04.06-11.30.56:372][740]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonCharacter9A1545AD48282AAA22FB638EF17141D5.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.04.06-11.30.56:385][740]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.04.06-11.34.59:533][519]LogSavePackage: Save=279.04ms
+[2017.04.06-11.34.59:533][519]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonCharacter0C9EF2754C74C0330ECC82B6BB4D2C56.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.04.06-11.34.59:536][519]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.04.06-11.35.24:752][ 16]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.04.06-11.35.26:073][ 16]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.26:074][ 16]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.26:074][ 16]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.26:074][ 16]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.26:074][ 16]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.26:074][ 16]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.26:074][ 16]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.26:074][ 16]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.26:074][ 16]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.26:075][ 16]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.26:075][ 16]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.26:075][ 16]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.26:075][ 16]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.26:075][ 16]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.26:075][ 16]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.26:076][ 16]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.26:076][ 16]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.26:076][ 16]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.26:076][ 16]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.26:076][ 16]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:091][ 16]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:091][ 16]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:092][ 16]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:092][ 16]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:092][ 16]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:092][ 16]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:092][ 16]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:092][ 16]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:092][ 16]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:092][ 16]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:092][ 16]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:092][ 16]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:092][ 16]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:092][ 16]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:092][ 16]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:092][ 16]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:092][ 16]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:093][ 16]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:093][ 16]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:093][ 16]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.04.06-11.35.32:272][ 16]LogBlueprint:Warning: [Compiler ThirdPersonCharacter] Warning [1324.60] Compile of ThirdPersonCharacter failed. 20 Fatal Issue(s) 0 Warning(s) [in 7,453 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.04.06-11.40.57:110][230]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.04.06-11.41.02:801][408]LogSavePackage: Save=233.99ms
+[2017.04.06-11.41.02:801][408]LogSavePackage: Moving '../../../../Elio_Physics_FootPrint/Footprints/Saved/ThirdPersonCharacterD4E8F81D4AAF8A08C965C3805629C064.tmp' to '../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.04.06-11.41.02:805][408]LogSavePackage:Display: Finished SavePackage ../../../../Elio_Physics_FootPrint/Footprints/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
