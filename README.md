@@ -8,14 +8,14 @@ This project also contains a method to create 3D footprints on Snow or other gra
 In order to detect the right moment and position to place the footprints I created some Notifies on some of the character's animations. These Notifies trigger events in the character's blueprint calling the FootPrints Engine.
 On the Character's model 2 arrow components on the feet describe the correct orientation of the prints on the floor.
 
-![Alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/1_AnimBP.PNG?raw=true"Screen 1")
+![alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/1_AnimBP.PNG "Screen 1")
 
 ## Materials, Surfaces, Textures
 
 Three different materials (Snow, Grass, Wood) were created as basic textures and applied to user-defined surfaces and applied to 3 different terrains in the scene.
 The footprint itself was created as a decal material with the properties seen in the picture below:
 
-![Alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/2_FootPrintMat.PNG?raw=true"Screen 2")
+![alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/2_FootPrintMat.PNG "Screen 2")
 
 ## Character BluePrint and FootPrints Function
 
