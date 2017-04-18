@@ -24,37 +24,37 @@ These functions create the footprints based on the character's previous path whi
 The pictures below show these mechanic for the snow material.
  
 
-![Alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/3_FootPrintEngine.PNG?raw=true"Screen 3")
+![alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/3_FootPrintEngine.PNG "Screen 3")
 
-![Alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/4_FootPrintsFunction.PNG?raw=true"Screen 4")
+![alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/4_FootPrintsFunction.PNG "Screen 4")
 
-![Alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/5_FootPrintsMechanicCall.PNG?raw=true"Screen 5")
+![alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/5_FootPrintsMechanicCall.PNG "Screen 5")
 
-![Alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/6_FootPrintsMechanic.PNG?raw=true"Screen 6")
+![alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/6_FootPrintsMechanic.PNG "Screen 6")
 
 
 The results are shown in the picture below. Perlin noise was added in the footprint rendering method to obtain a more unique and realistic effect for each footprint which are all different in result:
 
-![Alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/7_GamePlayPNG.PNG?raw=true"Screen 7")
+![alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/7_GamePlayPNG.PNG "Screen 7")
 
 ## 3D Footprints on Tesselated Material and Mesh Deformation
 
 This part of the project was experimental and not included in the group project. It mainly involved the creation of a tesselated material for snow in order to imprint a 3D deformation and give the prints a more realistic look on soft/fluffy material like snow or loose sand.
 The first step involved the modification of the snow material to create a tesselated version of it:
 
-![Alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/8_TesselatedSnow.PNG?raw=true"Screen 8")
+![alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/8_TesselatedSnow.PNG "Screen 8")
 
 The FootPrints function was also modified to create 20 unique 3D footprints instances present at the same time on the material with different degrees of deformation. The material instance is now the modifed snow material composed of 2 different decals (Specular and opaque) both concurring to give the prints a 3D look.
 The modified footprint function is shown below:
 
 
-![Alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/9_FootPrintModified.PNG?raw=true"Screen 9")
+![alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/9_FootPrintModified.PNG "Screen 9")
 
 The results of this are shown below:
 
-![Alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/10_FootPrint3D1.PNG?raw=true"Screen 10")
+![alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/10_FootPrint3D1.PNG "Screen 10")
 
-![Alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/11_FootPrint3D2.PNG?raw=true"Screen 11")
+![alt text](https://github.com/eliodeberardinis/Elio_Physics_FootPrint/blob/master/Physiscs_Report_Pics/11_FootPrint3D2.PNG "Screen 11")
 
 ## Future work
 
