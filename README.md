@@ -1,6 +1,6 @@
 # Unreal FootPrint Engine (Physiscs)
 
-This Engine has been developed as a separate project in Unreal and then Migrated as a tool into the group project "Fission" as a mechanism to show 2D footprints as Players traverse different materials (Snow, Grass, Mud). More work/commits are present in the group project repos in order to optimize the engine for that project.
+This Engine has been developed as a separate project in Unreal and then Migrated as a tool into the group project "Fission" ( https://github.com/LukeSanderson18/Fission  and  https://github.com/eliodeberardinis/FissionClean ) as a mechanism to show 2D footprints as Players traverse different materials (Snow, Grass, Mud). More work/commits are present in the group project repos in order to optimize the engine for that project.
 This project also contains a method to create 3D footprints on Snow or other granular material. This is present on a separate branch called "3D_Snow_FootPrint_Try". (Not included in the group project).
 
 ## Animation CallBacks
